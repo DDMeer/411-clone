@@ -6,8 +6,7 @@ In daily life, the recommendation service of takeaway software is usually ranked
     Usage description: Provide takeaway restaurant recommendation service for people who live or travel in Chicago, and let users discover other users who have similar preferences with them.    
     The difference: Similar applications usually rank restaurants with the weights set by the website, while ignoring the needs of users themselves, that is, people with different preferences should rank restaurants differently.  
 5. Realness: 
-    The information of restaurants in the Chicago is extracted from the public database provided by yelp to ensure the validity of the information.
-    
+    The information of restaurants in the Chicago is extracted from the public database provided by yelp to ensure the validity of the information. 
 6. Description of the functionalities:
     1. Describe what data is stored in the database.
     For the business itself, it include the basic information, such as name, address, city, state, postal code, star rating, open hours and so on. 
