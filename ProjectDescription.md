@@ -21,6 +21,6 @@ In daily life, the recommendation service of takeaway software is usually ranked
     Users can search for their favorite restaurants through the search bar. Each restaurant has different dishes. Users can click on the dishes they want to get product pictures. Users can also write their own evaluations of dishes and score them. Users can also fill in their own preferences, and the system will help you select restaurants that meet your tastes.
     3. What would be a good creative component (function) that can improve the functionality of your application?
     Users can make classification requirements according to their different tastes and requirements, and the website will screen out restaurants suitable for users according to their choices. The website can also recommend suitable restaurants and people with the same tastes to users according to their daily choices.
-    
+    4. ![image](https://user-images.githubusercontent.com/90111545/132966054-610ee8d8-4b4d-48c9-8da0-90e98fa1bbd2.png)
 7. Project work distribution:
 Chang Li will focus on data mining and prepossessing part. He will collect the dataset from website. Then he will explore those data to filter useful information. Yingjie Zhao is mainly responsible for recommend system and machine learning part. He will apply recommend system algorithm to filter relative restaurants based on user’s query. Tengjun Jin will develop database. He will make database work efficiently and safely. Yunjia Zhang responsible for front-end design and connection with the database.
