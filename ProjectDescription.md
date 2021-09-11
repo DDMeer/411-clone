@@ -12,7 +12,6 @@ In daily life, the recommendation service of takeaway software is usually ranked
     For the business itself, it include the basic information, such as name, address, city, state, postal code, star rating, open hours and so on. 
     For the users, it include the user id, user name, friends, business id, review text, rating star
     For the dishes, it include the name, category and pictures
-    
     2. What are the basic functions of your web application?
     Users can search for their favorite restaurants through the search bar. Each restaurant has different dishes. Users can click on the dishes they want to get product pictures. Users can also write their own evaluations of dishes and score them. Users can also fill in their own preferences, and the system will help you select restaurants that meet your tastes.
     3. What would be a good creative component (function) that can improve the functionality of your application?
