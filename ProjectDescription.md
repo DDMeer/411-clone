@@ -1,12 +1,17 @@
 1.Project Name: Chicago Takeaway Recommendation  
+   
 2. Project summary: Provide help to people who are not familiar with Chicago restaurants. By setting different preferences for different types of restaurants, dining times, and locations, users can set different weights for preferences to provide personalized recommendation services. And you can make new friends by searching for users who have the same preferences as you on this website.    
+
 3. Detailed description of the project:  
 In daily life, the recommendation service of takeaway software is usually ranked according to the weight provided by the website, but different people have different views on the waiting time and location. That is to say, a restaurant that needs to wait a long time but the dishes are delicious in the eyes of one person, it may not be worth choosing, but in the eyes of another person, it is very worth looking forward to. This project is to avoid website misrecommendations that make users miss out on restaurants that suit them.  
+
 4. Uses:  
     Usage description: Provide takeaway restaurant recommendation service for people who live or travel in Chicago, and let users discover other users who have similar preferences with them.    
     The difference: Similar applications usually rank restaurants with the weights set by the website, while ignoring the needs of users themselves, that is, people with different preferences should rank restaurants differently.  
+
 5. Realness: 
     The information of restaurants in the Chicago is extracted from the public database provided by yelp to ensure the validity of the information. 
+
 6. Description of the functionalities:
     1. Describe what data is stored in the database.
     For the business itself, it include the basic information, such as name, address, city, state, postal code, star rating, open hours and so on. 
