@@ -6,7 +6,7 @@ Members:<br>
   Chang Li(changli9@illinois.edu)<br>
   Yingjie Zhao(yz82@illinois.edu)<br>
 Captain: Yingjie Zhao <br>
-project title:404 not found
+project title: Chicago Takeaway Recommendation
 
 Project summary
 ================================
