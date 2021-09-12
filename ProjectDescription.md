@@ -12,7 +12,7 @@ After the user registers an account on the website, he needs to fill in the info
     The difference: Similar applications usually rank restaurants with the weights set by the website, while ignoring the needs of users themselves, that is, people with different preferences should rank restaurants differently.Moreover, many websites that provide restaurant reviews ignore the social functions of the website. By providing opportunities for further communication with people with similar hobbies, the attractiveness of the website can be improved.  
 
 5. Realness: 
-    The information of restaurants in the Chicago is extracted from the public database provided by yelp to ensure the validity of the information. 
+    The information of restaurants in the Chicago is extracted from the public database provided by yelp to ensure the validity of the information. Yelp is the biggest local business review and social networking site. Most restaurants will publish their informations in Yelp website so that it can attract more customers. Customer can write their review based on their experience. Now, there are more than 200 million reviews and more than 40 million unique visitors in their website.
 
 6. Description of the functionalities:
     1. Describe what data is stored in the database.
