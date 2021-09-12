@@ -27,6 +27,8 @@ After the user registers an account on the website, he needs to fill in the info
     3. What would be a good creative component (function) that can improve the functionality of your application?
     Users can make classification requirements according to their different tastes and requirements, and the website will screen out restaurants suitable for users according to their choices. The website can also recommend suitable restaurants and people with the same tastes to users according to their daily choices.
     4. ![image](https://user-images.githubusercontent.com/90111545/132971485-d24a1857-6644-4fb7-88dd-3d75b72b11c8.png)
+       ![img2](https://user-images.githubusercontent.com/43330557/132972405-cf324b28-07ee-42a6-9706-f5f1b6e4c1f3.jpg)
+       ![img3](https://user-images.githubusercontent.com/43330557/132972412-7bad0dce-e229-4823-bc0a-cac8b1de8572.jpg)
 
 
 7. Project work distribution:  
