@@ -9,7 +9,7 @@ For people who have the same taste preferences and preferences for choosing rest
 4. Uses:  
     Usage description: This website provides takeaway restaurant recommendation services for people who live or travel in Chicago, allowing users to define the weights of different aspects of their own restaurants, so as to better match user preferences.
 After the user registers an account on the website, he needs to fill in the information in his account. The information that must be filled contains the user’s preferences for various aspects of the restaurant and other data. The user can choose to fill in his social account information, such as facebook and ins, etc., in the user If you are willing, you can choose to make your personal information public and match it with other users, so that you can find users with similar preferences and make more friends.   
-    The difference: Similar applications usually rank restaurants with the weights set by the website, while ignoring the needs of users themselves, that is, people with different preferences should rank restaurants differently.  
+    The difference: Similar applications usually rank restaurants with the weights set by the website, while ignoring the needs of users themselves, that is, people with different preferences should rank restaurants differently.Moreover, many websites that provide restaurant reviews ignore the social functions of the website. By providing opportunities for further communication with people with similar hobbies, the attractiveness of the website can be improved.  
 
 5. Realness: 
     The information of restaurants in the Chicago is extracted from the public database provided by yelp to ensure the validity of the information. 
