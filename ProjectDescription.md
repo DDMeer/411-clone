@@ -12,13 +12,14 @@ After the user registers an account on the website, he needs to fill in the info
     The difference: Similar applications usually rank restaurants with the weights set by the website, while ignoring the needs of users themselves, that is, people with different preferences should rank restaurants differently.Moreover, many websites that provide restaurant reviews ignore the social functions of the website. By providing opportunities for further communication with people with similar hobbies, the attractiveness of the website can be improved.  
 
 5. Realness: 
-    The information of restaurants in the Chicago is extracted from the public database provided by yelp to ensure the validity of the information. Yelp is the biggest local business review and social networking site. Most restaurants will publish their informations in Yelp website so that it can attract more customers. Customer can write their review based on their experience. Now, there are more than 200 million reviews and more than 40 million unique visitors in their website.The raw dataset will contain lots of unuseful information. We will explore the dataset and desing an algorithm to preprocess the data so that we can filter useful information.
+    The information of restaurants in the Chicago is extracted from the public database provided by yelp to ensure the validity of the information. Yelp is the biggest local business review and social networking site. Most restaurants will publish their informations in Yelp website so that it can attract more customers. Customer can write their review based on their experience.  
+    Now, there are more than 200 million reviews and more than 40 million unique visitors in their website.The raw dataset will contain lots of unuseful information. We will explore the dataset and desing an algorithm to preprocess the data so that we can filter useful information.
 
 6. Description of the functionalities:
     1. Describe what data is stored in the database.
     For the business itself, it include the basic information, such as name, address, city, state, postal code, star rating, open hours and so on. 
-    For the users, it include the user id, user name, friends, business id, review text, rating star
-    For the dishes, it include the name, category and pictures
+    For the users, it include the user id, user name, friends, business id, review text, rating star.
+    For the dishes, it include the name, category and pictures.
     2. What are the basic functions of your web application?
     Users can search for their favorite restaurants through the search bar. Each restaurant has different dishes. Users can click on the dishes they want to get product pictures. Users can also write their own evaluations of dishes and score them. Users can also fill in their own preferences, and the system will help you select restaurants that meet your tastes.
     3. What would be a good creative component (function) that can improve the functionality of your application?
