@@ -4,6 +4,7 @@
 
 3. Detailed description of the project:  
 In daily life, the recommendation service of takeaway software is usually ranked according to the weight provided by the website, but different people have different views on the waiting time and location. That is to say, a restaurant that needs to wait a long time but the dishes are delicious in the eyes of one person, it may not be worth choosing, but in the eyes of another person, it is very worth looking forward to. This project is to avoid website misrecommendations that make users miss out on restaurants that suit them.  
+For people who have the same taste preferences and preferences for choosing restaurants, they are likely to have similar interests and hobbies, which is also one of the prerequisites for two people to become friends. This website matches the relevant information of registered users. If users wish, they can provide their own social account informationn. This allows many people with similar interests and hobbies to get to know each other and become friends, especially when some people feel lonely when enjoying food alone. When you are lonely, this website can solve this problem well.  
 
 4. Uses:  
     Usage description: Provide takeaway restaurant recommendation service for people who live or travel in Chicago, and let users discover other users who have similar preferences with them.    
