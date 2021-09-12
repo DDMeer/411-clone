@@ -23,7 +23,7 @@ After the user registers an account on the website, he needs to fill in the info
     Users can search for their favorite restaurants through the search bar. Each restaurant has different dishes. Users can click on the dishes they want to get product pictures. Users can also write their own evaluations of dishes and score them. Users can also fill in their own preferences, and the system will help you select restaurants that meet your tastes.
     3. What would be a good creative component (function) that can improve the functionality of your application?
     Users can make classification requirements according to their different tastes and requirements, and the website will screen out restaurants suitable for users according to their choices. The website can also recommend suitable restaurants and people with the same tastes to users according to their daily choices.
-    4.![image](https://user-images.githubusercontent.com/90111545/132971467-1c463e50-c4ad-463f-942c-c095ea0ff1ca.png)
+    4. [image](https://user-images.githubusercontent.com/90111545/132971467-1c463e50-c4ad-463f-942c-c095ea0ff1ca.png)
 
 7. Project work distribution:
 Yingjie Zhao is mainly responsible for recommend system and machine learning part. She will apply recommend system algorithm to filter relative restaurants based on user’s query. In addition, as a captain, she will coordinate everyone’s work and make sure everyone finish their part on time.
