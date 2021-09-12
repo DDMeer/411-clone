@@ -7,7 +7,8 @@ In daily life, the recommendation service of takeaway software is usually ranked
 For people who have the same taste preferences and preferences for choosing restaurants, they are likely to have similar interests and hobbies, which is also one of the prerequisites for two people to become friends. This website matches the relevant information of registered users. If users wish, they can provide their own social account informationn. This allows many people with similar interests and hobbies to get to know each other and become friends, especially when some people feel lonely when enjoying food alone. When you are lonely, this website can solve this problem well.  
 
 4. Uses:  
-    Usage description: Provide takeaway restaurant recommendation service for people who live or travel in Chicago, and let users discover other users who have similar preferences with them.    
+    Usage description: This website provides takeaway restaurant recommendation services for people who live or travel in Chicago, allowing users to define the weights of different aspects of their own restaurants, so as to better match user preferences.
+After the user registers an account on the website, he needs to fill in the information in his account. The information that must be filled contains the user’s preferences for various aspects of the restaurant and other data. The user can choose to fill in his social account information, such as facebook and ins, etc., in the user If you are willing, you can choose to make your personal information public and match it with other users, so that you can find users with similar preferences and make more friends.   
     The difference: Similar applications usually rank restaurants with the weights set by the website, while ignoring the needs of users themselves, that is, people with different preferences should rank restaurants differently.  
 
 5. Realness: 
