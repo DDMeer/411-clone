@@ -1,4 +1,5 @@
-1. Project Name: Chicago Restaurant Recommendation  
+1. Project Name:  
+Chicago Restaurant Recommendation  
    
 2. Project summary:  
 Provide help to people who are not familiar with Chicago restaurants. By setting different preferences for different types of restaurants, dining times, and locations, users can set different weights for preferences to provide personalized recommendation services. And you can make new friends by searching for users who have the same preferences as you on this website.    
