@@ -12,7 +12,7 @@ After the user registers an account on the website, he needs to fill in the info
     The difference: Similar applications usually rank restaurants with the weights set by the website, while ignoring the needs of users themselves, that is, people with different preferences should rank restaurants differently.Moreover, many websites that provide restaurant reviews ignore the social functions of the website. By providing opportunities for further communication with people with similar hobbies, the attractiveness of the website can be improved.  
 
 5. Realness: 
-    The information of restaurants in the Chicago is extracted from the public database provided by yelp to ensure the validity of the information. Yelp is the biggest local business review and social networking site. Most restaurants will publish their informations in Yelp website so that it can attract more customers. Customer can write their review based on their experience. Now, there are more than 200 million reviews and more than 40 million unique visitors in their website.
+    The information of restaurants in the Chicago is extracted from the public database provided by yelp to ensure the validity of the information. Yelp is the biggest local business review and social networking site. Most restaurants will publish their informations in Yelp website so that it can attract more customers. Customer can write their review based on their experience. Now, there are more than 200 million reviews and more than 40 million unique visitors in their website.The raw dataset will contain lots of unuseful information. We will explore the dataset and desing an algorithm to preprocess the data so that we can filter useful information.
 
 6. Description of the functionalities:
     1. Describe what data is stored in the database.
@@ -23,7 +23,8 @@ After the user registers an account on the website, he needs to fill in the info
     Users can search for their favorite restaurants through the search bar. Each restaurant has different dishes. Users can click on the dishes they want to get product pictures. Users can also write their own evaluations of dishes and score them. Users can also fill in their own preferences, and the system will help you select restaurants that meet your tastes.
     3. What would be a good creative component (function) that can improve the functionality of your application?
     Users can make classification requirements according to their different tastes and requirements, and the website will screen out restaurants suitable for users according to their choices. The website can also recommend suitable restaurants and people with the same tastes to users according to their daily choices.
-    4. ![image](https://user-images.githubusercontent.com/90111545/132966054-610ee8d8-4b4d-48c9-8da0-90e98fa1bbd2.png)
+    4.![image](https://user-images.githubusercontent.com/90111545/132971467-1c463e50-c4ad-463f-942c-c095ea0ff1ca.png)
+
 7. Project work distribution:
 Yingjie Zhao is mainly responsible for recommend system and machine learning part. She will apply recommend system algorithm to filter relative restaurants based on user’s query. In addition, as a captain, she will coordinate everyone’s work and make sure everyone finish their part on time.
 Chang Li will focus on data mining and prepossessing part. He will collect the dataset from website. Then he will explore those data to filter useful information. 
