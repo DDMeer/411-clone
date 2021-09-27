@@ -10,7 +10,10 @@ project title: Chicago Takeaway Recommendation
 
 Project summary
 ================================
-https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/ProjectDescription.md
+Project Description:  
+https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/ProjectDescription.md  
+Conceptual Design:  
+https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/ConceptualDesign.md
 
 System Demo URL
 =============================
