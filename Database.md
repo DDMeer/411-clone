@@ -61,7 +61,7 @@ Two Advanced Queries:
 =============
 question1:select restuarant that the address of the restuarant has a park (same street or avenue)
 ![image](https://user-images.githubusercontent.com/32198970/138581134-487b04dc-604b-4996-bf8f-668500a6159d.png)
-(SELECT 
+
     
     
 question2:
