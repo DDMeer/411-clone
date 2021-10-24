@@ -84,4 +84,4 @@ Find restaurants with two or more categories
 Indexing:
 ==========
 
-https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/Index.md
+https://docs.google.com/document/d/1Ef8UV4sY3QB1KDEQAHGMFftPNH53Ybj8xudKwiioe0k/edit
