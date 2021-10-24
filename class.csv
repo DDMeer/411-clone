@@ -1,0 +1,818 @@
+restaurant_id,class
+1,Spanish
+2,Peruvian
+2,Seafood
+2,South American
+3,Asian
+3,Chinese
+4,American
+4,Cafe
+4,Diner
+5,Mexican
+5,Vegetarian Friendly
+5,Hawaiian
+6,Bar
+6,Spanish
+7,Mediterranean
+7,Greek
+7,Middle Eastern
+7,Greek
+8,Italian
+8,Pizza
+8,Vegetarian Friendly
+9,Mexican
+9,Latin
+9,Bar
+9,Chinese
+10,American
+10,International
+11,Italian
+11,Vegetarian Friendly
+11,Vegan Options
+12,American
+12,International
+13,Asian
+13,Thai
+13,Vegetarian Friendly
+14,Thai
+15,Mexican
+15,Southwestern
+15,Bar
+16,American
+16,Bar
+17,American
+17,Bar
+17,Pub
+17,American
+18,Japanese
+18,Sushi
+18,Asian
+19,Chinese
+19,Asian
+20,Sushi
+20,Asian
+20,Korean
+21,Vegetarian Friendly
+22,Bar
+22,Pub
+23,American
+23,Bar
+23,Pub
+24,American
+24,Bar
+24,Pub
+24,Pizza
+25,Italian
+25,Pizza
+25,Vegetarian Friendly
+26,Japanese
+26,Sushi
+26,Asian
+26,French
+27,Italian
+27,Pizza
+27,Vegetarian Friendly
+28,Jamaican
+29,Italian
+29,Pizza
+30,American
+30,Barbecue
+30,Cafe
+31,Italian
+31,Pizza
+32,American
+32,Diner
+33,Chinese
+33,Indian
+33,Asian
+34,Cafe
+34,Fast Food
+35,Fast Food
+35,Asian
+36,Chinese
+36,Asian
+36,Korean
+37,Korean
+38,Pizza
+38,Fast Food
+38,Barbecue
+39,Asian
+39,Korean
+40,American
+40,Vegetarian Friendly
+40,Gluten Free Options
+41,American
+41,Bar
+41,Barbecue
+42,American
+42,Bar
+42,Contemporary
+42,Mexican
+43,Italian
+43,Wine Bar
+43,Pizza
+44,Bar
+44,Pub
+45,Cafe
+45,Middle Eastern
+45,Arabic
+46,Mediterranean
+46,Vegetarian Friendly
+46,Gluten Free Options
+46,Pizza
+47,Mexican
+47,Latin
+47,Spanish
+47,Japanese
+48,Chinese
+49,Indian
+49,Vegetarian Friendly
+49,Vegan Options
+49,Mexican
+50,American
+50,Brew Pub
+50,Bar
+51,American
+51,Bar
+51,Pub
+52,American
+52,Deli
+52,Soups
+53,Fast Food
+53,Greek
+53,Grill
+54,Mexican
+54,Vegetarian Friendly
+55,Asian
+55,Thai
+55,Vegetarian Friendly
+56,American
+57,Barbecue
+58,Pub
+59,American
+59,Bar
+60,American
+60,Bar
+60,Pizza
+60,Italian
+61,Pizza
+62,Mediterranean
+62,Greek
+63,American
+63,Steakhouse
+63,Gluten Free Options
+64,American
+64,Healthy
+64,Vegetarian Friendly
+65,Grill
+65,Pub
+65,Caribbean
+66,Caribbean
+66,Latin
+66,Cuban
+67,American
+67,Diner
+67,Vegetarian Friendly
+68,Asian
+69,Chinese
+69,Japanese
+69,Asian
+70,American
+70,Bar
+70,Pub
+71,Cafe
+71,Healthy
+72,Japanese
+72,Bar
+72,Seafood
+73,Chinese
+73,Asian
+73,Cantonese
+74,American
+74,Bar
+74,Pub
+75,Japanese
+75,Sushi
+75,Asian
+75,Deli
+76,Armenian
+77,Italian
+77,Pizza
+77,Cajun & Creole
+78,American
+78,Bar
+78,Seafood
+79,Indian
+80,Japanese
+80,Sushi
+80,Asian
+80,Chinese
+81,Mediterranean
+81,Greek
+81,Vegetarian Friendly
+81,Mexican
+82,Bar
+83,Lebanese
+83,Middle Eastern
+83,Israeli
+83,American
+84,American
+84,Bar
+84,Pub
+85,Cafe
+85,Mediterranean
+86,American
+86,Bar
+86,Barbecue
+86,Chinese
+87,Asian
+88,Italian
+88,Vegetarian Friendly
+88,Vegan Options
+89,American
+89,Bar
+89,Pub
+90,Chinese
+90,Japanese
+90,Sushi
+90,Asian
+91,Fast Food
+91,Barbecue
+91,Pakistani
+91,Pizza
+92,Asian
+92,Thai
+92,Vegetarian Friendly
+92,Mexican
+93,Fast Food
+93,Middle Eastern
+93,Vegetarian Friendly
+94,Cafe
+94,Diner
+95,Pizza
+95,Vegetarian Friendly
+96,American
+96,Vegetarian Friendly
+96,Vegan Options
+97,American
+97,Deli
+97,Israeli
+98,American
+98,Pizza
+99,Mexican
+99,Latin
+99,Vegetarian Friendly
+100,American
+100,Vegetarian Friendly
+100,Vegan Options
+101,American
+101,Wine Bar
+102,American
+102,Bar
+102,Barbecue
+103,American
+103,Diner
+104,Peruvian
+104,Latin
+104,South American
+105,Mexican
+105,Latin
+105,Spanish
+106,Chinese
+106,Asian
+106,Hong Kong
+107,American
+107,Steakhouse
+107,Gluten Free Options
+108,Mediterranean
+108,Middle Eastern
+108,Arabic
+108,Thai
+109,American
+109,Gluten Free Options
+110,Irish
+110,Bar
+110,Pub
+111,Indian
+111,Asian
+111,Fusion
+112,Japanese
+112,Sushi
+112,Asian
+113,American
+113,Bar
+113,Pizza
+114,Healthy
+115,Taiwanese
+116,Pizza
+116,Vegetarian Friendly
+117,Cafe
+117,Vegetarian Friendly
+117,Vegan Options
+118,French
+118,Vegetarian Friendly
+119,Fast Food
+120,Chinese
+120,Asian
+120,Thai
+121,Mediterranean
+121,Middle Eastern
+121,Israeli
+122,Latin
+122,Spanish
+123,Chinese
+123,Asian
+123,Taiwanese
+124,Japanese
+124,Seafood
+124,Sushi
+125,German
+125,Bar
+125,European
+126,Bar
+127,Pizza
+127,Pub
+127,Mexican
+128,Mexican
+129,Mediterranean
+129,Turkish
+129,Georgian
+130,Italian
+130,Vegetarian Friendly
+131,Pizza
+132,Mediterranean
+132,Greek
+132,Vegetarian Friendly
+133,Cajun & Creole
+133,Seafood
+133,Asian
+134,Italian
+134,American
+134,Pizza
+135,Cafe
+135,American
+136,Quick Bites
+136,American
+136,Bar
+137,American
+137,Contemporary
+137,Wine Bar
+137,American
+138,Chinese
+138,Sushi
+138,Asian
+139,Mexican
+139,American
+139,Bar
+140,American
+140,Bar
+140,Pub
+141,Japanese
+141,Asian
+141,Vegetarian Friendly
+142,Asian
+142,Thai
+142,Vegan Options
+143,American
+143,Bar
+144,Bar
+144,Pub
+145,Pub
+146,Mexican
+146,Japanese
+146,Asian
+147,Seafood
+148,Bar
+148,Pub
+148,American
+149,Mediterranean
+149,Turkish
+149,Middle Eastern
+150,Cafe
+150,Barbecue
+151,American
+151,International
+151,Vegetarian Friendly
+152,Mediterranean
+152,Middle Eastern
+152,Armenian
+153,American
+153,Bar
+153,Pub
+153,Mexican
+154,Polish
+154,European
+155,American
+155,Bar
+155,Pub
+156,American
+156,Fast Food
+156,Barbecue
+157,Seafood
+157,Street Food
+158,American
+158,Cafe
+158,Vegetarian Friendly
+159,French
+159,European
+159,Gluten Free Options
+160,American
+160,Vegetarian Friendly
+160,Vegan Options
+161,Cafe
+162,American
+162,Steakhouse
+162,Bar
+163,Fast Food
+164,Italian
+164,Pizza
+164,Vegetarian Friendly
+165,American
+165,Seafood
+165,Pub
+166,Caribbean
+166,Latin
+166,Puerto Rican
+167,Pub
+168,French
+168,Cafe
+168,Bar
+169,American
+169,Bar
+169,Pizza
+170,Chinese
+171,American
+172,Asian
+172,Vegetarian Friendly
+172,Vegan Options
+173,American
+173,Vegetarian Friendly
+173,Vegan Options
+174,American
+174,Seafood
+174,Vegetarian Friendly
+175,Japanese
+175,Sushi
+175,Asian
+176,Italian
+176,Pizza
+176,Vegetarian Friendly
+177,American
+177,Bar
+177,Pub
+178,American
+178,Fast Food
+178,Street Food
+179,Asian
+179,Vegetarian Friendly
+179,Mexican
+180,Pizza
+181,Mexican
+181,American
+181,Latin
+182,Japanese
+182,Sushi
+182,Asian
+183,Spanish
+184,Asian
+184,Vietnamese
+184,Soups
+185,Grill
+185,Hawaiian
+186,American
+186,Pizza
+186,Cafe
+187,Indian
+187,Asian
+187,Vegetarian Friendly
+188,American
+188,Wine Bar
+189,Japanese
+189,Sushi
+189,Asian
+190,Mexican
+190,Latin
+190,Vegetarian Friendly
+191,Indian
+191,Cafe
+191,Street Food
+192,Polish
+192,European
+192,Fusion
+193,Bar
+193,Pub
+194,Asian
+194,Korean
+195,American
+195,Bar
+195,Pizza
+196,American
+196,Bar
+196,Contemporary
+197,Italian
+197,Pizza
+197,Vegetarian Friendly
+198,Bar
+198,Pub
+199,American
+199,Bar
+199,Pub
+199,American
+200,Gastropub
+200,Gluten Free Options
+201,Chinese
+201,Cantonese
+201,Hong Kong
+202,Seafood
+203,American
+203,Soups
+204,Mexican
+204,Spanish
+204,Eastern European
+205,American
+205,Bar
+205,Pub
+206,Chinese
+206,Asian
+207,European
+207,Spanish
+208,Chinese
+209,Japanese
+209,Asian
+209,Vegetarian Friendly
+209,Pub
+210,Chinese
+210,Asian
+210,Szechuan
+211,Chinese
+211,American
+211,American
+212,American
+213,Italian
+213,American
+213,Pizza
+214,Caribbean
+214,Spanish
+215,American
+215,Contemporary
+215,Vegan Options
+215,Thai
+216,Chinese
+216,Asian
+216,Cantonese
+217,Italian
+217,Mediterranean
+217,European
+218,Quick Bites
+218,Bar
+219,Steakhouse
+219,Gluten Free Options
+220,Greek
+221,Italian
+221,American
+221,Pizza
+222,Healthy
+223,American
+223,South American
+224,Mediterranean
+225,Pizza
+226,International
+227,Mexican
+227,Lebanese
+228,Caribbean
+228,Latin
+228,Bar
+229,Cafe
+229,European
+229,Greek
+229,Pizza
+230,Chinese
+230,Japanese
+230,Sushi
+231,Moroccan
+231,Mediterranean
+231,Middle Eastern
+232,Asian
+232,Vietnamese
+232,Vegetarian Friendly
+232,Filipino
+233,American
+234,American
+234,Steakhouse
+234,Gluten Free Options
+235,American
+235,Bar
+235,Contemporary
+235,Chinese
+236,Deli
+237,Steakhouse
+237,Latin
+237,South American
+238,Steakhouse
+238,Latin
+238,Argentinean
+239,Indian
+239,Asian
+239,Pakistani
+239,Seafood
+240,Italian
+240,Vegetarian Friendly
+241,Pub
+242,Mexican
+242,Bar
+242,Pub
+242,International
+243,Middle Eastern
+243,Pakistani
+243,Halal
+244,American
+245,Italian
+246,American
+246,Diner
+246,American
+247,Mexican
+247,Fast Food
+248,Chinese
+248,Asian
+248,Cantonese
+249,Asian
+249,Indonesian
+250,International
+250,Contemporary
+251,Italian
+251,American
+251,Pizza
+252,Japanese
+252,Peruvian
+252,Bar
+252,French
+253,Asian
+253,Thai
+253,Vegetarian Friendly
+254,Indian
+254,Vegetarian Friendly
+254,Vegan Options
+255,Chinese
+280,Steakhouse
+295,Pub
+297,Chinese
+298,American
+302,Asian
+303,Pizza
+312,Chinese
+314,Indian
+319,Contemporary
+347,American
+348,American
+352,Steakhouse
+358,Thai
+365,Mexican
+367,Mexican
+369,Indian
+381,Barbecue
+385,Mediterranean
+388,Bar
+406,Mexican
+410,Pizza
+414,Mexican
+416,Chinese
+420,Grill
+422,American
+423,Mexican
+430,Chinese
+438,Mexican
+439,Pub
+441,Cafe
+442,Chinese
+443,Bar
+444,Pub
+448,Cafe
+453,American
+465,Seafood
+473,Chinese
+480,Indian
+484,Pizza
+486,Pizza
+487,Chinese
+490,Mexican
+493,American
+503,Mexican
+509,Deli
+511,Chinese
+514,Mexican
+516,Mexican
+520,Chinese
+529,American
+531,Thai
+536,American
+538,Vietnamese
+540,American
+549,American
+552,Seafood
+573,Chinese
+597,Southwestern
+606,American
+609,Mediterranean
+621,Italian
+622,Cafe
+623,Chinese
+625,American
+630,American
+632,Cafe
+642,Chinese
+646,American
+648,Barbecue
+653,Pizza
+664,Asian
+665,Barbecue
+666,Cafe
+667,European
+681,Mexican
+685,Chinese
+688,Pizza
+689,Chinese
+690,Pizza
+695,American
+698,Bar
+710,Middle Eastern
+712,Chinese
+718,Spanish
+723,Greek
+727,Chinese
+728,Chinese
+738,Chinese
+740,Chinese
+752,Mexican
+756,Pub
+758,Asian
+763,Italian
+768,Pub
+769,Greek
+771,Mexican
+773,Cafe
+789,Seafood
+797,Mexican
+798,Pizza
+801,Fast Food
+822,Cafe
+823,Sushi
+824,Pizza
+845,Mexican
+848,Fast Food
+850,Pizza
+852,Greek
+856,Mexican
+857,Italian
+858,Japanese
+862,Chinese
+863,Italian
+864,Italian
+872,Chinese
+874,Irish
+879,Indian
+883,Steakhouse
+886,Pub
+903,Mexican
+906,Italian
+908,Fast Food
+909,American
+910,Mexican
+912,American
+913,Seafood
+915,Greek
+923,American
+926,Thai
+942,Pizza
+947,American
+957,American
+960,Pizza
+966,Mexican
+969,Mexican
+973,Mediterranean
+981,Italian
+990,Fast Food
+1000,Steakhouse
+1002,Sushi
+1004,American
+1008,Mexican
+1012,American
+1013,Mediterranean
+1014,American
+1016,Mexican
+1017,American
+1025,Mexican
+1031,Deli
+1042,Pizza
+1051,Mexican
+1055,Seafood
+1064,Mexican
+1066,American
+1067,Thai
+1068,Healthy
+1073,Greek
+1081,Greek
+1096,American
+1097,Mexican
+1100,Chinese
+1103,Asian
+1109,Pizza
