@@ -4,15 +4,15 @@ Data tables:
 ![image](https://user-images.githubusercontent.com/32198970/138581294-3205a8f3-5679-4e70-a08b-4266e5b46e6a.png)
 
 
-https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/restaurant.csv
+[restaurant](https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/restaurant.csv)
 ![image](https://user-images.githubusercontent.com/32198970/138581288-6026b4a9-c6a7-4edb-ba6a-b9ca45d8da2f.png)
 
 
-https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/review.csv
+[review](https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/review.csv)
 ![image](https://user-images.githubusercontent.com/32198970/138581295-a5e13b14-c27a-4d46-8352-f0ffe6bf7a20.png)
 
 
-https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/user.csv
+[user](https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/user.csv)
 ![image](https://user-images.githubusercontent.com/32198970/138581293-4c597d21-2998-4651-9cc7-1cc7df366786.png)
 
 
@@ -84,4 +84,4 @@ Find restaurants with two or more categories
 Indexing:
 ==========
 
-https://docs.google.com/document/d/1Ef8UV4sY3QB1KDEQAHGMFftPNH53Ybj8xudKwiioe0k/edit
+[index](https://docs.google.com/document/d/1Ef8UV4sY3QB1KDEQAHGMFftPNH53Ybj8xudKwiioe0k/edit)
