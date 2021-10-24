@@ -46,3 +46,22 @@ ODD_EVEN CHAR(10),
 ADDR_LOW INT,
 ADDR_HIGH INT,
 add_name VARCHAR(256));
+
+
+two queries:
+=============
+question:"Write a sql query to find out the id of the user that the password starts with "a" and who made a comment in 2004"
+
+(SELECT 
+    user_id
+FROM
+    user us2
+WHERE
+    us2.Password LIKE 'a%') UNION (SELECT 
+    us.user_id
+FROM
+    user us
+        JOIN
+    review re ON us.User_id = re.User_id
+WHERE
+    re.date LIKE '2004%')
