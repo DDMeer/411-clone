@@ -74,3 +74,7 @@ from Restaurant1 natural join class
 group by restaurant_id
 having count(restaurant_id) >=2
 order by count(restaurant_id) desc
+
+Indexing:
+==========
+
