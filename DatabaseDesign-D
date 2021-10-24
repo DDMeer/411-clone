@@ -1,5 +1,5 @@
-DDL commands
-=========================
+DDL:
+===============
 
 CREATE TABLE Restaurant(
 restaurant_id INT PRIMARY KEY, 
