@@ -59,21 +59,9 @@ add_name VARCHAR(256));
 
 Two Advanced Queries:
 =============
-question1:"Write a sql query to find out the id of the user that the password starts with "a" and who made a comment in 2004"
-
+question1:select restuarant that the address of the restuarant has a park (same street or avenue)
+![image](https://user-images.githubusercontent.com/32198970/138581134-487b04dc-604b-4996-bf8f-668500a6159d.png)
 (SELECT 
-    user_id
-FROM
-    user us2
-WHERE
-    us2.Password LIKE 'a%') UNION (SELECT 
-    us.user_id
-FROM
-    user us
-        JOIN
-    review re ON us.User_id = re.User_id
-WHERE
-    re.date LIKE '2004%')
     
     
 question2:
@@ -87,4 +75,5 @@ order by count(restaurant_id) desc
 
 Indexing:
 ==========
+
 
