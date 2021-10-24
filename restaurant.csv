@@ -1,0 +1,1111 @@
+restaurant_id,name,price,phone,website,address,add_name,add_num
+1,Domino's Pizza,,+1 773-588-8860,https://www.mcdonalds.com/us/en-us/location/il/chicago/3241-w-peterson/56.html?cid=RF:YXT:RoN::Clicks,"3241 W Peterson, Chicago, IL 60659",W PETERSON AVE,3241
+2,Azucar Tapas Restaurant and Cocktail Bar,2,,,"750 S Halsted 151-MC117, Chicago, IL 60607",S HALSTED ST,750
+3,Tang's Garden Restaurant,,,,"513 1/2 E 47th St, Chicago, IL 60653-4207",E 47TH ST,513
+4,Fina Estampa,2,+1 773-202-1940,https://www.facebook.com/ChicagoBaskinRobbins59,"4644 W Diversey Ave, Chicago, IL 60639",W DIVERSEY AVE,4644
+5,Pokiology,,+1 773-637-7035,https://restaurants.subway.com/united-states/il/chicago/5710-w-fullerton?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=21506&utm_campaign=evergreen-2020&y_source=1_MTQ5MTI1NDItNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"5710 W Fullerton, Chicago, IL 60639",W FULLERTON AVE,5710
+6,MrBeast Burger,,+1 773-687-8416,https://restaurants.subway.com/united-states/il/chicago/2412-lincoln-avenue?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=22672&utm_campaign=evergreen-2020&y_source=1_MTQ5MDk0MzEtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"2412 Lincoln Avenue, Chicago, IL 60614",N LINCOLN AVE,2412
+7,Presto Mediterranean Cafe,,+1 312-674-0424,https://burgerking.com/store-locator/store/restaurant_672,"2328 South Michigan, Chicago, IL 60616",S MICHIGAN AVE,2328
+8,Teagschwendner,1,+1 773-596-1888,https://www.dominos.com/en/?redirect=homepage&utm_source=locallistings&utm_medium=loclist&utm_campaign=localmaps,"800 N Kedzie, Chicago, IL 60651",N KEDZIE AVE,800
+9,Mayflower Chinese Restaurant,,+1 773-239-4071,https://locations.wendys.com/united-states/il/chicago/8302-s-ashland,"8302 S Ashland, Chicago, IL 60620",S ASHLAND AVE,8302
+10,Lou Mitchell's,2,,http://www.gameroomchicago.com/,"12 S Michigan Ave, Chicago, IL 60603-3300",S MICHIGAN AVE,12
+11,Subway,,+1 312-443-3747,http://www.artic.edu/visit/dining?qt-reference_nodes=1#quicktabs-reference_nodes,"111 S Michigan Ave Art Institute of Chicago, Chicago, IL 60603-6110",S MICHIGAN AVE,111
+12,McDonald's,,+1 312-263-4988,http://www.millerspub.com/,"134 S Wabash Ave, Chicago, IL 60603-5604",S WABASH AVE,134
+13,Potbelly Sandwich Shop,,+1 800-806-1532,https://www.getreef.com/?utm_source=ExtendedNetwork&utm_medium=local-listing&y_source=1_MjQzMTk4MzgtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"135 N Kedzie Ave, Chicago, IL 60612",N KEDZIE AVE,135
+14,La Trailita #2,,+1 312-624-8547,http://ruchichicago.com,"151 N Michigan Ave Millennium Train Station, C17, Chicago, IL 60601-7506",N MICHIGAN AVE,151
+15,Maria's Mexican Restaurant,2,+1 312-631-3124,https://restaurants.subway.com/united-states/il/chicago/166-n-wabash-ave?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=7659&utm_campaign=evergreen-2020&y_source=1_MTQ5MDA4MzQtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"166 N Wabash Ave, Chicago, IL 60601",N WABASH AVE,166
+16,Celona,1,+1 312-867-0186,http://starbucks.com,"210 W North Ave, Chicago, IL 60610-1225",W NORTH AVE,210
+17,Mayfair Restaurant in Chicago,,+1 312-294-3585,http://cso.org/,"220 S Michigan Ave, Chicago, IL 60604-2596",S MICHIGAN AVE,220
+18,Dawali Mediterranean Kitchen,1,+1 312-334-6700,https://www.freereinrestaurant.com/,"224 N Michigan Ave, Chicago, IL 60601-5906",N MICHIGAN AVE,224
+19,Sky Food,,+1 312-929-3091,https://www.twolightschicago.com/,"227 W North Ave Across from Second City in Old Town, Chicago, IL 60610-1236",W NORTH AVE,227
+20,Isabella Bakery,,+1 312-337-3992,http://www.secondcity.com/1959,"230 W North Ave Piper's Alley, Chicago, IL 60610-5089",W NORTH AVE,230
+21,Xiao Guohui,,+1 800-607-5021,https://www.getreef.com/?utm_source=ExtendedNetwork&utm_medium=local-listing&y_source=1_MjQzMjAwNzAtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"246 N California Ave, Chicago, IL 60612",N CALIFORNIA AVE,246
+22,The Art of Pizza,1,+1 312-379-7900,http://www.wholefoodsmarket.com/stores/streeterville,"255 E Grand Ave Whole Foods, Chicago, IL 60611-3315",E GRAND AVE,255
+23,Tequila Cj Cantina Grill,2,+1 312-444-0943,,"306 N Michigan Ave, Chicago, IL 60601-3702",N MICHIGAN AVE,306
+24,Naty's Pizza,,+1 312-944-0661,https://restaurants.subway.com/united-states/il/chicago/333-w-north-ave?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=5183&utm_campaign=evergreen-2020&y_source=1_MTQ4OTQyMzgtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"333 W North Ave, Chicago, IL 60610",W NORTH AVE,333
+25,Subway,,+1 312-763-3336,https://www.brownbagseafood.com/,"333 S Wabash Ave, Chicago, IL 60604-4107",S WABASH AVE,333
+26,La Paris Bakery,,+1 773-360-8288,,"339 N Milwaukee Ave, Chicago, IL 60647",N MILWAUKEE AVE,339
+27,Bridgeport Pasty Company,1,+1 312-755-9779,,"350 W North Ave Ste 118, Chicago, IL 60610-1218",W NORTH AVE,350
+28,Carmine's,2,+1 312-243-3344,http://www.sansookbbq.com,"401 N Milwaukee Ave, Chicago, IL 60654-6586",N MILWAUKEE AVE,401
+29,ChurriNaan,,+1 312-828-9120,https://locations.dunkindonuts.com/en/il/chicago/404-n-wabash-ave/340231?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=340231,"404 N Wabash Ave, Chicago, IL 60611",N WABASH AVE,404
+30,Starbucks Coffee,,+1 312-858-5600,http://www.loumalnatis.com/chicago-michigan-avenue,"410 N Michigan Ave, Chicago, IL 60611-4213",N MICHIGAN AVE,410
+31,Adorn Bar & Restaurant,4,,,"410 S Kostner Ave, Chicago, IL 60624-3046",S KOSTNER AVE,410
+32,Burger King,,+1 312-455-1019,http://bigdeliciousplanet.com,"412 N Wolcott Ave, Chicago, IL 60622-6252",N WOLCOTT AVE,412
+33,Subway,,+1 312-664-3400,http://www.aromachicago.com,"417 W North Ave, Chicago, IL 60610-1117",W NORTH AVE,417
+34,Amarit Thai & Sushi,2,+1 312-222-1525,http://www.billygoattavern.com/,"430 N Michigan Ave, Chicago, IL 60611",N MICHIGAN AVE,430
+35,Three Wheels Noodle,,+1 312-222-0901,https://www.facebook.com/pages/Flamingos/201534699881756,"440 E Grand Ave, Chicago, IL 60611-3304",E GRAND AVE,440
+36,Munchies Fast Food,,+1 312-596-0793,http://www.cornerbakerycafe.com/,"444 N Michigan Ave, Chicago, IL 60611-3903",N MICHIGAN AVE,444
+37,El Pueblito,,+1 312-265-0322,https://forastero-llc.mycloveronline.com,"449 W North Ave, Chicago, IL 60610",W NORTH AVE,449
+38,El Mariachi Tequila Bar & Grill,2,+1 312-245-0702,,"520 N Michigan Ave, Chicago, IL 60611-6982",N MICHIGAN AVE,520
+39,House of Blues Restaurant & Bar,2,+1 312-329-1900,http://jimmyjohns.com,"520 N Michigan Ave Chicago The Shops at North Bridge, Level 4, Chicago, IL 60611-6982",N MICHIGAN AVE,520
+40,ETA Restaurant + Bar,2,+1 312-753-7190,https://www.potbelly.com/locations/illinois/navy-pier,"600 E. Grand Ave Ste. SA-03, Chicago, IL 60611",E. GRAND AVE,600
+41,Hands On,2,+1 312-427-9470,http://thaispoonsushichi.com/,"601 S Wabash Ave Wabash Ave. & Harrison St., Chicago, IL 60605-1809",S WABASH AVE,601
+42,D'Nuez,,+1 773-253-5001,http://sabrosochicago.com,"624 N Ashland Ave, Chicago, IL 60622",N ASHLAND AVE,624
+43,Domino's Pizza,,+1 312-288-8783,https://giordanos.com/location/navy-pier/,"700 E Grand Ave Navy Pier, Chicago, IL 60611",E GRAND AVE,700
+44,Quiznos,,+1 312-670-8789,http://www.billygoattavern.com/,"700 E Grand Ave, Chicago, IL 60611",E GRAND AVE,700
+45,Slurp Slurp,1,+1 312-527-9700,http://www.harrycarays.com/harry-carays-tavern-navy-pier.html,"700 E Grand Ave, Chicago, IL 60611-3436",E GRAND AVE,700
+46,Little Caesars,,+1 312-525-3400,http://www.sophieschicago.com/?utm_source=TripAdvisor&utm_medium=TripAdvWebsite&utm_campaign=TA&utm_term=TA,"700 N Michigan Ave 7th Floor, Chicago, IL 60611-5017",N MICHIGAN AVE,700
+47,The Bento Box,,12-922-4400,http://www.hilton.com/Official_Site/Chicago,"720 S Michigan Ave, Chicago, IL 60605-2116",S MICHIGAN AVE,720
+48,Surfs Up,,,http://www3.hilton.com/en/hotels/illinois/hilton-chicago-CHICHHH/dining/index.html,"720 S Michigan Ave Hilton Chicago, Chicago, IL 60605-2116",S MICHIGAN AVE,720
+49,Amigo Chino,,+1 312-694-4050,http://www.neimanmarcus.com/restaurants/chicago/il/mariposa/chicago%20-%20michigan%20avenue?geoLocation=&prev=,"737 N Michigan Ave Level Four, Chicago, IL 60611-2615",N MICHIGAN AVE,737
+50,The Cousins,,+1 312-600-9094,https://restaurants.subway.com/united-states/il/chicago/780-n-milwaukee-ave?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=26036&utm_campaign=evergreen-2020&y_source=1_MTQ5MDYwMDItNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"780 N Milwaukee Ave, Chicago, IL 60622",N MILWAUKEE AVE,780
+51,Peach's Restaurant,2,,,"806 W Webster Ave, Chicago, IL 60614-3627",W WEBSTER AVE,806
+52,Soluri Brothers,,+1 312-329-2877,https://www.facebook.com/mbijoes/timeline?ref=page_internal,"820 N Lawndale Ave, Chicago, IL 60651-3943",N LAWNDALE AVE,820
+53,Bottom Lounge,2,+1 773-649-9644,http://argotea.com,"871 N Wabash Ave, Chicago, IL 60611-2007",N WABASH AVE,871
+54,Best Subs II,,+1 312-787-9596,http://www.signatureroom.com/,"875 N Michigan Ave 95th Floor, Chicago, IL 60611-1803",N MICHIGAN AVE,875
+55,Jim's Original J Town,,+1 312-780-3110,https://www.benihana.com/locations/chicago-il-ch/,"875 N Michigan Ave John Hancock Center, Chicago, IL 60611-1803",N MICHIGAN AVE,875
+56,Gaslight Bar & Grille,2,+1 312-922-1127,http://www.niubchicago.com/,"888 S Michigan Ave, Chicago, IL 60605-2117",S MICHIGAN AVE,888
+57,Poitinstil,,,,"900 N Michigan Ave Ste LL2, Chicago, IL 60611-6552",N MICHIGAN AVE,900
+58,John Barleycorn,2,+1 773-799-8868,http://www.bngrill.com,"921 W Belmont Ave, Chicago, IL 60657-4408",W BELMONT AVE,921
+59,Giordano's,2,+1 773-772-0599,,"939 N Ashland Ave, Chicago, IL 60622-5120",N ASHLAND AVE,939
+60,North Buena Deli,,+1 773-342-2909,,"939 N Western Ave Ste 1, Chicago, IL 60622-4731",N WESTERN AVE,939
+61,The HoneyBaked Ham Company,,+1 773-883-6033,,"946 W Newport Ave, Chicago, IL 60657-2313",W NEWPORT AVE,946
+62,Baskin-Robbins,,+1 773-472-5446,https://www.facebook.com/Hot-Diggity-Dogs-107194475967333/,"947 W Wellington Ave, Chicago, IL 60657-4421",W WELLINGTON AVE,947
+63,Sushi Para M,2,+1 773-348-0010,http://kincadesbar.com/,"950 W Armitage Ave, Chicago, IL 60614-7419",W ARMITAGE AVE,950
+64,Dino's Italian Pizza & Italian Restaurant,2,+1 773-348-7612,http://www.7-eleven.com/?yext=26265,"957 W Armitage Ave, Chicago, IL 60614-7227",W ARMITAGE AVE,957
+65,Whadda Jerk Food Truck,,+1 773-904-7097,http://lemacaron-us.com/,"958 W Armitage Ave, Chicago, IL 60614-4222",W ARMITAGE AVE,958
+66,El Corralito,,+1 773-252-8010,,"958 N Damen Ave, Chicago, IL 60622-4950",N DAMEN AVE,958
+67,Rambutan,,+1 773-327-5266,http://www.jamnhoney.com,"958 W Webster Ave, Chicago, IL 60614-3643",W WEBSTER AVE,958
+68,Chicago's Pizza,2,,,"1000 N Francisco Ave, Chicago, IL 60622-2749",N FRANCISCO AVE,1000
+69,Smokin' Woody's Barbeque,2,+1 312-733-2700,http://www.terrystoffee.com,"1009 W Armitage Ave, Chicago, IL 60614",W ARMITAGE AVE,1009
+70,Leona's Pizzeria - South Western Avenue,2,+1 312-666-8887,http://www.jasonswok.com/,"1014 S Western Ave Ste B, Chicago, IL 60612-4173",S WESTERN AVE,1014
+71,Zebra Lounge,,+1 773-293-1040,,"1014 W Lawrence Ave, Chicago, IL 60640-5018",W LAWRENCE AVE,1014
+72,Dessert Box,,+1 773-332-6217,http://www.3squaresdiner.com/,"1020 W Lawrence Ave, Chicago, IL 60640-5053",W LAWRENCE AVE,1020
+73,Lucky Grill,1,+1 773-549-4904,https://nativefoods.com/locations/chicago/lakeview/,"1023 W Belmont Ave, Chicago, IL 60657",W BELMONT AVE,1023
+74,Wok N Chop,2,+1 312-698-4481,http://www.tesfacuisine.com,"1023 W Wilson Ave, Chicago, IL 60640-5614",W WILSON AVE,1023
+75,Honey Baked Ham and Cafe,,+1 773-880-0355,https://www.facebook.com/pages/Mr-Salsa/120347157982702,"1025 W Montrose Ave, Chicago, IL 60613-1317",W MONTROSE AVE,1025
+76,Siri Indian Retaurant,2,+1 773-489-6666,http://www.super-submarine.com/,"1050 N Ashland Ave, Chicago, IL 60622-3932",N ASHLAND AVE,1050
+77,Joker's Cajun Kitchen,,+1 773-388-8249,http://www.luckydorr.com/,"1101 W Waveland Ave, Chicago, IL 60613-3827",W WAVELAND AVE,1101
+78,Westons Coffee & Tap Co.,1,+1 773-477-1500,http://www.deesrestaurant.com/,"1114 W Armitage Ave, Chicago, IL 60614-4133",W ARMITAGE AVE,1114
+79,Starling,,+1 773-698-6263,https://restaurants.subway.com/united-states/il/chicago/1121-n-western-ave?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=7858&utm_campaign=evergreen-2020&y_source=1_MTQ4OTU4ODQtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"1121 N Western Ave, Chicago, IL 60622",N WESTERN AVE,1121
+80,Tasty City,,+1 312-624-8363,http://113two.com/,"1132 W Grand Ave, Chicago, IL 60642-5801",W GRAND AVE,1132
+81,La Bamba,,+1 312-243-4217,,"1133 S Western Ave, Chicago, IL 60612-4146",S WESTERN AVE,1133
+82,Gorilla Sushi,,+1 773-278-2130,,"1140 N Ashland Ave, Chicago, IL 60622-3937",N ASHLAND AVE,1140
+83,McDonald's,,+1 773-907-2200,http://www.jimmyjohns.com,"1148 W Wilson Ave, Chicago, IL 60640-5617",W WILSON AVE,1148
+84,Sunshine Restaurant,,+1 312-624-8792,https://www.goodeatsgroup.com/charred-wing-bar,"1150 S Michigan Ave, Chicago, IL 60605",S MICHIGAN AVE,1150
+85,Ferajna,,+1 773-528-7322,http://www.7-eleven.com/?yext=27125,"1153 W Belmont Ave, Chicago, IL 60657-3325",W BELMONT AVE,1153
+86,Grand Chinese Kitchen Inc,,+1 312-877-5694,http://www.crazybirdchicken.com,"1160 W Grand Ave, Chicago, IL 60642-5837",W GRAND AVE,1160
+87,Tony's Carryouts,,+1 312-600-5375,,"1217 W Devon Ave, Chicago, IL 60660-1403",W DEVON AVE,1217
+88,Starbucks,,+1 773-799-8635,http://deli-flavor.business.site/,"1231 W Fullerton Ave Suite 7, Chicago, IL 60614-2102",W FULLERTON AVE,1231
+89,Jess Cafe,2,+1 773-262-5216,,"1235 W Devon Ave, Chicago, IL 60660-1429",W DEVON AVE,1235
+90,K-Kitchen,,+1 773-687-9933,https://www.facebook.com/GorillaSushiWP/,"1238 N Milwaukee Ave, Chicago, IL 60622-9142",N MILWAUKEE AVE,1238
+91,Toppers Pizza,,,,"1241 N Clybourn Ave, Chicago, IL 60610-6655",N CLYBOURN AVE,1241
+92,Dona Naty's Taco,,+1 773-227-0890,https://locations.dunkindonuts.com/en/il/chicago/1244-n-ashland-ave/308139?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=308139,"1244 N Ashland Ave, Chicago, IL 60622",N ASHLAND AVE,1244
+93,Dimo's Pizza,1,,http://www.alohawagon.com,"1247 S Western Ave, Chicago, IL 60608-1113",S WESTERN AVE,1247
+94,JJ Fish & Chicken,,+1 312-427-5507,https://www.subway.com/en-US?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=24265&utm_campaign=evergreen-2020&y_source=1_MjA3MTcyOTktNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"1300 S Wabash Ave Suite 101, 1st Floor, Chicago, IL 60605",S WABASH AVE,1300
+95,Briazz,,+1 312-922-0601,http://www.Nepalhouseonline.com,"1301 S Michigan Ave, Chicago, IL 60605-2601",S MICHIGAN AVE,1301
+96,La Celia Latin Kitchen,,+1 773-274-5111,http://www.subway.com,"1313 W Touhy Ave, Chicago, IL 60626-2615",W TOUHY AVE,1313
+97,Noon Hour Grill,1,,http://www.coalfirechicago.com,"1321 W Grand Ave, Chicago, IL 60642-6447",W GRAND AVE,1321
+98,Chick-fil-A,,+1 773-661-1243,http://www.komorebisushi.com,"1324 N Milwaukee Ave, Chicago, IL 60622-9148",N MILWAUKEE AVE,1324
+99,Brioche Doree,,+1 773-395-8826,http://www.7-eleven.com/?yext=33328,"1400 N Milwaukee Ave, Chicago, IL 60622-5066",N MILWAUKEE AVE,1400
+100,Park & Field,2,+1 312-243-7988,http://ticketsus.at,"1400 S Western Ave, Chicago, IL 60608-1802",S WESTERN AVE,1400
+101,Ali Baba,,+1 773-755-1234,https://www.potbelly.com/locations/illinois/webster-avenue,"1422 W. Webster Ave, Chicago, IL 60614",W. WEBSTER AVE,1422
+102,Dunkin',,+1 773-472-1050,https://restaurants.subway.com/united-states/il/chicago/1427-montrose?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=22222&utm_campaign=evergreen-2020&y_source=1_MTQ5MTQzMDItNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"1427 W Montrose Ave (Montrose & Clark), Chicago, IL 60613",W MONTROSE AVE,1427
+103,Two Restaurant & Bar,2,+1 773-772-1400,http://www.joeysSHRIMPhouse.com,"1432 N Western Ave, Chicago, IL 60622-8036",N WESTERN AVE,1432
+104,Los Cantaritos Grill,,+1 312-255-7925,https://www.facebook.com/chicagocalavera/,"1438 W Chicago Ave, Chicago, IL 60642-5232",W CHICAGO AVE,1438
+105,Luversia's Soul Food Diner,,+1 773-348-8868,,"1443 W Fullerton Ave, Chicago, IL 60614-2030",W FULLERTON AVE,1443
+106,Cremeria La Ordena,,+1 773-334-9800,,"1463 W Leland Ave, Chicago, IL 60640-4627",W LELAND AVE,1463
+107,Honky Tonk BBQ,2,+1 773-338-3285,,"1502 W Jarvis Ave, Chicago, IL 60626-1909",W JARVIS AVE,1502
+108,Bangkok Star Restaurant,,+1 773-486-4195,,"1502 N Western Ave, Chicago, IL 60622-1746",N WESTERN AVE,1502
+109,Terrace 16,4,+1 312-588-0230,http://www.weathermarktavern.com,"1503 S Michigan Ave, Chicago, IL 60605-3616",S MICHIGAN AVE,1503
+110,Bella 'Mbriana,2,+1 773-561-2224,http://www.middleeastbakeryandgrocery.com/,"1512 W Foster Ave, Chicago, IL 60640-2112",W FOSTER AVE,1512
+111,Subway,,+1 773-274-7788,,"1515 W Devon Ave, Chicago, IL 60660-1313",W DEVON AVE,1515
+112,Ohana Ice & Treats,,,http://www.elmaya.us,"1522 W Montrose Ave, Chicago, IL 60613-1212",W MONTROSE AVE,1522
+113,Dante's Pizzeria,,+1 773-862-1540,,"1540 W North Ave, Chicago, IL 60642-2430",W NORTH AVE,1540
+114,Vol. 39,2,+1 773-743-9900,http://www.mariassubandpizza.com/,"1559 W Devon Ave, Chicago, IL 60660-1313",W DEVON AVE,1559
+115,Cafe Habibi,2,+1 773-687-8445,http://www.furiousramen.com,"1571 N Milwaukee Ave, Chicago, IL 60622-2009",N MILWAUKEE AVE,1571
+116,Munchyz Inc,,+1 312-397-7777,,"1599 N Clybourn Ave, Chicago, IL 60642-2521",N CLYBOURN AVE,1599
+117,CDA,4,+1 773-342-5000,http://thehatchicago.com/,"1604 W North Ave, Chicago, IL 60622-2245",W NORTH AVE,1604
+118,Taqueria El Milagro,1,+1 773-327-9200,https://www.facebook.com/crushedpizzeria/,"1607 W Montrose Ave, Chicago, IL 60613-1213",W MONTROSE AVE,1607
+119,Tasty Place,1,+1 773-770-3599,http://tarboushgrill.com,"1608 W North Ave, Chicago, IL 60622-2245",W NORTH AVE,1608
+120,Vermilion,2,+1 773-278-8774,,"1610 W North Ave, Chicago, IL 60622-2245",W NORTH AVE,1610
+121,Subway,,+1 773-252-6828,http://www.sushiparachicago.com/,"1633 N Milwaukee Ave, Chicago, IL 60647-5411",N MILWAUKEE AVE,1633
+122,TK's on Wells,,+1 773-235-9464,http://www.wingstop.com/,"1637 N Milwaukee Ave, Chicago, IL 60647-5411",N MILWAUKEE AVE,1637
+123,CHARRED | Wing Bar,,+1 312-243-0310,,"1642 W Chicago Ave, Chicago, IL 60622-5128",W CHICAGO AVE,1642
+124,Slugger's World Class Sports Bar,1,+1 773-275-5237,,"1659 W Foster Ave # 4, Chicago, IL 60640-2065",W FOSTER AVE,1659
+125,Jakes Pup In the Ruf,,+1 773-384-0035,http://www.newlifecafe.org,"1664 N California Ave, Chicago, IL 60647-5102",N CALIFORNIA AVE,1664
+126,Same Day Cafe,,,,"1676 W Ogden Ave, Chicago, IL 60612-3234",W OGDEN AVE,1676
+127,Quesadilla's,,+1 312-666-4317,,"1701 W Chicago Ave, Chicago, IL 60622-5009",W CHICAGO AVE,1701
+128,Dulceria Los Antojitos,,+1 773-944-5444,http://www.fatchrispizza.com,"1706 W Foster Ave, Chicago, IL 60640-2016",W FOSTER AVE,1706
+129,Tiny Taqueria Chicago,,+1 773-360-1793,http://www.thedeltachicago.com,"1745 W North Ave On North Avenue and Wood Street, Chicago, IL 60622-2331",W NORTH AVE,1745
+130,Reggies,2,+1 773-889-3549,http://www.dominospastries.com/,"1745 N Harlem Ave, Chicago, IL 60707-4305",N HARLEM AVE,1745
+131,Manny's Cafeteria & Delicatessen,2,+1 773-989-1986,http://www.7-eleven.com/?yext=22365,"1750 W Foster Ave, Chicago, IL 60640-2016",W FOSTER AVE,1750
+132,Hot Diggity Dogs - CLOSED,,+1 312-666-7229,,"1757 W Chicago Ave, Chicago, IL 60622-5009",W CHICAGO AVE,1757
+133,Pete's Place,,+1 312-915-0071,http://www.gooseisland.com/brewhouse-clybourn/,"1800 N Clybourn Ave, Chicago, IL 60614-4939",N CLYBOURN AVE,1800
+134,Subway,,+1 312-966-6001,http://www.facebook.com/Teapotbrew-Bakery-328408821255478/,"1802 S Wabash Ave, Chicago, IL 60616, Chicago, IL 60616-1615",S WABASH AVE,1802
+135,Arby's,,+1 773-334-6030,,"1810 W Montrose Ave, Chicago, IL 60613-1008",W MONTROSE AVE,1810
+136,Aroma Cafe,,+1 312-243-2209,,"1815 W Chicago Ave, Chicago, IL 60622-5513",W CHICAGO AVE,1815
+137,Stackerz Burgers and More. Jefferson Park,,+1 773-292-0304,https://www.chick-fil-a.com/bucktownil,"1910 W Fullerton Ave, Chicago, IL 60614",W FULLERTON AVE,1910
+138,D' Cuba Restaurant,,+1 773-270-5127,http://www.dunkindonuts.com,"1938 W North Ave, Chicago, IL 60622",W NORTH AVE,1938
+139,White Castle,,+1 773-489-6457,,"1951 W Dickens Ave, Chicago, IL 60614-3934",W DICKENS AVE,1951
+140,Chilam Balam,2,+1 773-394-7373,http://www.chicagobluefinsushibar.com/,"1952 W North Ave, Chicago, IL 60622-1318",W NORTH AVE,1952
+141,Wendy's,,+1 312-243-6343,http://www.trattoriaultimo.com,"1953 W Chicago Ave, Chicago, IL 60622-5541",W CHICAGO AVE,1953
+142,Subway,,,,"1964 W Lawrence Ave, Chicago, IL 60640-4010",W LAWRENCE AVE,1964
+143,Jin Thai,2,+1 312-842-9880,http://www.ekit.us/restaurantviewpage/yummy-yummy-noodles-chicago-60616,"2002 S Wentworth Ave Lowr LVL, Chicago, IL 60616-2024",S WENTWORTH AVE,2002
+144,Deli Flavor,2,+1 773-394-6900,https://www.mypiepizza.com/?y_source=1_MTQ3OTc5OTMtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"2010 N Damen Ave Unit E, Chicago, IL 60647",N DAMEN AVE,2010
+145,Popeyes Chicken,,+1 773-782-0450,http://estelleschicago.com/,"2013 W North Ave, Chicago, IL 60647-5413",W NORTH AVE,2013
+146,Pizza4U,,+1 312-225-8282,,"2022 S Archer Ave, Chicago, IL 60616-1589",S ARCHER AVE,2022
+147,Phil's Kastle,,+1 773-376-3959,,"2023 S Western Ave, Chicago, IL 60608-2504",S WESTERN AVE,2023
+148,Robinson's Ribs,,+1 773-927-8290,,"2024 S California Ave, Chicago, IL 60608-2406",S CALIFORNIA AVE,2024
+149,Little Caesars,,,http://trenchbar.com/,"2039 W North Ave, Chicago, IL 60647-6380",W NORTH AVE,2039
+150,Chicago BBQ Chicken,,+1 773-235-5538,http://www.lasasadasrestaurant.com,"2045 N Western Ave, Chicago, IL 60647-4167",N WESTERN AVE,2045
+151,Subway,,+1 773-235-3072,http://chicagofalafel.com/,"2057 W North Ave, Chicago, IL 60647-6758",W NORTH AVE,2057
+152,Estelle's Cafe & Pub,1,+1 773-404-3475,http://www.dirksfish.com,"2070 N Clybourn Ave Ste B1, Chicago, IL 60614-4062",N CLYBOURN AVE,2070
+153,Diver At The Park Restaurant,,+1 312-674-9688,,"2109 S Wabash Ave Ste G, Chicago, IL 60616-5401",S WABASH AVE,2109
+154,Ciampanelli Mike L,,+1 773-661-1599,https://www.brothersandsisters.fun/,"2119 W Chicago Ave, Chicago, IL 60622-4823",W CHICAGO AVE,2119
+155,Dunkin',,,,"2136 W North Ave, Chicago, IL 60647-9545",W NORTH AVE,2136
+156,Super Submarine,,+1 312-881-0168,https://www.mccbchicago.com/,"2138 S Archer Ave, Chicago, IL 60616-1514",S ARCHER AVE,2138
+157,MrBeast Burger,,+1 312-881-0168,,"2138 S Archer Ave, Chicago, IL 60616-1514",S ARCHER AVE,2138
+158,Lake Shore Cafe,2,+1 312-808-9538,http://www.chicagohingkee.com,"2140 S Archer Ave, Chicago, IL 60616-1514",S ARCHER AVE,2140
+159,Big Dolphin,,+1 773-475-7520,https://www.facebook.com/vistahermosaexpress2/,"2147 S California Ave, Chicago, IL 60608-3501",S CALIFORNIA AVE,2147
+160,JJ's Fish & Chicken,,+1 773-292-0070,,"2165 N Western Ave, Chicago, IL 60647-4146",N WESTERN AVE,2165
+161,Reno,2,+1 312-225-0600,http://www.littlelambchicago.com,"2201 S Wentworth Ave, Chicago, IL 60616-2011",S WENTWORTH AVE,2201
+162,Villa Rosa Pizza & Pasta,2,+1 773-227-5800,http://www.drbowl.com/,"2211 W Diversey Ave, Chicago, IL 60647-5900",W DIVERSEY AVE,2211
+163,Seafood Junction,,+1 312-808-1322,https://www.mayflowerchinesechicago.com/,"2225 S Wentworth Ave, Chicago, IL 60616-2011",S WENTWORTH AVE,2225
+164,Nesh Mediterranean Grill,2,+1 773-254-3663,,"2230 S Ashland Ave, Chicago, IL 60608-5302",S ASHLAND AVE,2230
+165,Morton's The Steakhouse,4,+1 312-929-2758,http://www.daguannoodle.com,"2230 S Wentworth Ave, Chicago, IL 60616-2016",S WENTWORTH AVE,2230
+166,True Food Kitchen,2,+1 773-665-7232,https://www.dominos.com/en/?redirect=homepage&utm_source=locallistings&utm_medium=loclist&utm_campaign=localmaps,"2231 N Lincoln Ave, Chicago, IL 60614-3717",N LINCOLN AVE,2231
+167,Guapo Taco,,+1 312-285-9988,http://www.thechicagohalal.com,"2233 N Lincoln Ave, Chicago, IL 60614-6202",N LINCOLN AVE,2233
+168,Fat Fish Bar & Grill,,+1 773-235-8807,http://quesadillalareinadelsur.com/,"2235 N Western Ave, Chicago, IL 60647-3142",N WESTERN AVE,2235
+169,Subway,,+1 773-262-7676,https://naanondevonandgrill.business.site/?utm_source=gmb&utm_medium=referral,"2241 W Devon Ave, Chicago, IL 60659-2042",W DEVON AVE,2241
+170,Tropical Smoothie Cafe,,+1 773-698-6925,https://www.chayfratellos.com/,"2241 N Western Ave, Chicago, IL 60647-0527",N WESTERN AVE,2241
+171,90 Miles Cuban Cafe,2,+1 773-262-1900,http://usmaniarestaurant.com/,"2244 W Devon Ave, Chicago, IL 60659-2043",W DEVON AVE,2244
+172,Subway,,+1 773-262-1900,http://www.usmaniarestaurant.com,"2244 W Devon Ave, Chicago, IL 60659-2043",W DEVON AVE,2244
+173,Valois Restaurant,1,+1 773-381-1458,,"2245 W Devon Ave, Chicago, IL 60659-3240",W DEVON AVE,2245
+174,Chipotle Mexican Grill,,+1 773-244-9484,,"2245 N Lincoln Ave, Chicago, IL 60614-3717",N LINCOLN AVE,2245
+175,Kelsey's,,+1 773-278-3932,http://www.bentoboxchicago.com/,"2246 W Armitage Ave, Chicago, IL 60647-4436",W ARMITAGE AVE,2246
+176,Maxwell's On Ogden,,+1 312-982-2969,http://www.slurpslurpnoodles.com/,"2247 S Wentworth Ave, Chicago, IL 60616-2011",S WENTWORTH AVE,2247
+177,Blind Dragon,2,+1 773-772-2333,http://jaysbeef.com,"2255 W North Ave, Chicago, IL 60647-5442",W NORTH AVE,2255
+178,Ping Pong,2,+1 773-348-1666,http://www.kelseysbar.com,"2265 N Lincoln Ave, Chicago, IL 60614-3717",N LINCOLN AVE,2265
+179,Don Diablo Restaurant,,+1 773-276-7676,,"2304 W Chicago Ave, Chicago, IL 60622-4722",W CHICAGO AVE,2304
+180,Bange's Pizza and Grill,,+1 773-254-9991,http://tanoorhalal.com/,"2304 S Kedzie Ave, Chicago, IL 60623-3333",S KEDZIE AVE,2304
+181,Jimmy Johns,,+1 312-842-8802,https://www.facebook.com/Tastypalce2306/,"2306 S Wentworth Ave, Chicago, IL 60616-2014",S WENTWORTH AVE,2306
+182,Shu Tin Xia,,+1 773-338-5800,http://www.serenarestaurant.com/,"2309 W Devon Ave # 11, Chicago, IL 60659-2003",W DEVON AVE,2309
+183,Miller's Pub & Restaurant,2,+1 773-489-5747,http://thai-lagoon.com,"2322 W North Ave, Chicago, IL 60647-5315",W NORTH AVE,2322
+184,Chipotle Mexican Grill,,+1 312-842-9880,http://www.yummyyummynoodlesil.com,"2334 S Wentworth Ave Ste 105, Chicago, IL 60616-2038",S WENTWORTH AVE,2334
+185,Argo Tea,1,+1 773-237-1300,http://www.baskinrobbins.com/,"2337 N Cicero Ave, Chicago, IL 60639",N CICERO AVE,2337
+186,Deli Boutique Wine & Spirits,,+1 312-842-1860,,"2342 S Wentworth Ave, Chicago, IL 60616-2015",S WENTWORTH AVE,2342
+187,Congress Court Global Management,,+1 773-292-0654,https://burgerking.com/store-locator/store/restaurant_782,"2344 W Chicago Ave, Chicago, IL 60622",W CHICAGO AVE,2344
+188,Paradise Grill,,+1 800-806-1532,https://www.getreef.com/?utm_source=ExtendedNetwork&utm_medium=local-listing&y_source=1_MjQzMTk4MzktNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"2350 S Wabash Ave, Chicago, IL 60616",S WABASH AVE,2350
+189,Subway,,+1 402-850-2222,http://bluesushisakegrill.com,"2351 N Lincoln Ave Suite A1-120, Chicago, IL 60614-4822",N LINCOLN AVE,2351
+190,Domino's Pizza,,+1 773-309-0908,https://www.dominos.com/en/?redirect=homepage&utm_source=locallistings&utm_medium=loclist&utm_campaign=localmaps,"2401 N Clybourn Ave, Chicago, IL 60614",N CLYBOURN AVE,2401
+191,Dim Sum House,,,https://www.facebook.com/Binas-Cafe-281796171992592,"2407 W Lunt Ave, Chicago, IL 60645-4601",W LUNT AVE,2407
+192,Sherry's Bar,,+1 773-254-6555,http://www.bacchanaliainchicago.com/,"2413 S Oakley Ave, Chicago, IL 60608-4901",S OAKLEY AVE,2413
+193,Reggie's Pizza,,+1 773-784-1318,,"2415 W Peterson Ave, Chicago, IL 60659-4102",W PETERSON AVE,2415
+194,Friends sushi on state,2,+1 773-697-7114,http://www.rangolifeast.com/,"2421 W North Ave, Chicago, IL 60647",W NORTH AVE,2421
+195,Lee Wing Wah,2,+1 773-697-3132,http://takitostreet.com,"2423 N Lincoln Ave, Chicago, IL 60614-2414",N LINCOLN AVE,2423
+196,Nicky's Restaurant,,+1 773-360-8755,http://www.galitrestaurant.com,"2429 N Lincoln Ave, Chicago, IL 60614-2414",N LINCOLN AVE,2429
+197,Bar Louie - O'Hare,2,+1 773-866-5550,http://www.nickspizzapub.com/chicago-pizza-pub/,"2434 W Montrose Ave, Chicago, IL 60618",W MONTROSE AVE,2434
+198,Jackie's on Taylor Street,,+1 773-472-3505,http://www.facebook.com/cometoclarkes/,"2441 N Lincoln Ave, Chicago, IL 60614-2414",N LINCOLN AVE,2441
+199,Mr. Submarine,,+1 773-697-9229,http://www.zaatarmedgrillchicago.com/,"2459 W Armitage Ave, Chicago, IL 60647-4342",W ARMITAGE AVE,2459
+200,Smalls,,+1 773-935-3647,,"2464 N Lincoln Ave, Chicago, IL 60614-2483",N LINCOLN AVE,2464
+201,Juno,4,+1 773-252-2620,http://www.marcellos.com/,"2475 N Milwaukee Ave, Chicago, IL 60647-2661",N MILWAUKEE AVE,2475
+202,Java & Mug Cafe,,+1 773-523-7497,,"2501 S Western Ave, Chicago, IL 60608-4807",S WESTERN AVE,2501
+203,Baskin-Robbins,,+1 248-886-6653,http://www.sabrinihari.com,"2502 W Devon Ave, Chicago, IL 60659-1970",W DEVON AVE,2502
+204,Loop Soup,,+1 312-273-1774,,"2529 N Milwaukee Ave, Chicago, IL 60647-2629",N MILWAUKEE AVE,2529
+205,Lou Malnati's Pizzeria,2,+1 773-360-8332,http://www.thecrabpad.com,"2529 N Milwaukee Ave, Chicago, IL 60647-2629",N MILWAUKEE AVE,2529
+206,JJ Fish & Chicken,,+1 773-384-0701,,"2532 W Chicago Ave, Chicago, IL 60622-4517",W CHICAGO AVE,2532
+207,Jasmine Rice,,+1 224-789-9837,,"2535 W Carmen Ave, Chicago, IL 60625-2607",W CARMEN AVE,2535
+208,Two Lights Seafood & Oyster,2,+1 872-241-9100,http://bundookhanchicago.co/,"2539 W Devon Ave, Chicago, IL 60659-1841",W DEVON AVE,2539
+209,Alulu Brewery and Pub,,+1 773-227-2822,http://www.90milescubancafe.com,"2540 W Armitage Ave, Chicago, IL 60647-4341",W ARMITAGE AVE,2540
+210,Basant,2,+1 773-360-8643,http://caffeumbria.com,"2545 W Armitage Ave, Chicago, IL 60647-4324",W ARMITAGE AVE,2545
+211,Kincade's Bar & Grill,,+1 773-523-1119,http://www.chicagojadepalace.com/,"2551 S Kedzie Ave, Chicago, IL 60623-4008",S KEDZIE AVE,2551
+212,Coyotes Restaurant,,+1 773-252-1400,,"2554 W Diversey Ave # 56, Chicago, IL 60647-1939",W DIVERSEY AVE,2554
+213,Sushi Dokku,2,+1 773-235-4500,http://www.cevichechicago.com,"2554 W Diversey Ave, Chicago, IL 60647-1939",W DIVERSEY AVE,2554
+214,Thirteen Asian Tapas and Bar,,+1 773-384-2565,https://locations.dunkindonuts.com/en/il/chicago/2565-w-fullerton-ave/343174?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=343174,"2565 W Fullerton Ave, Chicago, IL 60647",W FULLERTON AVE,2565
+215,Maxine's Caribbean Spice,,+1 773-522-2721,,"2600 W Ogden Ave, Chicago, IL 60608-1617",W OGDEN AVE,2600
+216,Burger King,,+1 773-697-4234,http://www.renochicago.com,"2607 N Milwaukee Ave Logan Square, Chicago, IL 60647-2096",N MILWAUKEE AVE,2607
+217,Las Comadres Mexican Restaurant,,+1 773-847-1601,https://www.mcdonalds.com/us/en-us/location/il/chicago/2609-s-kedzie-ave/844.html?cid=RF:YXT:RoN::Clicks,"2609 S Kedzie Ave, Chicago, IL 60623",S KEDZIE AVE,2609
+218,Nine Muses Cafe & Bar,2,+1 312-842-5400,http://foodeist.com/place/dim-sum-house-chicago-6,"2610 S Wentworth Ave, Chicago, IL 60616-2723",S WENTWORTH AVE,2610
+219,The Red Lion Lincoln Square,2,,,"2610 N California Ave, Chicago, IL 60647-1734",N CALIFORNIA AVE,2610
+220,Middle East Bakery & Grocery Cafe,1,+1 773-523-4726,,"2612 S Kedzie Ave, Chicago, IL 60623-4730",S KEDZIE AVE,2612
+221,Great Dragon,,+1 773-295-5277,,"2625 N Harlem Ave, Chicago, IL 60707-1629",N HARLEM AVE,2625
+222,Wendy's,,+1 773-935-2000,http://junosushi.com/,"2638 N Lincoln Ave, Chicago, IL 60614-1488",N LINCOLN AVE,2638
+223,Packing House,,+1 773-510-8582,https://latrailita.business.site/,"2639 S Damen Ave, Chicago, IL 60608-5224",S DAMEN AVE,2639
+224,Santiago,,+1 773-837-8612,,"2639 W Peterson Ave, Chicago, IL 60659-4017",W PETERSON AVE,2639
+225,Subway,,+1 773-506-7121,,"2640 W Lawrence Ave, Chicago, IL 60625-2945",W LAWRENCE AVE,2640
+226,Ovie Bar & Grill,2,+1 773-486-6464,http://azucartapas.com/,"2647 N Kedzie Ave, Chicago, IL 60647-1607",N KEDZIE AVE,2647
+227,Pita Cafe,,,,"2651 N Kedzie Ave, Chicago, IL 60647-1607",N KEDZIE AVE,2651
+228,Firewater Saloon - Mount Greenwood,2,+1 773-942-7547,http://goosefoot.net,"2656 W Lawrence Ave, Chicago, IL 60625-2945",W LAWRENCE AVE,2656
+229,Del Campo Pizzeria,,,,"2700 N Central Ave, Chicago, IL 60639-1326",N CENTRAL AVE,2700
+230,Dunkin',,+1 773-889-2630,,"2701 N Harlem Ave, Chicago, IL 60707-1636",N HARLEM AVE,2701
+231,Dunkin,,+1 773-698-6640,,"2715 N Milwaukee Ave, Chicago, IL 60647-1336",N MILWAUKEE AVE,2715
+232,Kare Kare,,+1 773-278-2888,http://banhmibaget.com,"2735 N Milwaukee Ave, Chicago, IL 60647-1336",N MILWAUKEE AVE,2735
+233,Topo Gigio Ristorante,2,+1 773-622-6000,http://www.sorrento-pizza.com,"2743 N Harlem Ave, Chicago, IL 60707-1636",N HARLEM AVE,2743
+234,Mordecai,2,+1 773-252-2667,,"2746 N Milwaukee Ave, Chicago, IL 60647-1337",N MILWAUKEE AVE,2746
+235,Elaine's Chop Suey,,+1 773-293-6025,http://pisolinochicago.com/,"2755 W Belmont Ave, Chicago, IL 60618-5914",W BELMONT AVE,2755
+236,Fire Wings,,+1 773-989-9100,https://www.hilltoprestaurantchicago.com/,"2800 W Foster Ave, Chicago, IL 60625-3506",W FOSTER AVE,2800
+237,Antojos & Shakes,,+1 773-880-8400,http://myhoneybakedstore.com/chicago/2105,"2815 N Ashland Ave Ashland near Diversey, Chicago, IL 60657-4001",N ASHLAND AVE,2815
+238,Yuki Hana,2,+1 773-384-5211,,"2815 W Armitage Ave, Chicago, IL 60647-3922",W ARMITAGE AVE,2815
+239,The Fisher Take Out Station,,+1 773-281-3141,http://www.7-eleven.com/?yext=35632,"2821 N Ashland Ave, Chicago, IL 60657-4001",N ASHLAND AVE,2821
+240,I 57 Rib House 5,,+1 773-698-7999,https://www.facebook.com/pages/Gyros-on-the-Spit/178604052219969,"2826 N Lincoln Ave, Chicago, IL 60657-4202",N LINCOLN AVE,2826
+241,Usmania Restaurant,2,+1 773-360-7536,https://www.facebook.com/LaCeliaChicago/,"2890 N Milwaukee Ave, Chicago, IL 60618-7413",N MILWAUKEE AVE,2890
+242,Orchestra Hall - The Club,,+1 773-687-9949,http://www.barcocinachicago.com,"2901 N Sheffield Ave, Chicago, IL 60657-5013",N SHEFFIELD AVE,2901
+243,Sharks Fish and Chicken,,+1 773-478-5506,http://www.finaestampachicago.com,"2916 W Montrose Ave, Chicago, IL 60618-1404",W MONTROSE AVE,2916
+244,Taste of Thai Town,2,+1 773-270-4520,http://www.sonofabutchertavern.com,"2934 W Diversey Ave, Chicago, IL 60647-1765",W DIVERSEY AVE,2934
+245,Wong Village Restaurant,,+1 773-871-2414,http://www.lastablas.com/,"2942 N Lincoln Ave, Chicago, IL 60657-8170",N LINCOLN AVE,2942
+246,Morgan Street Cafe,,+1 773-761-7000,https://shinwarigrill.com/,"2948 W Devon Ave, Chicago, IL 60659-1556",W DEVON AVE,2948
+247,Sultan's Market,1,+1 773-539-3938,,"2949 W Belmont Ave, Chicago, IL 60618-5803",W BELMONT AVE,2949
+248,I Cafe,1,+1 773-360-8686,https://dmkburgerbar.com/,"2954 N Sheffield Ave, Chicago, IL 60657-5048",N SHEFFIELD AVE,2954
+249,Yellow Rose Cafe,1,+1 773-281-5644,,"2967 N Lincoln Ave, Chicago, IL 60657-4108",N LINCOLN AVE,2967
+250,Reeses Lounge,,+1 773-360-1950,http://www.tanukisushichicago.com,"3006 N Sheffield Ave, Chicago, IL 60657-7001",N SHEFFIELD AVE,3006
+251,Giordano's,2,+1 773-463-3310,http://www.brotherscatering.org,"3006 N Elston Ave, Chicago, IL 60618-7106",N ELSTON AVE,3006
+252,Parisi's Drive In,,,http://www.lincolntaproom.com,"3010 N Lincoln Ave, Chicago, IL 60657-4208",N LINCOLN AVE,3010
+253,Eden,2,+1 773-697-8337,http://cellardoorprovisions.com,"3025 W Diversey Ave, Chicago, IL 60647-1725",W DIVERSEY AVE,3025
+254,Jay's Beef of Chicago,1,+1 773-327-5600,http://www.artofpizzachicago.com/,"3033 N Ashland Ave, Chicago, IL 60657-3035",N ASHLAND AVE,3033
+255,New China Town Chop Suey,,,,"3046 N Central Ave, Chicago, IL 60634-5310",N CENTRAL AVE,3046
+256,Hope Coffeehouse,,+1 872-206-8553,http://www.anichicago.com/,"3056 N Lincoln Ave, Chicago, IL 60657-4208",N LINCOLN AVE,3056
+257,Dunkin',,+1 773-836-1288,http://jasminericechicago.com/,"3103 N Narragansett Ave, Chicago, IL 60634-4920",N NARRAGANSETT AVE,3103
+258,Jb's Deli,2,+1 773-235-3355,,"3126 W Armitage Ave, Chicago, IL 60647-3819",W ARMITAGE AVE,3126
+259,Coyotes Restaurant,,+1 773-205-7890,,"3139 N Central Ave, Chicago, IL 60634-5314",N CENTRAL AVE,3139
+260,Roots Handmade Pizza,2,+1 773-281-3939,,"3140 N Lincoln Ave, Chicago, IL 60657-3117",N LINCOLN AVE,3140
+261,Barrio,2,+1 773-901-4900,https://www.dominos.com/en/?redirect=homepage&utm_source=locallistings&utm_medium=loclist&utm_campaign=localmaps,"3145 S Ashland Ave, Chicago, IL 60608-6251",S ASHLAND AVE,3145
+262,Subway,,+1 773-761-0000,,"3146 W Touhy Ave, Chicago, IL 60645-2836",W TOUHY AVE,3146
+263,Subway,,,http://Figowinebar.com,"3207 N Sheffield Ave, Chicago, IL 60657-2210",N SHEFFIELD AVE,3207
+264,Beatrix,2,+1 872-208-5153,https://www.facebook.com/taqueriaeldoradoo/,"3209 W Lawrence Ave, Chicago, IL 60625-5208",W LAWRENCE AVE,3209
+265,7 on State,1,+1 773-478-1918,http://pizzahut.com,"3216 N Kimball Ave, Chicago, IL 60618-5515",N KIMBALL AVE,3216
+266,Rittergut Wine Bar,2,+1 773-394-0106,http://facebook.com/LaBombaChi/,"3221 W Armitage Ave, Chicago, IL 60647-3715",W ARMITAGE AVE,3221
+267,Smoke Daddy Wrigleyville,2,+1 773-754-7448,http://papasphilly.com/26759,"3224 W Foster Ave, Chicago, IL 60625-4811",W FOSTER AVE,3224
+268,Mariscos la Diabla,,+1 773-961-8414,https://www.facebook.com/TortugasLatinKitchen/,"3224 W Lawrence Ave, Chicago, IL 60625-5209",W LAWRENCE AVE,3224
+269,Golden House Restaurant,1,+1 773-205-1888,,"3237 N Harlem Ave, Chicago, IL 60634-4502",N HARLEM AVE,3237
+270,D'Candela,2,+1 773-772-6719,,"3262 W North Ave, Chicago, IL 60647-4939",W NORTH AVE,3262
+271,Azul 18,2,+1 773-661-9546,http://www.facebook.com/casayari2013,"3268 W Fullerton Ave 3268 W Fullerton Ave, 60647-2563, Chicago, Illinois, Chicago, IL 60647-2563",W FULLERTON AVE,3268
+272,Joy Yee Noodles,2,+1 773-685-4777,https://www.greatdragon78.com/index.html,"3269 N Milwaukee Ave, Chicago, IL 60618",N MILWAUKEE AVE,3269
+273,GT Prime Steakhouse,4,+1 773-489-6262,,"3276 W Fullerton Ave, Chicago, IL 60647-2563",W FULLERTON AVE,3276
+274,Free Rein,2,+1 773-292-6389,,"3315 W North Ave, Chicago, IL 60647-4901",W NORTH AVE,3315
+275,Pizza Hut,,+1 773-478-5566,http://joongboomarket.com,"3333 N Kimball Ave, Chicago, IL 60618-5503",N KIMBALL AVE,3333
+276,Baba Pita,1,+1 773-481-2050,http://clubmambo.net,"3336 N Milwaukee Ave, Chicago, IL 60641-4004",N MILWAUKEE AVE,3336
+277,Lockwood Restaurant,2,+1 773-772-7547,http://www.littlecaesars.com,"3337 W North Ave, Chicago, IL 60647-4901",W NORTH AVE,3337
+278,Grafton Pub,2,+1 773-904-8405,https://www.si-piepizzeria.com/,"3349 N Sheffield Ave, Chicago, IL 60657-0944",N SHEFFIELD AVE,3349
+279,Jessie's Place,,,,"3352 W Lawrence Ave, Chicago, IL 60625-5212",W LAWRENCE AVE,3352
+280,Millenium A Steak Cigars Chops,,+1 773-327-7000,http://www.toppers.com/locations/Wrigleyville,"3404 N Sheffield Ave, Chicago, IL 60657-1608",N SHEFFIELD AVE,3404
+281,Burger King,,+1 773-293-6100,,"3407 W Belmont Ave, Chicago, IL 60618-5408",W BELMONT AVE,3407
+282,Daddy's Pizza,,+1 773-342-2444,,"3426 W Diversey Ave, Chicago, IL 60647-1221",W DIVERSEY AVE,3426
+283,Papa's Philly,,+1 716-812-6619,http://www.bartuccichicago.com,"3426 N Harlem Ave, Chicago, IL 60634-3605",N HARLEM AVE,3426
+284,Fe Fe Fast Food,,+1 773-248-4400,http://www.darkhorsechicago.com,"3443 N Sheffield Ave, Chicago, IL 60657-1613",N SHEFFIELD AVE,3443
+285,Jerk 48,,+1 773-463-3043,https://locations.pizzahut.com/il/chicago/3451-w-devon-ave,"3451 W Devon Ave, Chicago, IL 60659",W DEVON AVE,3451
+286,The Banana Leaf,,+1 773-267-7861,http://woknchopstick.com/,"3456 W Foster Ave Plaza, Chicago, IL 60625-4819",W FOSTER AVE,3456
+287,Groucho's Bar & Grill,,+1 773-692-2192,http://www.parachuterestaurant.com/,"3472 N Elston Ave, Chicago, IL 60618-5625",N ELSTON AVE,3472
+288,Rosie's SideKick,,+1 773-384-2500,http://www.turkeychop.com,"3506 W Chicago Ave, Chicago, IL 60651-4044",W CHICAGO AVE,3506
+289,Lena's Pizza,,+1 765-426-6657,http://parkandfieldchicago.com,"3509 W Fullerton Ave Logan Square, Chicago, IL 60647-2417",W FULLERTON AVE,3509
+290,Ann's Diner,,+1 800-560-6392,https://www.facebook.com/SurfsUpResturant/,"3517 N Spaulding Ave, Chicago, IL 60618-5511",N SPAULDING AVE,3517
+291,Edens Fast Food Restaurant,,+1 773-265-1090,,"3529 W 5th Ave, Chicago, IL 60624-3251",W 5TH AVE,3529
+292,Nepal house - Fine Nepali cuisine,2,+1 773-325-0123,http://thebutcherstap.com/,"3553 N Southport Ave, Chicago, IL 60657-6993",N SOUTHPORT AVE,3553
+293,Umami Sushi,2,+1 773-725-6751,https://www.facebook.com/pages/Thai-Aree-House/117665308259262,"3592 N Milwaukee Ave, Chicago, IL 60641-3959",N MILWAUKEE AVE,3592
+294,The Budlong Hot Chicken,1,+1 773-342-2445,https://www.dunkindonuts.com,"3601 W. Grand Ave, Chicago, IL 60651",W. GRAND AVE,3601
+295,Friendly Tavern,,,,"3625 W North Ave, Chicago, IL 60647-4724",W NORTH AVE,3625
+296,Candlelite,2,+1 773-276-1234,,"3638 W Fullerton Ave, Chicago, IL 60647-2345",W FULLERTON AVE,3638
+297,Hong Kong Restaurant,,+1 773-404-2855,http://www.buleriastapas.com/,"3656 N Ashland Ave, Chicago, IL 60613-3618",N ASHLAND AVE,3656
+298,Greenleaf Chopshop,,,http://coalfirechicago.com/,"3707 N Southport Ave Between Waveland Avenue & Grace Street, Chicago, IL 60613-3718",N SOUTHPORT AVE,3707
+299,Bocadillos,,+1 773-267-4368,,"3714 W Lawrence Ave, Chicago, IL 60625-5713",W LAWRENCE AVE,3714
+300,Sox Side Pizza,,+1 773-463-7770,https://www.pizzapetes.com/,"3737 N Western Ave, Chicago, IL 60618-4705",N WESTERN AVE,3737
+301,Domino's Pizza,,+1 773-857-0119,http://www.froyochicago.com,"3746 N Southport Ave, Chicago, IL 60613-3719",N SOUTHPORT AVE,3746
+302,Hello Jasmine,,+1 773-489-3748,,"3749 W Fullerton Ave, Chicago, IL 60647-2330",W FULLERTON AVE,3749
+303,Pizza Hut,,+1 773-247-9110,,"3752 S Kedzie Ave, Chicago, IL 60632-2729",S KEDZIE AVE,3752
+304,Pizza Capri,2,+1 773-583-6161,http://www.7-eleven.com/?yext=26825,"3800 N Kedzie Ave, Chicago, IL 60618-3414",N KEDZIE AVE,3800
+305,Manjares Restaurant,,+1 773-376-3285,,"3805 S Kedzie Ave, Chicago, IL 60632-2710",S KEDZIE AVE,3805
+306,Museum Cafe,2,+1 872-208-5581,,"3810 W Lawrence Ave, Chicago, IL 60625-6206",W LAWRENCE AVE,3810
+307,Brown Bag Seafood Co.,,+1 773-442-8001,http://www.facebook.com/BorinquenJibarito,"3811 N Western Ave, Chicago, IL 60618-3740",N WESTERN AVE,3811
+308,Potbelly Sandwich Shop,,+1 773-866-1411,,"3821 W Lawrence Ave Ste 1, Chicago, IL 60625-5491",W LAWRENCE AVE,3821
+309,Square Roots Kitchen,,+1 773-904-8150,,"3835 W Fullerton Ave, Chicago, IL 60647-2245",W FULLERTON AVE,3835
+310,La Creperie,2,+1 773-285-3600,http://bronzevillesfinest.com/menu-1,"3851 S Michigan Ave, Chicago, IL 60653-1513",S MICHIGAN AVE,3851
+311,7-Eleven,,+1 773-267-7287,http://www.leonas.com,"3877 N Elston Ave, Chicago, IL 60618-4232",N ELSTON AVE,3877
+312,Jason's Wok,,+1 773-327-8818,http://cestbienthai.com,"3900 N Lincoln Ave, Chicago, IL 60613-2418",N LINCOLN AVE,3900
+313,Quench,,+1 773-327-8818,http://namothai.com/home.html,"3900 N Lincoln Ave, Chicago, IL 60613-2418",N LINCOLN AVE,3900
+314,KAYBEE's Indian Flavor,,+1 773-927-9228,,"3901 S California Ave, Chicago, IL 60632-1807",S CALIFORNIA AVE,3901
+315,Big Bowl,2,+1 773-777-6612,,"3904 N Cicero Ave, Chicago, IL 60641-2709",N CICERO AVE,3904
+316,Argo Tea,,,,"3905 N Lincoln Ave, Chicago, IL 60613-2417",N LINCOLN AVE,3905
+317,Son Of A Butcher,2,+1 773-777-3940,,"3909 W Belmont Ave, Chicago, IL 60618-5101",W BELMONT AVE,3909
+318,Galit Restaurant,4,+1 773-249-7222,https://www.dominos.com/en/?redirect=homepage&utm_source=locallistings&utm_medium=loclist&utm_campaign=localmaps,"3918 N Cicero Ave, Chicago, IL 60461",N CICERO AVE,3918
+319,Wisma,,+1 773-342-6464,,"3920 W Diversey Ave, Chicago, IL 60647-1021",W DIVERSEY AVE,3920
+320,Ninja Sushi &Thai,,+1 773-348-2788,http://www.hanamisushichicago.com/,"3925 N Lincoln Ave, Chicago, IL 60613-2428",N LINCOLN AVE,3925
+321,May St. Cafe,2,+1 872-713-9486,http://www.facebook.com/Ninja-sushi-thai-563524107176124,"3946 N Central Ave, Chicago, IL 60634-2732",N CENTRAL AVE,3946
+322,The wing stop,,+1 773-625-0000,https://www.facebook.com/falafeldream/,"3950 N Harlem Ave, Chicago, IL 60634-2219",N HARLEM AVE,3950
+323,Meet Fresh,2,+1 773-993-1111,https://www.jetspizza.com/stores/illinois/chicago/3951-n-kimball-ave,"3951 N Kimball Ave, Chicago, IL 60618",N KIMBALL AVE,3951
+324,Komorebi Sushi,2,+1 312-857-4221,http://www.smallschicago.com,"4009 N Albany Ave, Chicago, IL 60618-2501",N ALBANY AVE,4009
+325,Resi's Bierstube,2,,http://www.chinachefil.com/,"4042 N Narragansett Ave Dunning Square, Chicago, IL 60634-1586",N NARRAGANSETT AVE,4042
+326,Hakka Bakka Rolls,,+1 773-202-1992,,"4046 W Lawrence Ave, Chicago, IL 60630-2832",W LAWRENCE AVE,4046
+327,Drumbar,2,+1 773-478-0819,https://www.facebook.com/DCandelaRestaurant/?ref=br_rs,"4053 N Kedzie Ave, Chicago, IL 60618-2415",N KEDZIE AVE,4053
+328,Haydee's Grill,,+1 773-279-9141,,"4100 N Kedzie Ave, Chicago, IL 60618-2410",N KEDZIE AVE,4100
+329,Downtown Entertainment,,+1 773-650-1166,,"4106 S Archer Ave, Chicago, IL 60632-1813",S ARCHER AVE,4106
+330,The Welcome Back Lounge,,+1 773-235-1264,,"4107 W North Ave, Chicago, IL 60639-5205",W NORTH AVE,4107
+331,7-Eleven,,+1 773-360-1869,,"4128 N Lincoln Ave, Chicago, IL 60618-3028",N LINCOLN AVE,4128
+332,The Delta,2,,,"4128 N Lincoln Ave, Chicago, IL 60618-3028",N LINCOLN AVE,4128
+333,Vinny's Pizza Bar,2,+1 773-685-4960,,"4148 W Montrose Ave, Chicago, IL 60641-2161",W MONTROSE AVE,4148
+334,Irish Nobleman Pub Chicago,2,+1 773-486-1424,,"4158 W Armitage Ave, Chicago, IL 60639-3645",W ARMITAGE AVE,4158
+335,Taqueria Los Gallos,1,+1 773-880-1100,https://www.facebook.com/Smokin-Woodys-113071645401727/,"4160 N Lincoln Ave, Chicago, IL 60618-3061",N LINCOLN AVE,4160
+336,Super Burrito,,+1 773-384-4644,,"4242 W Fullerton Ave, Chicago, IL 60639-2050",W FULLERTON AVE,4242
+337,La Sirena II,,+1 800-392-2837,http://www.suparossa.com/restaurants/sup_suparossa.asp,"4256 N Central Ave, Chicago, IL 60634-1810",N CENTRAL AVE,4256
+338,Oda Mediterranean Cuisine,2,+1 847-904-3600,http://Www.pokeburritochicago.com,"4301 N Lincoln Ave, Chicago, IL 60618-1711",N LINCOLN AVE,4301
+339,7-Eleven,,+1 773-254-3030,https://www.dominos.com/en/?redirect=homepage&utm_source=locallistings&utm_medium=loclist&utm_campaign=localmaps,"4315 S Ashland Ave, Chicago, IL 60609-3140",S ASHLAND AVE,4315
+340,El Pecado Mexican Food,,+1 773-654-3133,,"4337 N Western Ave, Chicago, IL 60618-1621",N WESTERN AVE,4337
+341,Kevin's Hamburger Heaven,,+1 773-227-7770,https://restaurants.subway.com/united-states/il/chicago/4351-w-armitage-ave?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=31696&utm_campaign=evergreen-2020&y_source=1_MTQ5MDA2MDQtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"4351 W Armitage Ave Armitage Plaza, Chicago, IL 60639-3521",W ARMITAGE AVE,4351
+342,Njaravel II,,+1 773-282-2325,http://www.luckygrillrestaurant.com/,"4454 N Milwaukee Ave, Chicago, IL 60630-3743",N MILWAUKEE AVE,4454
+343,BarTucci,2,+1 773-685-6040,http://ordermayfairrestaurant.com/,"4461 W Lawrence Ave, Chicago, IL 60630-2693",W LAWRENCE AVE,4461
+344,Snoball's Chance,,,http://www.due-lire.com,"4520 N Lincoln Ave, Chicago, IL 60625-8066",N LINCOLN AVE,4520
+345,Starbucks Coffee,,+1 773-271-9000,http://www.thegrafton.com,"4530 N Lincoln Ave, Chicago, IL 60625-2103",N LINCOLN AVE,4530
+346,Limitless Coffe & Tea,,+1 773-681-0950,http://thewarblerchicago.com,"4535 N Lincoln Ave Lincoln Square, Chicago, IL 60625-2102",N LINCOLN AVE,4535
+347,Church's Chicken,,+1 773-961-7624,https://www.pokiologychi.com/,"4600 N Magnolia Ave, Chicago, IL 60640-5083",N MAGNOLIA AVE,4600
+348,Fat Chris's Pizza and Such,,+1 419-655-3785,,"4600 N Magnolia Ave, Chicago, IL 60640-5083",N MAGNOLIA AVE,4600
+349,Gino's East,,+1 773-654-3610,http://www.bakermillerchicago.com/,"4610 N Western Ave, Chicago, IL 60625-2184",N WESTERN AVE,4610
+350,Subway,,+1 773-270-9005,http://thebudlong.com,"4619 N Western Ave B, Chicago, IL 60625-2022",N WESTERN AVE,4619
+351,Crushed Pizzeria,,+1 773-589-9928,http://Eatumamisushi.com,"4626 N Cumberland Ave The Shops at Cumberland Court, Chicago, IL 60656-4237",N CUMBERLAND AVE,4626
+352,Philly Steak & Fresh Lemonade,,+1 773-927-4801,,"4638 S Damen Ave, Chicago, IL 60609-4043",S DAMEN AVE,4638
+353,Greek Islands Restaurant,2,+1 773-942-7215,,"4639 N Kedzie Ave, Chicago, IL 60625-4426",N KEDZIE AVE,4639
+354,Asian Cajun Plus,1,,,"4649 N Damen Ave, Chicago, IL 60625-1501",N DAMEN AVE,4649
+355,Pete's Pizza,2,+1 773-506-8689,http://www.eatndrinks.com,"4649 N Damen Ave, Chicago, IL 60625-1501",N DAMEN AVE,4649
+356,Nutella Bar,2,+1 773-767-8662,https://locations.dunkindonuts.com/en/il/chicago/4649-s.-cicero-ave/302688?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=302688,"4649 S. Cicero Ave, Chicago, IL 60632",S. CICERO AVE,4649
+357,Westminster Hot Dog,,+1 773-538-6800,http://www.ilovefoodgroup.com,"4653 S Michigan Ave, Chicago, IL 60653-3810",S MICHIGAN AVE,4653
+358,New Thai Kitchen,,+1 773-275-8360,https://www.facebook.com/Aroy-Thai-Restaurant-122070877807370/,"4656 N Damen Ave, Chicago, IL 60625-1529",N DAMEN AVE,4656
+359,Billy Goat Tavern (Navy Pier),1,+1 773-681-0104,,"4701 N Lincoln Ave, Chicago, IL 60625-2009",N LINCOLN AVE,4701
+360,BIN 36,2,+1 773-583-0304,,"4714 N Kedzie Ave, Chicago, IL 60625-4421",N KEDZIE AVE,4714
+361,Potbelly Sandwich Shop,,+1 773-735-4388,https://restaurants.subway.com/united-states/il/chicago/4735-s-cicero-ave?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=30961&utm_campaign=evergreen-2020&y_source=1_MTQ5MTAzNjEtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"4735 S Cicero Ave, Chicago, IL 60632",S CICERO AVE,4735
+362,The Freeze,,-1395,https://www.facebook.com/Hot-Dog-Station-331111296961897/,"4742 N Kimball Ave, Chicago, IL 60625-5305",N KIMBALL AVE,4742
+363,NO Regret Meal Prep,,+1 773-523-5675,,"4750 S Washtenaw Ave, Chicago, IL 60632-2003",S WASHTENAW AVE,4750
+364,Harold's Chicken Shack,,+1 708-458-4343,https://www.facebook.com/pages/Donalds-Famous-Hot-Dogs/111591902206823,"4759 S Central Ave, Chicago, IL 60638-1530",S CENTRAL AVE,4759
+365,Taco & Burrito Palace,,+1 872-208-7441,http://artangosteakhouse.com,"4767 N Lincoln Ave, Chicago, IL 60625",N LINCOLN AVE,4767
+366,Blue Sushi Sake Grill,,+1 773-283-8323,http://elasaderocolombiano.com/,"4800 N Central Ave, Chicago, IL 60630-3212",N CENTRAL AVE,4800
+367,Lalo Mexican Restaurant,,+1 773-725-2400,http://www.littlecaesars.com,"4810 W Diversey Ave # Diversey, Chicago, IL 60639-1704",W DIVERSEY AVE,4810
+368,Pure Cafe,,,,"4829 N Kedzie Ave, Chicago, IL 60625-5206",N KEDZIE AVE,4829
+369,Naan on Devon Restaurant,,+1 773-681-0394,https://locations.tropicalsmoothiecafe.com/il/chicago/4874-north-lincoln-ave?y_source=1_MTQ3NDM3NTUtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"4874 North Lincoln Ave, Chicago, IL 60625",NORTH LINCOLN AVE,4874
+370,Hing Kee Restaurant,1,+1 773-725-5080,https://www.facebook.com/SUNNYDAY-TAP-265626490142822/,"4953 N Elston Ave, Chicago, IL 60630-1732",N ELSTON AVE,4953
+371,7-Eleven,,+1 773-237-3351,,"5046 W Armitage Ave, Chicago, IL 60639-3159",W ARMITAGE AVE,5046
+372,D.S. Tequila Co.,2,+1 773-863-0886,,"5050 S Kedzie Ave, Chicago, IL 60632-3009",S KEDZIE AVE,5050
+373,Rudy's Bar and Grille,2,+1 773-924-2706,,"5100 S Racine Ave, Chicago, IL 60609-5011",S RACINE AVE,5100
+374,Hacienda Los Torres,,+1 773-237-8655,https://www.mcdonalds.com/us/en-us/location/il/chicago/5133-w-north-ave/3518.html?cid=RF:YXT:RoN::Clicks,"5133 W North Ave, Chicago, IL 60639",W NORTH AVE,5133
+375,Subway,,+1 773-271-5176,,"5157 N Lincoln Ave, Chicago, IL 60625-2520",N LINCOLN AVE,5157
+376,Subway,,+1 773-585-6519,,"5173 S Archer Ave, Chicago, IL 60632-4758",S ARCHER AVE,5173
+377,Furious Spoon,2,+1 872-888-8596,http://mrsubmarine.com/,"5212 N Lincoln Ave, Chicago, IL 60625-2406",N LINCOLN AVE,5212
+378,Aroy Thai,2,+1 773-282-4743,,"5222 W Diversey Ave, Chicago, IL 60639-1502",W DIVERSEY AVE,5222
+379,Rib Joint,,+1 773-728-2663,http://www.leadwaytavern.com,"5233 N Damen Ave, Chicago, IL 60625-1335",N DAMEN AVE,5233
+380,Heartwise Express III,,+1 773-603-3802,,"5237 N Harlem Ave, Chicago, IL 60656-1875",N HARLEM AVE,5237
+381,JB Gee's BBQ,,+1 773-637-4747,,"5245 W Fullerton Ave, Chicago, IL 60639-1445",W FULLERTON AVE,5245
+382,Steak Escape,,+1 773-767-3200,https://www.facebook.com/breethairestaurant/,"5306 S Central Ave, Chicago, IL 60638-2837",S CENTRAL AVE,5306
+383,Imani's Original Bean Pies & Fine Foods,,,,"5337 W Belmont Ave, Chicago, IL 60641-4104",W BELMONT AVE,5337
+384,Chicago Hilton,2,+1 773-774-7107,,"5345 W Devon Ave, Chicago, IL 60646-4142",W DEVON AVE,5345
+385,Zaatar Med Grill,,+1 773-268-1600,,"5401 S Wentworth Ave, Chicago, IL 60609-6300",S WENTWORTH AVE,5401
+386,ChiSox Bar & Grill,2,+1 773-784-9135,http://pueblitoviejo.com/,"5429 N Lincoln Ave, Chicago, IL 60625-2222",N LINCOLN AVE,5429
+387,Happy Panda,,+1 773-745-5445,http://www.cafehabibiil.com,"5445 W Diversey Ave, Chicago, IL 60639-1413",W DIVERSEY AVE,5445
+388,Replay Andersonville,,+1 773-268-5145,,"5451 S Wentworth Ave, Chicago, IL 60609-6346",S WENTWORTH AVE,5451
+389,Poke Burrito,1,+1 773-378-3858,,"5531 W Chicago Ave, Chicago, IL 60651-2727",W CHICAGO AVE,5531
+390,Mango Pickle,2,+1 773-378-0402,,"5535 W Chicago Ave, Chicago, IL 60651-2727",W CHICAGO AVE,5535
+391,7-Eleven,,+1 773-637-3377,,"5538 W Fullerton Ave, Chicago, IL 60639-1366",W FULLERTON AVE,5538
+392,Blue Elephant,,+1 773-539-1570,http://www.7-eleven.com/?yext=13369,"5610 N Kimball Ave, Chicago, IL 60659-4502",N KIMBALL AVE,5610
+393,Harry Caray's Shortstop,,+1 773-332-8029,https://www.barlouie.com/locations/us/il/chicago/o'hare,"5615 N Cumberland Ave, Chicago, IL 60631",N CUMBERLAND AVE,5615
+394,Joey's Shrimp House,1,+1 773-586-6460,https://locations.dunkindonuts.com/en/il/chicago/5615-s-harlem-ave/336088?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=336088,"5615 S Harlem Ave, Chicago, IL 60638",S HARLEM AVE,5615
+395,Subway,,+1 773-631-2297,https://www.facebook.com/Yellow-Rose-Cafe-195832013786790/,"5640 N Elston Ave, Chicago, IL 60646-6537",N ELSTON AVE,5640
+396,Mo Dailey's Pub & Grille,2,+1 773-784-2143,,"5652 N Western Ave, Chicago, IL 60659-5113",N WESTERN AVE,5652
+397,7-Eleven,,+1 773-237-0900,http://www.dcubarestaurant.com,"5653 W Fullerton Ave, Chicago, IL 60639-2351",W FULLERTON AVE,5653
+398,Jimmy Johns,,+1 773-598-7374,,"5700 S Cicero Ave, Chicago, IL 60638-3831",S CICERO AVE,5700
+399,Nancy's Pizzeria,,+1 877-325-8777,,"5700 S Cicero Ave, Chicago, IL 60638-3831",S CICERO AVE,5700
+400,Pera Turkish kitchen & bar - CLOSED,2,+1 773-229-0382,https://www.potbelly.com/locations/illinois/summit,"5709 S. Harlem Ave, Chicago, IL 60638",S. HARLEM AVE,5709
+401,Harolds Chicken Shack,1,+1 773-237-4447,,"5714 W Fullerton Ave, Chicago, IL 60639-2307",W FULLERTON AVE,5714
+402,Whole Foods Market,2,+1 773-284-7555,https://www.facebook.com/Tequila-CJ-Cantina-Grill-1663016913739429/,"5728 S Archer Ave, Chicago, IL 60638-1618",S ARCHER AVE,5728
+403,Jimmy John's,,+1 773-685-2301,http://www.joesonhiggins.com,"5747 W Higgins Ave, Chicago, IL 60630",W HIGGINS AVE,5747
+404,Shinwari Grill,,+1 872-208-5842,https://cabosbaja.com/,"5750 N California Ave, Chicago, IL 60659",N CALIFORNIA AVE,5750
+405,Dianas Restaurant,,+1 773-417-3760,http://www.polishhousechicago.com/,"5753 W Belmont Ave, Chicago, IL 60634-5211",W BELMONT AVE,5753
+406,El Famous Burrito,,,,"5754 W Belmont Ave, Chicago, IL 60634-5208",W BELMONT AVE,5754
+407,Jimmy Johns,,+1 773-287-0363,https://www.facebook.com/Colemans-Bar-B-Que-2-126972204036653/,"5754 W Chicago Ave, Chicago, IL 60651-2623",W CHICAGO AVE,5754
+408,Wing Stop,,+1 773-409-4646,http://www.argotea.com/,"5758 S Maryland Ave, Chicago, IL 60637-1426",S MARYLAND AVE,5758
+409,Grand Lux Cafe,2,+1 773-930-4340,http://brandysgyros.com,"5777 N Milwaukee Ave, Chicago, IL 60646-6237",N MILWAUKEE AVE,5777
+410,Pizza Hut,,,,"5810 W North Ave, Chicago, IL 60639-4041",W NORTH AVE,5810
+411,Sayat Nova,2,+1 312-761-4948,https://locations.panerabread.com/il/chicago/5815-s-maryland-ave.html?utm_medium=yext&utm_source=local&utm_campaign=yext&utm_content=local-search,"5815 S Maryland Ave, Chicago, IL 60637",S MARYLAND AVE,5815
+412,Hawkeye's Bar & Grill,2,+1 773-637-2717,http://www.jesscafeonline.com/,"5819 W Belmont Ave, Chicago, IL 60634-5203",W BELMONT AVE,5819
+413,Frances Chicken,,+1 773-907-0917,http://www.kudospizzamenu.com/,"5858 N Lincoln Ave, Chicago, IL 60659-4611",N LINCOLN AVE,5858
+414,Arriba Mexico Restaurant,,,,"5859 S Kedzie Ave, Chicago, IL 60629-3212",S KEDZIE AVE,5859
+415,Polish House Polska Chata,2,773-234-DANA,,"5868 N Lincoln Ave, Chicago, IL 60659-4615",N LINCOLN AVE,5868
+416,Three Harmony Chinese Food,,+1 773-889-4800,http://honghuah.com,"5924 W Fullerton Ave, Chicago, IL 60639-2208",W FULLERTON AVE,5924
+417,Weather Mark Tavern,2,+1 773-745-3800,,"5925 W Diversey Ave, Chicago, IL 60639-1105",W DIVERSEY AVE,5925
+418,sweetgreen,,+1 773-626-7699,,"5944 W Chicago Ave, Chicago, IL 60651-2523",W CHICAGO AVE,5944
+419,New England Inn,,,,"5959 W Lawrence Ave, Chicago, IL 60630-3129",W LAWRENCE AVE,5959
+420,Brudders Lounge,,+1 872-208-3260,http://www.elcarritotacos.com/,"6019 N Lincoln Ave Lincoln and Peterson, Chicago, IL 60659-2410",N LINCOLN AVE,6019
+421,Robinson's #1 Ribs - South Canal,1,+1 773-205-1100,http://www.wholefoodsmarket.com/stores/sauganash,"6020 N Cicero Ave Sauganash, Chicago, IL 60646-4302",N CICERO AVE,6020
+422,Surf's Up,,+1 773-761-0977,,"6034 N Washtenaw Ave, Chicago, IL 60659-3930",N WASHTENAW AVE,6034
+423,Taco Maya,,+1 773-736-3385,,"6045 N Cicero Ave, Chicago, IL 60646-4301",N CICERO AVE,6045
+424,Sweet Maple Cafe,2,+1 773-498-4194,,"6051 S Racine Ave, Chicago, IL 60636-1917",S RACINE AVE,6051
+425,La Sardine,2,+1 773-776-3421,https://locations.dunkindonuts.com/en/il/chicago/6100-s.-western-ave/304908?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=304908,"6100 S. Western Ave, Chicago, IL 60636",S. WESTERN AVE,6100
+426,The Warbler,2,,,"6100 W Belmont Ave, Chicago, IL 60634-4003",W BELMONT AVE,6100
+427,Baker Miller,2,+1 773-338-6666,,"6130 N Ravenswood Ave, Chicago, IL 60660-2320",N RAVENSWOOD AVE,6130
+428,Fireplace Inn,2,+1 773-792-2440,http://www.jetspublichouse.com,"6148 N Milwaukee Ave, Chicago, IL 60646-3821",N MILWAUKEE AVE,6148
+429,McDonald's,1,+1 773-647-1386,http://thegaragechicago.com/,"6154 N Milwaukee Ave, Chicago, IL 60646-3821",N MILWAUKEE AVE,6154
+430,WokStation,,+1 872-203-9721,http://www.wingstop.com,"6160 N Lincoln Ave, Chicago, IL 60659-2320",N LINCOLN AVE,6160
+431,Donald's Famous Hot Dogs,1,+1 773-585-2767,https://www.facebook.com/pages/Three-Sons-Restaurant/115270005162774,"6200 S Archer Ave, Chicago, IL 60638-2610",S ARCHER AVE,6200
+432,Mr Crab,,+1 773-585-8835,,"6222 S Archer Ave, Chicago, IL 60638-2610",S ARCHER AVE,6222
+433,Urban Pantry,,+1 773-863-0944,http://www.chinaexpresstysons.com,"6239 S Ashland Ave, Chicago, IL 60636-2323",S ASHLAND AVE,6239
+434,Coalfire,2,+1 773-856-0407,http://www.simisrestaurant.com,"6310 N Western Ave, Chicago, IL 60659-2010",N WESTERN AVE,6310
+435,Kims Restaurant,,+1 773-581-5521,https://burgerking.com/store-locator/store/restaurant_7344,"6350 South Cicero Ave, Chicago, IL 60638",SOUTH CICERO AVE,6350
+436,King Crab House,2,+1 773-237-6559,https://burgerking.com/store-locator/store/restaurant_3928,"6400 West Fullerton Ave, Chicago, IL 60707",WEST FULLERTON AVE,6400
+437,La Bomba,1,+1 773-853-2956,http://www.subway.com/en-us/findastore,"6411 N Central Ave, Chicago, IL 60646-2901",N CENTRAL AVE,6411
+438,Compeche Restaurant,,+1 773-381-3333,,"6411 N Western Ave Between W Devon Avenue and W Arthur Avenue, Chicago, IL 60645-5421",N WESTERN AVE,6411
+439,El Palenque,,,,"6426 N Western Ave, Chicago, IL 60645-5197",N WESTERN AVE,6426
+440,Subway,,+1 773-436-9000,,"6514 S Western Ave, Chicago, IL 60636-2411",S WESTERN AVE,6514
+441,Dollop Coffee Co.,,+1 773-745-7025,http://www.oldcountrybuffet.com,"6560 W Fullerton Ave Ste K, Chicago, IL 60707-3439",W FULLERTON AVE,6560
+442,Laojiumen,,+1 773-622-8150,http://subway.com/,"6600 W North Ave, Chicago, IL 60707-3906",W NORTH AVE,6600
+443,Facades Bar,,+1 626-872-3519,,"6601 S Wolcott Ave, Chicago, IL 60636-2627",S WOLCOTT AVE,6601
+444,Town Hall Pub,,+1 773-663-2568,,"6652 S Langley Ave, Chicago, IL 60637-4135",S LANGLEY AVE,6652
+445,New Life Cafe,,+1 773-586-2828,https://www.obbiespizza.com/,"6654 W Archer Ave, Chicago, IL 60638-2420",W ARCHER AVE,6654
+446,Le Pain Quotidien,2,,,"6701 S Damen Ave Between Marquette Road & 67th Place, Chicago, IL 60636-3204",S DAMEN AVE,6701
+447,White Sox Grill,2,+1 773-427-0727,https://www.facebook.com/ferajnachicago/,"6714 W Belmont Ave Ste 2, Chicago, IL 60634-4883",W BELMONT AVE,6714
+448,A Sweets Girl,,+1 773-737-6161,,"6854 S Ashland Ave, Chicago, IL 60636-3415",S ASHLAND AVE,6854
+449,Fat Tommy's,1,+1 773-736-9050,,"6912 W Belmont Ave, Chicago, IL 60634-4643",W BELMONT AVE,6912
+450,Mantu Delight,,+1 773-776-0668,http://www.pizza-4-u.com,"6920 S Ashland Ave, Chicago, IL 60636-3941",S ASHLAND AVE,6920
+451,Jade Orient,2,+1 773-338-9494,https://www.facebook.com/pages/Noon-Hour-Grill/111595445544752,"6930 N Glenwood Ave, Chicago, IL 60626-3412",N GLENWOOD AVE,6930
+452,Trivoli Tavern,4,+1 773-856-6050,http://jessemexicangrill.com/,"6950 N Western Ave, Chicago, IL 60645-4718",N WESTERN AVE,6950
+453,Subway,,+1 773-775-3974,http://www.triospizza.com,"7009 W Higgins Ave, Chicago, IL 60656-1901",W HIGGINS AVE,7009
+454,Pizzareno's,,+1 773-775-6615,http://www.congaschicago.com,"7021 W Higgins Ave, Chicago, IL 60656-1901",W HIGGINS AVE,7021
+455,E and B Restaurant,,,,"7100 S South Chicago Ave, Chicago, IL 60619-1231",S SOUTH CHICAGO AVE,7100
+456,Silver Spoon,2,+1 773-622-5334,,"7108 W Grand Ave, Chicago, IL 60707-2805",W GRAND AVE,7108
+457,The Signature Room at the 95th,4,,,"7193 W Grand Ave, Chicago, IL 60707-2807",W GRAND AVE,7193
+458,Catch 35,4,+1 773-306-0281,,"7200 S Western Ave, Chicago, IL 60636-3637",S WESTERN AVE,7200
+459,Ara On,2,+1 773-336-8592,http://www.mysoulcafe.com/,"7201 S Exchange Ave, Chicago, IL 60649-2525",S EXCHANGE AVE,7201
+460,McDonald's,,+1 708-728-1800,http://www.jimmyjohns.com,"7250 S Cicero Ave Ste G, Chicago, IL 60629-5849",S CICERO AVE,7250
+461,Starbucks,,+1 773-737-6252,,"7301 S Kedzie Ave, Chicago, IL 60629-3533",S KEDZIE AVE,7301
+462,West Loop Salumi,,+1 773-581-5300,,"7353 S Cicero Ave, Chicago, IL 60629-5816",S CICERO AVE,7353
+463,Sharks Fish & Grill,,+1 773-783-1818,http://www.facebook.com/Haires-Gulf-Shrimp-125415250847100,"7448 S Vincennes Ave, Chicago, IL 60621-3438",S VINCENNES AVE,7448
+464,Mama Milano,2,+1 773-465-0087,http://www.candlelitechicago.com,"7452 N Western Ave, Chicago, IL 60645-1734",N WESTERN AVE,7452
+465,Las Islas Marias restaurant,,,,"7601 S Cicero Ave, Chicago, IL 60652-1022",S CICERO AVE,7601
+466,Infields,2,+1 773-631-9661,http://luckygrillrestaurant.com,"7779 W Talcott Ave, Chicago, IL 60631-3840",W TALCOTT AVE,7779
+467,Su Taqueria El Rey Del Taco,,,,"7828 S Western Ave, Chicago, IL 60620-5822",S WESTERN AVE,7828
+468,Andy's Inc,,+1 773-778-2863,,"7829 S Western Ave, Chicago, IL 60620-5823",S WESTERN AVE,7829
+469,City Press Juice & Bottle North Ave,,+1 773-224-6612,http://www.nicksgyroschicago.com,"7856 S Ashland Ave, Chicago, IL 60620-4252",S ASHLAND AVE,7856
+470,Toscana,,+1 773-731-2618,,"7902 S Exchange Ave, Chicago, IL 60617-1416",S EXCHANGE AVE,7902
+471,Trio's Pizza,,+1 773-582-0700,,"8159 S Cicero Ave, Chicago, IL 60652-2017",S CICERO AVE,8159
+472,Ms. T's,2,+1 773-737-6668,,"8240 S Kedzie Ave, Chicago, IL 60652-3329",S KEDZIE AVE,8240
+473,China Fan,,+1 773-298-0964,,"8316 S Ashland Ave, Chicago, IL 60620-4606",S ASHLAND AVE,8316
+474,Burger King,,+1 773-992-2288,http://www.mariasmexicanrestaurant.com/,"9440 W Foster Ave, Chicago, IL 60656-1002",W FOSTER AVE,9440
+475,Capt'n Nemo's,,+1 773-768-6555,,"9485 S Ewing Ave, Chicago, IL 60617-4643",S EWING AVE,9485
+476,Not Just Wines,,+1 773-445-3400,,"9645 S Western Ave, Chicago, IL 60643-1722",S WESTERN AVE,9645
+477,Sweet Pepper Venezuelan Food Bar,,,https://www.starbucks.com/,"10000 W Ohare Ave Terminal 3, Concourse H, Gate H-6, Chicago, IL 60666-6000",W OHARE AVE,10000
+478,Saucy Porka,1,,,"10000 W Ohare Ave Terminal 3, Concourse K, Gate K-9, Chicago, IL 60666-6000",W OHARE AVE,10000
+479,Domino's Pizza,,,,"10000 W Ohare Ave Terminal 2, Concourse F, Gate F-19, Chicago, IL 60666-6000",W OHARE AVE,10000
+480,Ruchi Cafe and Express Lunch,,,,"10000 S Michigan Ave, Chicago, IL 60628-2008",S MICHIGAN AVE,10000
+481,Diversey River Bowl,,,,"10000 W Ohare Ave Terminal 1, Baggage Claim, Chicago, IL 60666-6000",W OHARE AVE,10000
+482,D.S. Fajita Factory,2,+1 773-377-7800,https://www.flychicago.com/ohare/eatshopmore/eat/pages/default.aspx?filteramenityid=121&filteramenityname=Facades%20Bar&filterlocation=K15,"10000 W Ohare Ave Terminal 3, Concourse K, Gate K-15, Chicago, IL 60666-6000",W OHARE AVE,10000
+483,Subway,,,,"10000 W Ohare Ave Terminal 3, Concourse H, Gate H-5, Chicago, IL 60666-6000",W OHARE AVE,10000
+484,Pronto'za,,,,"10000 W Ohare Ave Terminal 2, Concourse F, Gate F-7, Chicago, IL 60666-6000",W OHARE AVE,10000
+485,Tanuki Sushi & Grill,2,,,"10000 W Ohare Ave Terminal 3, Concourse H, Gate H-6, Chicago, IL 60666-6000",W OHARE AVE,10000
+486,Si-Pie Pizzeria Wrigleyville,,,,"10000 W Ohare Ave Terminal 3, Concourse K, Gate K-4, Chicago, IL 60666-6000",W OHARE AVE,10000
+487,Yummy Yummy Chinese Noodles,,+1 773-238-7969,,"10034 S Western Ave, Chicago, IL 60643-1926",S WESTERN AVE,10034
+488,Little Joe's Circle Lounge,,+1 773-995-6618,http://www.whitecastle.com,"10301 S Michigan Ave, Chicago, IL 60628-2723",S MICHIGAN AVE,10301
+489,Terry's Toffee,2,+1 773-429-1598,https://www.facebook.com/ORourkesOffice/,"11064 S Western Ave, Chicago, IL 60643-3928",S WESTERN AVE,11064
+490,Taqueria El Charro I,,+1 773-568-7064,,"11134 S Michigan Ave, Chicago, IL 60628-4337",S MICHIGAN AVE,11134
+491,Las 3 Islas de Nayarit,,+1 773-568-5226,,"11318 S Michigan Ave, Chicago, IL 60628-4912",S MICHIGAN AVE,11318
+492,Pho Viet,1,+1 773-468-0748,,"11342 S Michigan Ave, Chicago, IL 60628-4942",S MICHIGAN AVE,11342
+493,Aloha Wagon,,+1 773-260-9000,,"11346 S Michigan Ave, Chicago, IL 60628-4942",S MICHIGAN AVE,11346
+494,Original Maxwell Street and More,,+1 773-660-8870,https://locations.pizzahut.com/il/chicago/11708-s-marshfield-ave,"11708 S. Marshfield Ave Space J1, Chicago, IL 60643",S MARSHFIELD AVE,11708
+495,Chop Stick Express,,+1 773-785-1556,,"12006 S Michigan Ave, Chicago, IL 60628-6609",S MICHIGAN AVE,12006
+496,Yogurt Square,,+1 773-646-1071,http://cateringbysteve.com/,"13200 S Baltimore Ave, Chicago, IL 60633-1473",S BALTIMORE AVE,13200
+497,Medici on 57th,2,+1 773-646-6200,,"13501 S Avenue N, Chicago, IL 60633-1531",S NAN AVE,13501
+498,Rangoli Indian Cuisine,2,+1 773-525-5079,,"3541D N Western Ave, Chicago, IL 60618-6025",N WESTERN AVE,3541D
+499,Brown Bag Seafood,,+1 312-988-0162,https://www.goodeatsgroup.com/burger-bar-chicago,"1150 S. Michigan Ave., Chicago, IL 60605",S. MICHIGAN AVE,1150
+500,Texican,,+1 773-871-2484,https://www.chuckecheese.com/storedetails/il/chicago/687,"1830 W. Fullerton Ave., Chicago, IL 60614",W. FULLERTON AVE,1830
+501,Sushi King 3,,+1 773-360-8478,https://restaurants.subway.com/united-states/il/chicago/1904-n-western-ave?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=58887&utm_campaign=evergreen-2020&y_source=1_MTQ5MDQ3OTQtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"1904 N. Western Ave., Chicago, IL 60647",N. WESTERN AVE,1904
+502,Fork & Ladle,,+1 773-825-2800,https://www.welcomebackchicago.com/,"2423 N. Milwaukee Ave., Chicago, IL 60647",N. MILWAUKEE AVE,2423
+503,La Cocina De Maria,,+1 773-360-8213,http://www.dearmargaretchi.com,"2965 N. Lincoln Ave., Chicago, IL 60657-4108",N. LINCOLN AVE,2965
+504,Subway,,+1 773-360-7715,https://restaurants.subway.com/united-states/il/chicago/3706-n-southport-ave?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=43368&utm_campaign=evergreen-2020&y_source=1_MTQ4OTY0ODMtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"3706 N. Southport Ave., Chicago, IL 60613",N. SOUTHPORT AVE,3706
+505,Dining In Chicago Inc,,+1 773-685-4093,https://locations.wendys.com/united-states/il/chicago/4140-w.-belmont-ave.,"4140 W. Belmont Ave., Chicago, IL 60641",W. BELMONT AVE,4140
+506,Carnitas Y Virrieria Jalisco,,+1 773-283-8777,https://restaurants.subway.com/united-states/il/chicago/4157-w-peterson-ave?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=5311&utm_campaign=evergreen-2020&y_source=1_MTQ5MDQzNDUtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"4157 W Peterson Ave., Chicago, IL 60646",W PETERSON AVE,4157
+507,Godiva Chocolatier,,+1 773-763-4077,https://www.dinospizzachicago.com/,"7004 W Higgins Ave., Chicago, IL 60656",W HIGGINS AVE,7004
+508,Flukys,,+1 312 588 8030,https://www.trumphotels.com/chicago/dining/fine-dining-chicago,"401 N. Wabash Avenue, Chicago, IL 60611-3583",N. WABASH AVE,401
+509,Lawrence Market,,+1 312-644-1008,https://www.potbelly.com/locations/illinois/michigan-ave-north-bridge,"520 N. Michigan Avenue, Chicago, IL 60611",N. MICHIGAN AVE,520
+510,City Winery Chicago,2,+1 312-276-2500,http://locations.grandluxcafe.com/il/chicago/3/,"600 N Michigan Avenue At Ontario Ste 7, Chicago, IL 60611-3113",N MICHIGAN AVE,600
+511,See Thru Chinese Kitchen,,+1 312-243-8955,http://the-dawson.com/,"730 West Grand Avenue The northeast corner of Halsted Street and Grand Avenue, steps from the CTA Blue Line stop, Chicago, IL 60654-5508",WEST GRAND AVE,730
+512,Caffe Moderno,1,+1 773-257-6539,https://restaurants.subway.com/united-states/il/chicago/1500-s-california-avenue?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=52827&utm_campaign=evergreen-2020&y_source=1_MTQ5MDY1MDUtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"1500 S California Avenue, Chicago, IL 60608",S CALIFORNIA AVE,1500
+513,Mediterranean Lebanese Kababi Grill,,+1 773-289-4991,http://www.laspalmaschicago.com/,"1835 West North Avenue, Chicago, IL 60622",WEST NORTH AVE,1835
+514,Pepes Mexican Restaurant,,+1 872-208-5665,https://www.sweetpepperchicago.com/,"2604 West Lawrence Avenue, Chicago, IL 60625",WEST LAWRENCE AVE,2604
+515,Jerky Jerk,,+1 847-675-3810,,"3930 West Touhy Avenue, Chicago, IL 60645-1028",WEST TOUHY AVE,3930
+516,Papi's Tacos,,+1 773-376-6900,http://www.elchismerestaurant.com/,"4440 South Western Avenue, Chicago, IL 60609",SOUTH WESTERN AVE,4440
+517,The Sandwich Break,,+1 708-669-7625,http://westonscoffee.com/,"4872 North Milwaukee Avenue, Chicago, IL 60630",NORTH MILWAUKEE AVE,4872
+518,Thai Lagoon,2,+1 773-581-8054,https://locations.chipotle.com/il/chicago/7561-s-cicero-avenue?utm_source=extendednetwork&utm_medium=yext&utm_campaign=yext_listings,"7561 S. Cicero Avenue, Chicago, IL 60652",S. CICERO AVE,7561
+519,5 Rabanitos Restaurante & Taqueria,2,+1 312-588-1883,http://www.subway.com,"77 W Jackson Blvd Lbby 5, Chicago, IL 60604-3511",W JACKSON BLVD,77
+520,Hong Kong Express,,+1 312-583-5600,,"200 W Jackson Blvd Ste 2600, Chicago, IL 60606-6943",W JACKSON BLVD,200
+521,China Chef,,+1 312-781-0933,http://www.7-eleven.com/?yext=33705,"216 W Jackson Blvd, Chicago, IL 60606-6909",W JACKSON BLVD,216
+522,Taqueria El Dorado,,+1 312-877-5373,http://www.jacksontavernchicago.com/,"216 W Jackson Blvd, Chicago, IL 60606-6909",W JACKSON BLVD,216
+523,Moti,1,+1 773-538-4300,,"407 E Oakwood Blvd, Chicago, IL 60653-2303",E OAKWOOD BLVD,407
+524,The Chow Brothers,2,+1 773-261-0419,https://locations.churchs.com/il/chicago/431-n-austin,"431 N Austin Blvd, Chicago, IL 60644",N AUSTIN BLVD,431
+525,Homies Kitchen,,+1 312-939-3111,http://www.loumitchells.com,"565 W. Jackson Blvd, Chicago, IL 60661",W. JACKSON BLVD,565
+526,Wingstop,,+1 773-722-7360,,"601 S Sacramento Blvd, Chicago, IL 60612-3348",S SACRAMENTO BLVD,601
+527,LG's Bar,2,+1 312-559-0950,http://www.7-eleven.com/?yext=33726,"627 W Jackson Blvd, Chicago, IL 60661-5606",W JACKSON BLVD,627
+528,Joong Boo Market,1,+1 312-207-0988,http://www.grill-n-griddle.com/,"651 W Washington Blvd, Chicago, IL 60661-2122",W WASHINGTON BLVD,651
+529,Old Country Buffet,,+1 312-850-3450,,"901 W Washington Blvd, Chicago, IL 60607",W WASHINGTON BLVD,901
+530,Subway,,+1 312-733-9920,http://nancyspizza.com/locations/west-loop/,"1000 W Washington Blvd, Chicago, IL 60607-2137",W WASHINGTON BLVD,1000
+531,Thai Aree House,,,,"1951 W Garfield Blvd, Chicago, IL 60636-1147",W GARFIELD BLVD,1951
+532,Hands On Thai & Sushi,,+1 800-643-0584,https://www.getreef.com/?utm_source=ExtendedNetwork&utm_medium=local-listing&y_source=1_MjQzMTk2ODgtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"2504 W Warren Blvd, Chicago, IL 60612",W WARREN BLVD,2504
+533,Michael's Pizzeria & Grill,2,+1 773-764-6800,,"2828 W Pratt Blvd, Chicago, IL 60645-4314",W PRATT BLVD,2828
+534,Trench,2,+1 773-904-7620,http://www.minimott.com/,"3057 W Logan Blvd, Chicago, IL 60647-1707",W LOGAN BLVD,3057
+535,Coal Fire Pizza,2,+1 773-661-2485,http://billy-sunday.com/,"3142 W Logan Blvd, Chicago, IL 60647-1636",W LOGAN BLVD,3142
+536,The Tavern on Little Fort,,+1 773-651-0900,,"6859 S Loomis Blvd, Chicago, IL 60636-3403",S LOOMIS BLVD,6859
+537,Owl's Beef,,+1 312-427-0231,https://www.bonivinopizza.com/,"111 W van Buren St, Chicago, IL 60605-1068",W VAN BUREN ST,111
+538,Bahn Mi Baget,,+1 312-285-2747,http://aromadesigrillil.com/,"560 W Van Buren St, Chicago, IL 60607-3815",W VAN BUREN ST,560
+539,Game Room,2,+1 773-722-8948,,"3159 W Van Buren St, Chicago, IL 60612-2740",W VAN BUREN ST,3159
+540,Wells Street Popcorn,,+1 312-226-1826,http://www.tangsgardenrestaurant.com/,"1826 S Canal Chicago, Chicago, IL 60616",S CANAL ST,1826
+541,Capriotti's Sandwich Shop,,+1 312-274-4444,http://www.hyatt.com/en-US/hotel/illinois/hyatt-centric-chicago-magnificent-mile/chimm/dining,"633 N Saint Clair St Level 2, Chicago, IL 60611-3234",N SAINT CLAIR ST,633
+542,Pizza Time,,+1 312-337-9400,https://www.thecapitalgrille.com/locations/il/chicago/chicago-downtown/8008,"633 N Saint Clair St, Chicago, IL 60611",N SAINT CLAIR ST,633
+543,The Dawson,2,+1 312-584-3192,http://tallboytaco.com,"676 N Saint Clair St, Chicago, IL 60611-2927",N SAINT CLAIR ST,676
+544,Dog House Grill,,+1 872-465-3747,https://www.alohapokeco.com/?utm_source=google&utm_medium=gmb&utm_campaign=aloha,"5221 S Harper Ct, Chicago, IL 60615-4111",S HARPER CT,5221
+545,Leadway Tavern & Liquors,,773-789-7609,http://www.snoballschance.com,"Montrose Beach, Chicago, IL 60640",N LAKE SHORE DR,4400
+546,Belmont Snack Shop,,+1 312-372-7200,http://www.marriott.com/hotels/hotel-information/restaurant/CHISR&scid=d42e66eb-35c2-4d9c-9219-ae39f3a2ca9f,"1 W Wacker Dr Renaissance Chicago Downtown Hotel, Chicago, IL 60601-1631",W WACKER DR,1
+547,American Active Food,,+1 312-559-1832,http://rittergutwinebar.com,"10 S Wacker Dr, Chicago, IL 60606-7453",S WACKER DR,10
+548,Dunkin',,+1 312-827-5600,http://www.lyricopera.org/yourvisit/dine-at-lyric.aspx,"20 N Wacker Dr, Chicago, IL 60606-2806",N WACKER DR,20
+549,Seedays,,+1 312-346-3500,http://www.catch35.com/,"35 W Wacker Dr, Chicago, IL 60601-1723",W WACKER DR,35
+550,Sun Wah BBQ,2,+1 212-244-1111,http://www.seamless.com/menu/just-salad-illinois-center-111-e-wacker-dr--ll06-chicago/1224747,"111 E Wacker Dr Illinois Center, Chicago, IL 60601-3713",E WACKER DR,111
+551,Pop's Place,,+1 312-332-8822,http://www.sushisaionline.com/,"123 N Wacker Dr, Chicago, IL 60606-1743",N WACKER DR,123
+552,Captain Hooks Fish & Chicken,,+1 312-726-3886,,"155 N Wacker Dr, Chicago, IL 60606-1787",N WACKER DR,155
+553,Dirk's Fish and Gourmet Shop,2,+1 312-877-5977,https://www.facebook.com/pages/Cafe-Michelle/1044035205689833,"200 N Lakefront Dr, Chicago, IL 60601-7384",N LAKEFRONT DR,200
+554,Square Snack Shop,,+1 312-980-1409,http://www.thechowbrothers.com,"205 W Wacker Dr Wacker & Wells, Chicago, IL 60606-1216",W WACKER DR,205
+555,Damm Donuts & Sweets,,+1 312-262-6766,https://order.kitchenunited.com/chicago-loop/menu/camile-thai,"205 W Wacker Dr Ste 100, Chicago, IL 60606",W WACKER DR,205
+556,Wellness Grub,,+1 312-386-7149,http://www.argotea.com,"233 S Wacker Dr, Chicago, IL 60606-7147",S WACKER DR,233
+557,Potbelly Sandwich Shop,1,+1 312-598-1600,http://order.sweetgreen.com/?utm_source=google_listing&utm_medium=yext&utm_campaign=visit_main_website_CTA&y_source=1_MTQ4OTA4MjktNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"233 South Wacker Dr, Chicago, IL 60606",SOUTH WACKER DR,233
+558,El Maya Restaurant,2,+1 312-856-0997,,"303 E Wacker Dr, Chicago, IL 60601-5212",E WACKER DR,303
+559,7-Eleven,,+1 312-435-0311,http://www.eatfreshii.com,"311 S Wacker Dr, Chicago, IL 60606-6627",S WACKER DR,311
+560,Brothers,,+1 312-840-6605,http://www.etarestaurantandbar.com,"455 N Park Dr, Chicago, IL 60611-5886",N PARK DR,455
+561,Curry Point,,+1 708-933-7628,http://theshackshrimp.com,"1055 River Oaks Dr, Chicago, IL 60409-5064",RIVER OAKS DR,1055
+562,Joe's On Weed St,2,,,"2301 S King Dr, Chicago, IL 60616-2452",S KING DR,2301
+563,La Biznaga,,,,"3457 S King Dr, Chicago, IL 60616-4108",S KING DR,3457
+564,Micky's Chicken & Fish,,+1 773-966-5801,http://peachson47th.com/,"4652 S King Dr, Chicago, IL 60653-4108",S KING DR,4652
+565,Yolanda's Restaurant,,+1 773-257-7236,,"1827 1/3 W Foster Ave, Chicago, IL 60640-1023",W FOSTER AVE,1827
+566,Yummy Yummy Noodles,1,+1 773-274-8313,,"1123 1/2 W Granville Ave, Chicago, IL 60660-2012",W GRANVILLE AVE,1123
+567,Bulerias Tapas Bar,2,+1 773-363-9586,,"6419 S Cottage Grove Ave, Chicago, IL 60637-3511",S COTTAGE GROVE AVE,6419
+568,Cantonesia Dining and Cocktails,2,+1 773-993-0047,https://www.stackerzchicago.com,"5729 North Northwest Highway, Chicago, IL 60646",N NORTHWEST WAY,5729
+569,Benihana,2,+1 773-774-6121,http://modaileys.com,"6070 N Northwest Hwy 6060 Plaza, Chicago, IL 60631-2518",N NORTHWEST WAY,6070
+570,Joe's,,+1 312-226-9697,,"1836 S Blue Island Ave, Chicago, IL 60608-3013",S BLUE ISLAND AVE,1836
+571,Fast & Fresh,,,,"2462 S Blue Island Ave, Chicago, IL 60608-4938",S BLUE ISLAND AVE,2462
+572,Li Hing,,+1 773-752-9111,,"7042 S Stony Island Ave, Chicago, IL 60649-1906",S STONY ISLAND AVE,7042
+573,Jade Palace,,+1 773-288-3232,https://www.subway.com/en-US?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=12485&utm_campaign=evergreen-2020&y_source=1_MjA3MTcwNDItNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"7358 S Stoney Island, Chicago, IL 60649",S STONEY ISLAND AVE,7358
+574,Dee's Restaurant,2,+1 773-287-9999,,"8100 S Stony Island Ave, Chicago, IL 60617-1734",S STONY ISLAND AVE,8100
+575,Sara & Lee's,,+1 773-336-5941,,"8100 S Stony Island Ave, Chicago, IL 60617-1734",S STONY ISLAND AVE,8100
+576,Toast It,,+1 312-567-1234,http://www.hyatt.com/en-US/hotel/illinois/hyatt-regency-mccormick-place/chimc/dining,"2233 S. Martin Luther King Jr. Drive Hyatt McCormick Place, Chicago, IL 60616",S. MARTIN LUTHER PL,2233
+577,Market Creations Cafe,2,+1 312-733-0370,http://www.beatrixrestaurants.com/beatrix/fulton-market/,"834 W Fulton Market, Chicago, IL 60607-1317",W FULTON MARKET AVE,834
+578,A.P. Deli,,+1 312-733-9420,http://www.swiftandsonschicago.com/,"1000 W Fulton Market, Chicago, IL 60607-1299",W FULTON MARKET AVE,1000
+579,Seaside's,2,+1 773-728-3950,http://WWW.HELLASGYROS.COM,"1133 W Bryn Mawr Ave, Chicago, IL 60660-4401",W BRYN MAWR AVE,1133
+580,The Grail Cafe,,+1 773-539-0407,,"3247 W Bryn Mawr Ave, Chicago, IL 60659-3636",W BRYN MAWR AVE,3247
+581,Aroma On North Ave,,,,"801 W Irving Park Rd, Chicago, IL 60613-3009",W IRVING PKWY,801
+582,Wingstop,,+1 773-549-2099,http://www.7-eleven.com/,"1415 W Irving Park Rd, Chicago, IL 60613-1920",W IRVING PKWY,1415
+583,Four Points Midway Airport,,+1 773-472-9090,,"1513 W Irving Park Rd, Chicago, IL 60613-4968",W IRVING PKWY,1513
+584,Nick's Pizza & Pub,2,+1 773-799-8704,https://www.facebook.com/maderoschicago/,"1800 W Irving Park Rd, Chicago, IL 60613-2406",W IRVING PKWY,1800
+585,Watusi,2,+1 773-755-4022,http://www.sukursplace.com/icafe/,"1814 W Irving Park Rd, Chicago, IL 60613-2406",W IRVING PKWY,1814
+586,Dill Pickle Food Co-op,,+1 773-472-1749,https://www.facebook.com/Resis-Bierstube-152134251537852/,"2034 W Irving Park Rd, Chicago, IL 60618-3910",W IRVING PKWY,2034
+587,7-Eleven,,+1 773-799-6667,http://yolandasrestaurantchicago.WebStarts.com,"3058 S Central Park Ave, Chicago, IL 60623-4648",S CENTRAL PKWY,3058
+588,Emerald City Restaurant,,+1 773-267-1987,http://goldennuggetpancake.com/,"3234 W Irving Park Rd, Chicago, IL 60618-3325",W IRVING PKWY,3234
+589,the Albert,2,+1 773-427-9130,http://www.shokranchicago.com/,"4027 W Irving Park Rd, Chicago, IL 60641-2913",W IRVING PKWY,4027
+590,La Pequena,,+1 773-283-6626,,"4202 W Irving Park Rd, Chicago, IL 60641-2935",W IRVING PKWY,4202
+591,Ken Kee Restaurant,1,+1 773-427-0100,https://www.chicagos-pizza.com/,"4520 W Irving Park Rd Between Kolmar and Kilbourn, Chicago, IL 60641-2809",W IRVING PKWY,4520
+592,Carvan Restaurant,,+1 773-205-8335,http://handson.us/,"5056 W Irving Park Rd, Chicago, IL 60641-2639",W IRVING PKWY,5056
+593,Luckeys Cafe,,+1 773-777-1917,http://www.littlecaesars.com,"5608 W Irving Park Rd, Chicago, IL 60634-2739",W IRVING PKWY,5608
+594,Pelago Ristorante,4,+1 773-545-9875,https://locations.dunkindonuts.com/en/il/chicago/6408-w.-irving-park-rd/330136?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=330136,"6408 W. Irving Park Rd, Chicago, IL 60634",W. IRVING PKWY,6408
+595,D-Benny Grill,,+1 773-685-7155,http://newenglandinn.net,"6859 W Irving Park Rd, Chicago, IL 60634-2306",W IRVING PKWY,6859
+596,JJ's Fish & Chicken,,+1 773-589-9905,http://www.ElAnclaChicago.com,"7547 W Irving Park Rd, Chicago, IL 60634-2113",W IRVING PKWY,7547
+597,Crazy Bird Chicken,,+1 773-975-3404,,"1804-06 W Irving Park Rd, Chicago, IL 60613-2406",W IRVING PKWY,1804-06
+598,Subway,,+1 773-723-6000,https://restaurants.subway.com/united-states/il/chicago/6237-s-halsted-parkway?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=39821&utm_campaign=evergreen-2020&y_source=1_MTQ4OTQ5MzEtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"6237 S. Halsted Parkway Unit C, Chicago, IL 60621",S. HALSTED PKWY,6237
+599,My Soul Cafe,,+1 312-933-4805,http://drumbar.com/,"Raffaello Hotel 201 E Delaware Pl, Chicago, IL 60611",E DEKAWARE PL,201
+600,The Works Southloop,,+1 312-923-2007,https://locations.houseofblues.com/restaurant-and-bar/il/chicago/329-n-dearborn-st.?y_source=1_MTU2MzYxNDUtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"329 N Dearborn Pkwy, Chicago, IL 60654",N DEARBORN PKWY,329
+601,Billy Goat Tavern,1,+1 312-642-5140,https://www.thezebralounge.net/,"1220 N State Pkwy, Chicago, IL 60610-8112",N STATE PKWY,1220
+602,Lux Restaurant,,+1 773-788-1933,,"6452 W 63rd, Chicago, IL 60290-0001",W 63RD PL,6452
+603,El Erradero,,+1 773-735-2860,,"3811 W 63rd, Chicago, IL 60290",W 63RD PL,3811
+604,Jet's Pizza,,+1 312-201-0410,http://www.mortons.com/wacker/,"65 E Wacker Pl, Chicago, IL 60601-7296",E WACKER PL,65
+605,7-Eleven,,+1 312-280-8800,http://www.adornrestaurant.com/,"120 E Delaware Pl, Chicago, IL 60611-1443",E DELAWARE PL,120
+606,Smashburger,,+1 312-867-7581,http://www.millenniumhotels.com/en/chicago/millennium-knickerbocker-hotel-chicago/,"163 E Walton Pl, Chicago, IL 60611-7114",E WALTON PL,163
+607,Kinzie Chophouse,4,+1 312-867-7575,https://www.millenniumhotels.com/en/chicago/millennium-knickerbocker-hotel-chicago/nix-restaurant/?cid=gplaces-nix-restaurant,"163 E Walton Pl, Chicago, IL 60611-7114",E WALTON PL,163
+608,Halsted Street Deli,,+1 312-280-0700,http://www.pelagorestaurant.com,"201 E Delaware Pl, Chicago, IL 60611-1713",E DELAWARE PL,201
+609,Mezza Mediterranean Grill,,+1 312-654-1230,,"213 W Institute Pl, Chicago, IL 60610-3121",W INSTITUTE PL,213
+610,Doux Amour,,,,"324 W Institute Pl, Chicago, IL 60610-3007",W INSTITUTE PL,324
+611,Freshii,,+1 312-285-2303,http://saucyporka.com,"400 S Financial Pl, Chicago, IL 60605-1085",S FINANCIAL PL,400
+612,My Pi,2,,,"700 E 100th Pl, Chicago, IL 60628-1688",E 100TH PL,700
+613,Domino's Pizza,,+1 312-808-9686,http://www.greatwallbedford.com,"2127 S China Pl, Chicago, IL 60616-1536",S CHINA PL,2127
+614,Three Sons Restaurant,1,+1 312-326-2088,http://www.kenkee.com/,"2129 S China Pl Ste A, Chicago, IL 60616-1536",S CHINA PL,2129
+615,Chill Cafe,,+1 312-808-1628,https://lee-wing-wah.business.site/,"2147 S China Pl, Chicago, IL 60616-1536",S CHINA PL,2147
+616,Tasty Asian Restaurant,,+1 312-873-1736,http://joyyee.com/,"2159 S China Pl, Chicago, IL 60616-1536",S CHINA PL,2159
+617,Just Salad,1,+1 312-526-3313,http://brownbagseafood.com/,"150 N Riverside Plaza, Chicago, IL 60606-1598",N RIVERSIDE PL,150
+618,Subway,,+1 312-836-9269,http://www.arbys.com,"222 Merchandise Mart Plz, Chicago, IL 60654-1103",MERCHANDISE MART PL,222
+619,Big Boss Spicy Fried Chicken,1,+1 773-274-5111,https://restaurants.subway.com/united-states/il/chicago/7138-n-sheridan?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=20863&utm_campaign=evergreen-2020&y_source=1_MTQ5MDU5NzItNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"7138 N Sheridan, Chicago, IL 60626",N SHERIDAN RD,7138
+620,Tarboush Mediterranean Grill,1,+1 312-794-4124,https://restaurants.subway.com/united-states/il/chicago/126-e-cermak-road?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=68870&utm_campaign=evergreen-2020&y_source=1_MTQ4OTkyNzQtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"126 E Cermak Rd Space E, Chicago, IL 60616-2130",E CERMAK RD,126
+621,Positanos Pizza,,+1 312-225-0100,,"204 W Cermak Rd, Chicago, IL 60616-1914",W CERMAK RD,204
+622,Dhd Group Inc Istanbul Restaurant,,+1 312-326-6181,,"207 W Cermak Rd, Chicago, IL 60616-1913",W CERMAK RD,207
+623,Chef's Village,,+1 312-326-4224,,"218 W Cermak Rd, Chicago, IL 60616-1914",W CERMAK RD,218
+624,Taqueria Hernandez,2,+1 312-842-7818,,"228 W Cermak Rd Unit 1, Chicago, IL 60616-2476",W CERMAK RD,228
+625,Cafe 10 Chicago Il,,+1 312-567-0694,,"350 E Cermak Rd, Chicago, IL 60616-5507",E CERMAK RD,350
+626,Mr Salsa,,+1 773-952-6542,,"554 W Pershing Rd, Chicago, IL 60609-2740",W PERSHING RD,554
+627,Iguana Cafe,1,+1 312-421-4442,http://www.maystcafe.com,"1146 W Cermak Rd, Chicago, IL 60608-4537",W CERMAK RD,1146
+628,Kameya Sushi,,+1 773-974-1428,https://www.chicagothaifood.com/,"2128 W Cermak Rd, Chicago, IL 60608-4006",W CERMAK RD,2128
+629,Dunkin',,+1 773-277-8394,,"2345 S Pulaski Rd, Chicago, IL 60623-3045",S PULASKI RD,2345
+630,Subway,,+1 630-956-2800,http://chicagohopecafe.com/,"2431 W Roosevelt Rd, Chicago, IL 60608-1003",W ROOSEVELT RD,2431
+631,Niu B,2,+1 773-890-1006,https://burgerking.com/store-locator/store/restaurant_3376,"2501 West Cermak Rd, Chicago, IL 60608",WEST CERMAK RD,2501
+632,L'Ours Bakery Cafe,,+1 773-376-7833,http://www.hongkongexp.com,"2703 W Cermak Rd, Chicago, IL 60608-3509",W CERMAK RD,2703
+633,Subway,,,,"2850 N Sheridan Rd, Chicago, IL 60657-6151",N SHERIDAN RD,2850
+634,El Taconazo,,+1 773-522-2000,,"3125 W Cermak Rd, Chicago, IL 60623-3489",W CERMAK RD,3125
+635,Madison Street Cafe,,+1 708-831-4476,http://www.labiznaga52.com/oc/profile,"3552 N Pulaski Rd, Chicago, IL 60641-3946",N PULASKI RD,3552
+636,Shokran,2,+1 773-283-8700,http://www.bruddersbar.com/,"3600 N Pulaski Rd, Chicago, IL 60641-3016",N PULASKI RD,3600
+637,Icon Restaurants,,,,"3913 N Sheridan Rd, Chicago, IL 60613-2925",N SHERIDAN RD,3913
+638,Cheers on Demand,,+1 773-296-9709,,"3948 N Sheridan Rd, Chicago, IL 60613-2935",N SHERIDAN RD,3948
+639,La Calavera,,+1 773-376-1190,https://locations.dunkindonuts.com/en/il/chicago/4113-s-pulaski-rd/350629?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=350629,"4113 S Pulaski Rd, Chicago, IL 60632",S PULASKI RD,4113
+640,Hai Yen,2,+1 773-767-2969,https://locations.pizzahut.com/il/chicago/4350-s-pulaski-rd,"4346 S Pulaski Rd, Chicago, IL 60632",S PULASKI RD,4346
+641,Cousins,,+1 773-728-1188,https://www.facebook.com/Jakespupintheruf/,"4401 N Sheridan Rd, Chicago, IL 60640-5605",N SHERIDAN RD,4401
+642,Daguan Noodle,,+1 773-927-8447,https://restaurants.subway.com/united-states/il/chicago/4406-s-pulaski-rd?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=28329&utm_campaign=evergreen-2020&y_source=1_MTQ5MDQyNzgtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"4406 S Pulaski Rd, Chicago, IL 60632",S PULASKI RD,4406
+643,Hilltop,1,+1 773-299-7888,http://www.tasteofthaitown.com,"4461 N Pulaski Rd, Chicago, IL 60630-4413",N PULASKI RD,4461
+644,Rosebud Prime,4,,,"4749 N Pulaski Rd, Chicago, IL 60630-4312",N PULASKI RD,4749
+645,Ferro's,1,+1 773-282-1966,http://www.campero.com/,"4830 N Pulaski Rd Suite #120, Chicago, IL 60630-2844",N PULASKI RD,4830
+646,Stretch Run,,+1 773-582-4040,https://www.dominos.com/en/?redirect=homepage&utm_source=locallistings&utm_medium=loclist&utm_campaign=localmaps,"5018 S Pulaski Rd, Chicago, IL 60632-4218",S PULASKI RD,5018
+647,Big Delicious Planet,,+1 773-735-2719,,"5018 S Pulaski Rd, Chicago, IL 60632-4218",S PULASKI RD,5018
+648,J C Bbq,,+1 773-728-8692,,"5026 N Sheridan Rd, Chicago, IL 60640-3118",N SHERIDAN RD,5026
+649,Martini Bar,2,+1 872-888-6490,https://locations.tacobell.com/il/chicago/5350-s-pulaski.html,"5350 S Pulaski Rd, Chicago, IL 60632-4224",S PULASKI RD,5350
+650,Camile Thai at Kitchen United MIX,,+1 773-767-0908,http://www.lasislasmarias.net,"5401 S Pulaski Rd, Chicago, IL 60632-4237",S PULASKI RD,5401
+651,Silvana Bar,,+1 773-581-3650,,"5734 S Pulaski Rd, Chicago, IL 60629-4437",S PULASKI RD,5734
+652,M Simpsons,,+1 773-761-3294,http://www.waterfrontcafechicago.com,"6219 N Sheridan Rd, Chicago, IL 60660-1729",N SHERIDAN RD,6219
+653,Mixed Greens,,+1 773-463-3400,http://purebarandgrill.com,"6251 N McCormick Rd, Chicago, IL 60659-1312",N MCCORMICK RD,6251
+654,Paleteria Las Delicias de Michoacan,,+1 773-478-8802,https://www.chicagobyg.com/,"6355 N Pulaski Rd, Chicago, IL 60646",N PULASKI RD,6355
+655,Happy Fish and Chicken,,+1 773-274-6800,https://restaurants.subway.com/united-states/il/chicago/6449-n-sheridan-rd?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=3634&utm_campaign=evergreen-2020&y_source=1_MTQ4OTM5NDEtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"6449 N Sheridan Rd Granada Center, Chicago, IL 60626",N SHERIDAN RD,6449
+656,Sibling's,,+1 708-352-4080,http://www.dominos.com,"6555 Willow Springs Rd, Chicago, IL 60525-4591",WILLOW SPRINGS RD,6555
+657,Herb-N-Juice,,+1 773-767-5445,,"6651 S Pulaski Rd, Chicago, IL 60629-5147",S PULASKI RD,6651
+658,Wilson Donuts,,+1 773-973-7788,,"6809 N Sheridan Rd, Chicago, IL 60626-3811",N SHERIDAN RD,6809
+659,Mambo Cafe,,+1 773-284-8560,,"6828 S Pulaski Rd, Chicago, IL 60629-4121",S PULASKI RD,6828
+660,Cosi,2,+1 773-284-7227,,"7025 S Pulaski Rd, Chicago, IL 60629-5823",S PULASKI RD,7025
+661,Las Tablas,2,+1 773-625-6560,https://www.subway.com/en-US?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=23039&utm_campaign=evergreen-2020&y_source=1_MjA3MTE5OTQtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"7213 W Irving Park Rd, Chicago, IL 60634",W IRVING PARK RD,7213
+662,Burger King,,+1 773-767-4838,,"8355 S Pulaski Rd, Chicago, IL 60652-3147",S PULASKI RD,8355
+663,Falafel Dream,,+1 773-937-4200,,"8513 S Pulaski Rd, Chicago, IL 60652-3630",S PULASKI RD,8513
+664,Legee Rice and Noodles,,+1 773-779-8009,,"10643 S Pulaski Rd, Chicago, IL 60655-3827",S PULASKI RD,10643
+665,Coleman's No 2 Hickory BBQ,,+1 773-881-7177,,"10659 S Pulaski Rd, Chicago, IL 60655-3827",S PULASKI RD,10659
+666,Dunkin' Donuts,,+1 773-478-7575,http://beogradchicago.com/index.html,"2933-39 Irving Park Rd, Chicago, IL 60618-3536",IRVING PARK RD,2933-39
+667,Cafe Beogard,,+1 773-579-1421,https://locations.wendys.com/united-states/il/chicago/4100-s.-pulaski-road,"4100 S. Pulaski Road, Chicago, IL 60632",S. PULASKI RD,4100
+668,The Dog Stop,,+1 773-840-4287,https://sunrisechicagobreakfast.com/,"10643 South Pulaski Road, Chicago, IL 60655",SOUTH PULASKI RD,10643
+669,Folklore,2,+1 312-419-1329,,"10 S La Salle St, Chicago, IL 60603-1002",S LA SALLE ST,10
+670,La Cocina,,+1 312-604-9909,http://vol39.com/?cm_mmc=YextLocal-_-cp-_-US-_-VOL39,"39 S. La Salle St., Chicago, IL 60603",S. LA SALLE ST,39
+671,Wendy's,,+1 312-629-6263,http://www.7-eleven.com/?yext=34724,"128 N La Salle St, Chicago, IL 60602-1001",N LA SALLE ST,128
+672,Pizza Hut,,+1 312-423-3300,,"325 N La Salle Dr, Chicago, IL 60654-3378",N LA SALLE ST,325
+673,Wingstop,,+1 312-447-0412,http://www.halstedstreetdeli.com/,"400 S La Salle St, Chicago, IL 60605-1023",S LA SALLE ST,400
+674,Subway,,,,"544 N La Salle Dr, Chicago, IL 60654-7117",N LA SALLE ST,544
+675,City Pizza,,+1 312-284-5353,http://www.centennialchicago.com/,"733 N La Salle Dr, Chicago, IL 60654-5023",N LA SALLE ST,733
+676,Sabri Nihari,2,+1 312-380-0071,http://www.kanelabreakfastclub.com/,"500 N Lake Shore Dr, Chicago, IL 60611-3779",N LAKE SHORE DR,500
+677,Quiznos,,+1 312-617-2523,http://locations.jambajuice.com/ll/US/IL/Chicago/2301-South-Lakeshore-Drive,"2301 S Lake Shore Dr, Chicago, IL 60616-1419",S LAKE SHORE DR,2301
+678,La Unica Food Mart,,+1 312-791-7254,http://aubonpain.com,"2301 S Lake Shore Dr, Chicago, IL 60616-1419",S LAKE SHORE DR,2301
+679,F and F Food Mart,,+1 773-353-2076,,"3660 N Lake Shore Dr, Chicago, IL 60613-5300",N LAKE SHORE DR,3660
+680,Popeyes Louisiana Kitchen,,+1 773-288-5815,http://www.hydeparklakeshorecafe.com/,"4900 S Lake Shore Dr, Chicago, IL 60615-3277",S LAKE SHORE DR,4900
+681,Tortuga's Latin Kitchen,,,,"813 10th St, Chicago, IL 60064-1282",NAN 10TH ST,813
+682,3 Squares Diner,2,+1 312-443-3077,http://cafemodernochicago.goodbistro.space,"159 E Monroe, Chicago, IL 60603",E MONROE ST,159
+683,Pizza Hut Express,,+1 312-207-8400,http://www.wholefoodsmarket.com/stores/westloop,"1 N Halsted St West Loop, Chicago, IL 60661-2176",N HALSTED ST,1
+684,Hot Dog Station,1,+1 312-384-1900,http://rosebudrestaurants.com/rest10.php,"1 S Dearborn St, Chicago, IL 60603-2302",S DEARBORN ST,1
+685,Golden Chef Chinese Kitchen,,+1 312-368-1900,http://www.atwoodrestaurant.com/,"1 W Washington St, Chicago, IL 60602-1603",W WASHINGTON ST,1
+686,Mullen's On Clark,1,+1 312-527-4060,http://www.thevermilionrestaurant.com/,"10 W Hubbard St, Chicago, IL 60654-4638",W HUBBARD ST,10
+687,White Castle,,+1 312-445-9514,http://www.westminsterhotdog.com/,"11 N Wells St, Chicago, IL 60606-3406",N WELLS ST,11
+688,Little Caesars,,+1 312-266-0944,http://www.rushanddivision.com/bootleggers.html,"11 W Division St, Chicago, IL 60610-2481",W DIVISION ST,11
+689,New Happy Chop Suey,,+1 312-324-4063,https://www.sofitel-chicago.com/,"20 E Chestnut St Sofitel Chicago Magnificent Mile, Chicago, IL 60611-2664",E CHESTNUT ST,20
+690,Bella's Pizza II,,+1 312-280-8882,http://cchicago.net,"20 W Kinzie St At Dearborn, Chicago, IL 60654-6392",W KINZIE ST,20
+691,Bacchanalia,2,+1 312-251-0945,,"36 N Wells St, Chicago, IL 60606-3410",N WELLS ST,36
+692,Mama'z Beef,,+1 312-929-2657,https://woknbao.com/,"36 N Clinton St, Chicago, IL 60661",N CLINTON ST,36
+693,Klay Oven Kitchen,,+1 312-877-5155,http://www.wokstation.co,"39 N Wells St, Chicago, IL 60606-3409",N WELLS ST,39
+694,Liang's Kitchen,,+1 773-783-3261,https://locations.chipotle.com/il/chicago/41-w-87th-st?utm_source=extendednetwork&utm_medium=yext&utm_campaign=yext_listings,"41 W 87th St, Chicago, IL 60620",W 87TH ST,41
+695,Burger Joint,,+1 312-521-8700,http://www.eataly.com/us_en/chicago-nutella/,"43 E Ohio St, Chicago, IL 60611-2701",E OHIO ST,43
+696,Gallo El Bravo,,+1 312-521-8700,http://www.venchi.com/it/negozi/eataly-chicago,"43 E Ohio St, Chicago, IL 60611-2701",E OHIO ST,43
+697,Burger King,,+1 312-521-8700,http://www.eataly.com/us_en/stores/chicago/chicago-la-pizza-la-pasta,"43 E Ohio St, Chicago, IL 60611-2701",E OHIO ST,43
+698,Lincoln Tap Room,,+1 773-224-4440,https://locations.pizzahut.com/il/chicago/47-w-79th-st,"47 W 79th St, Chicago, IL 60620",W 79TH ST,47
+699,El Chisme Restaurant,,,,"50 W Washington St, Chicago, IL 60602-1305",W WASHINGTON ST,50
+700,Aloha Poke Co.,,+1 312-664-2729,http://www.chicagorawfood.com,"51 W Huron St, Chicago, IL 60654-3805",W HURON ST,51
+701,Big Star,2,+1 312-951-1888,http://bigbowl.com/ohio,"60 E Ohio St, Chicago, IL 60611-2702",E OHIO ST,60
+702,Bundoo Khan,2,+1 312-470-9797,http://www.zoup.com/,"62 W Adams St, Chicago, IL 60603-5107",W ADAMS ST,62
+703,Edie's All Day Cafe,2,+1 312-376-1487,https://www.facebook.com/pages/Chicago-Kitchen/859064730804139,"63 E Harrison St, Chicago, IL 60605-1614",E HARRISON ST,63
+704,Mixed Greens,,+1 312-940-9900,http://barriochicago.com,"65 W Kinzie St, Chicago, IL 60654",W KINZIE ST,65
+705,Trattoria Ultimo,2,+1 312-332-8111,http://rudysbarandgrillechicago.com/,"69 E Madison St, Chicago, IL 60603-3001",E MADISON ST,69
+706,Dana Cafe,1,+1 312-223-7700,,"70 W Madison St Lbby 2, Chicago, IL 60602-4252",W MADISON ST,70
+707,Top-Notch Beefburgers Inc.,1,,,"70 W Huron St, Chicago, IL 60654-7584",W HURON ST,70
+708,Chipotle Mexican Grill,1,+1 312-754-0395,http://www.stockandledger.com,"70 W Madison St 1st Floor, Chicago, IL 60602-4252",W MADISON ST,70
+709,Great Wall Restaurant,1,+1 312-995-0962,http://www.dunkindonuts.com,"93 N Canal St, Chicago, IL 60606",N CANAL ST,93
+710,Shawarma Garden,,+1 312-419-8920,https://locations.arbys.com/us/il/chicago/100-w-randolph-st.html,"100 W Randolph St Lowr C-16, Chicago, IL 60601",W RANDOLPH ST,100
+711,Beetle Inc.,,+1 312-807-3999,,"100 W Randolph St, Chicago, IL 60601-3218",W RANDOLPH ST,100
+712,August Moon Company,,+1 312-929-2626,http://www.eatcityrock.com,"100 W Randolph St Atrium Mall/Food Court, Chicago, IL 60601-3218",W RANDOLPH ST,100
+713,Goosefoot,4,+1 773-285-5235,,"101 E 47th St, Chicago, IL 60653-3806",E 47TH ST,101
+714,Catalina Pizzeria,,+1 312-667-6796,http://www.noyane.com/,"101 E Erie St Rooftop of Conrad Chicago, Chicago, IL 60611-2812",E ERIE ST,101
+715,Boni Vino Restaurant,2,+1 312-964-5252,http://www.labambaburritos.com,"105 W Madison St, Chicago, IL 60602-4602",W MADISON ST,105
+716,Eat N Drink,,+1 312-658-0477,https://stores.godiva.com/us/il/chicago/108-n-state-st.html?cm_mmc=Yext-_-Listings-_-Stores-_-D17YEXT,"108 N State St, Chicago, IL 60602",N STATE ST,108
+717,Load a Spud,,+1 312-795-4444,http://www.latinicity.com/pueblo/,"108 N State St 3rd Floor, Chicago, IL 60602-1608",N STATE ST,108
+718,El Pollo Feliz,,+1 773-891-2405,https://loadaspud.com/,"109 E 51st St, Chicago, IL 60615-2106",E 51ST ST,109
+719,Do-Rite Donuts by Grubhub Express,,+1 312-850-0234,http://www.morganstreetcafe.com/,"111 S Morgan St Ste 1, Chicago, IL 60607-2724",S MORGAN ST,111
+720,Noyane,2,+1 312-781-3733,,"111 N State St, Chicago, IL 60602-1659",N STATE ST,111
+721,Bree Thai Restaurant,2,+1 312-421-2800,http://lasardine.com/,"111 N Carpenter St, Chicago, IL 60607-2117",N CARPENTER ST,111
+722,ROOH Chicago,2,+1 312-781-3192,,"111 N State St, Chicago, IL 60602-1659",N STATE ST,111
+723,Nick's Gyros,,,,"111 W Washington St, Chicago, IL 60602-2703",W WASHINGTON ST,111
+724,Maria's Pizza,,+1 312-366-2646,http://www.trivolitavern.com,"114 N Green St, Chicago, IL 60607-2304",N GREEN ST,114
+725,Eto'o Modern Asian Cuisine,,+1 312-205-2200,,"115 N Morgan St, Chicago, IL 60607-2205",N MORGAN ST,115
+726,El Alegre Burrito,,+1 312-258-8108,,"117 S Clinton St, Chicago, IL 60661-3615",S CLINTON ST,117
+727,Tasty China,,+1 312-902-1111,https://www.oviebarandgrill.com/,"120 N Canal St, Chicago, IL 60606-2703",N CANAL ST,120
+728,Wing Wah Restaurant Chinese Cuisine,,,https://squarerootskitchen.com,"120 S Halsted St Suite D, Chicago, IL 60661-3504",S HALSTED ST,120
+729,Forastero,1,,http://www.justsalad.com/locations,"120 W Adams St La Salle, Chicago, IL 60603-4104",W ADAMS ST,120
+730,KC Chocolatier,,+1 312-372-4874,http://www.subway.com,"120 W Madison St Lbby 2, Chicago, IL 60602-4103",W MADISON ST,120
+731,Bad-Ass Breakfast Burritos,,+1 312-616-1200,https://giordanos.com/location/prudential-plaza-millenium-park/,"130 E Randolph St Prudential Plaza, Chicago, IL 60601",E RANDOLPH ST,130
+732,White Castle,,+1 312-540-0085,http://marketcreationscafe.com/,"130 E Randolph St Suite GF-2, Chicago, IL 60601-6207",E RANDOLPH ST,130
+733,Argo Tea,1,+1 316-254-6866,,"131 N Clinton St, Chicago, IL 60661-1506",N CLINTON ST,131
+734,Pizza Hut,,+1 312-624-9400,http://jokerscajunkitchen.com,"131 N Clinton St The French Market at Ogilvie Station, Chicago, IL 60661-1506",N CLINTON ST,131
+735,Halsted Street Deli,1,+1 312-234-9476,http://k-kitchenusa.com/index.html,"131 N Clinton St, Chicago, IL 60661-1506",N CLINTON ST,131
+736,Burger Bar Chicago,2,+1 312-265-1662,https://www.facebook.com/loopsoup2.0/,"131 N Clinton St, Chicago, IL 60661-1506",N CLINTON ST,131
+737,M & M Chicken Koop,,+1 312-382-1805,http://wisma.us,"131 N Clinton St, Chicago, IL 60661-1506",N CLINTON ST,131
+738,Panda Express,,+1 312-454-6117,http://www.klayovenkitchen.com,"131 N Clinton St Chicago French Market, Chicago, IL 60661-1506",N CLINTON ST,131
+739,Borinquen Restaurant,,+1 312-930-4220,http://fumaremeats.com/FUMARE_MEATS/Welcome_To_Fumare.html,"131 N Clinton St Chicago French Market, #14, Chicago, IL 60661-1506",N CLINTON ST,131
+740,China Express,,+1 312-234-0900,https://www.lepainquotidien.com/us/en/locations/west_loop/135-n-clinton-st?utm_source=yext&utm_medium=business-listing&utm_campaign=&y_source=1_Nzg1ODUyNS03NjktbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,"135 N Clinton St, Chicago, IL 60661",N CLINTON ST,135
+741,Tallboy Taco,2,+1 312-526-3064,https://burgerking.com/store-locator/store/restaurant_12752,"151 East Randolph St, Chicago, IL 60601",EAST RANDOLPH ST,151
+742,Kanela,2,,,"151 N State St, Chicago, IL 60601-3601",N STATE ST,151
+743,Las Asadas,,+1 312-644-9159,http://www.sayatnovachicago.com/,"157 E Ohio St, Chicago, IL 60611-3107",E OHIO ST,157
+744,Father & Son Restaurant,2,+1 312-781-7300,http://www.ara-on.com,"160 W Adams St, Chicago, IL 60603-3608",W ADAMS ST,160
+745,Saint Lou's Assembly,2,+1 312-995-6560,http://www.bin36.com/,"161 N Jefferson St, Chicago, IL 60661-2301",N JEFFERSON ST,161
+746,Dunkin',,+1 312-578-1212,http://www.subway.com/,"166 W Washington St, Chicago, IL 60602-2311",W WASHINGTON ST,166
+747,Dunkin,,+1 312-422-0701,http://www.saladjoint.com/,"175 N Franklin St, Chicago, IL 60606-1832",N FRANKLIN ST,175
+748,Food Life,2,+1 312-578-0305,http://www.7-eleven.com/?yext=36881,"177 N Wells St, Chicago, IL 60606-1817",N WELLS ST,177
+749,Dunkin',,+1 312-372-7550,,"177 W Washington St, Chicago, IL 60602-2305",W WASHINGTON ST,177
+750,Grill-N-Griddle,,,,"178 N Franklin St, Chicago, IL 60606-1822",N FRANKLIN ST,178
+751,Potbelly Sandwich Shop,,+1 312-269-0092,http://mezzagrill.com/locations/,"181 W Madison St, Chicago, IL 60602-4510",W MADISON ST,181
+752,Taqueria San Juanito,,+1 312-578-0819,http://www.7-eleven.com/?yext=38046,"191 W Adams St, Chicago, IL 60603-3601",W ADAMS ST,191
+753,Payless Submarine Shoppe,,+1 312-782-9855,http://www.greekislands.net/home,"200 S Halsted St, Chicago, IL 60661-5489",S HALSTED ST,200
+754,Top View Restaurant,1,+1 312-842-0702,http://ferrosbeef.com,"200 W 31st St, Chicago, IL 60616-3702",W 31ST ST,200
+755,Mini Mott,,+1 312-751-1519,http://space519thelunchroom.com/,"200 E Chestnut St, Chicago, IL 60611-2356",E CHESTNUT ST,200
+756,Jet's Public House,,+1 847-278-1624,,"201 N Clark St, Chicago, IL 60601-1663",N CLARK ST,201
+757,7-Eleven,,+1 312-263-9910,,"201 N Clark St, Chicago, IL 60601-1663",N CLARK ST,201
+758,Kim's Home Cooking,,+1 312-346-7900,http://www.jimmyjohns.com,"201 W Madison St Stop 1, Chicago, IL 60606-3317",W MADISON ST,201
+759,Home Run Inn Pizza,2,+1 312-251-0144,http://neshgrill.com/index.php,"205 W Monroe St, Chicago, IL 60606-5013",W MONROE ST,205
+760,Restaurante La Isla Pequena,,,,"209 W Lake St, Chicago, IL 60606-1924",W LAKE ST,209
+761,Oasis,,+1 312-487-4817,http://blackwoodbbq.com,"211 W Adams St, Chicago, IL 60606-5239",W ADAMS ST,211
+762,Kudos Pizza,,,,"219 E 47th St, Chicago, IL 60653-3903",E 47TH ST,219
+763,Figo Wine Bar,,+1 312-422-0701,,"223 W Lake St, Chicago, IL 60606-1803",W LAKE ST,223
+764,C'est Bien Thai,2,+1 312-258-8477,http://www.robinsonsribsunionstation.com,"225 S Canal St, Chicago, IL 60606-5702",S CANAL ST,225
+765,The Butcher's Tap,2,+1 312-842-2952,,"225 W 26th St, Chicago, IL 60616-2203",W 26TH ST,225
+766,Snackittome!,,+1 312-471-3883,http://thealbertchicago.com,"228 East Ontario St Floor 1, Chicago, IL 60611",EAST ONTARIO ST,228
+767,The Garage Bar and Sandwiches,2,+1 312-842-9200,https://fatfishbargrill-barandgrill.business.site/,"234 W 31st St, Chicago, IL 60616-3626",W 31ST ST,234
+768,Innertown Pub,,+1 312-588-4100,http://www.subway.com,"236 S State St 1st Floor GSA Building, Chicago, IL 60604-2004",S STATE ST,236
+769,Backyard Grill,,,http://aubonpain.com/,"251 E Huron St, Chicago, IL 60611-2908",E HURON ST,251
+770,Restaurant Las Esperanzas Inc,,+1 312-587-7753,https://locations.chipotle.com/il/chicago/291-e-ontario-st?utm_source=extendednetwork&utm_medium=yext&utm_campaign=yext_listings,"291 E Ontario St, Chicago, IL 60611",E ONTARIO ST,291
+771,Pablo Tacos,,+1 312-902-9922,https://www.facebook.com/9MusesChicago/,"315 S Halsted St, Chicago, IL 60661-5427",S HALSTED ST,315
+772,Simi's,,+1 312-674-5860,http://chicago.whitesox.mlb.com/cws/chisoxbarandgrill/index.jsp,"320 W 35th St, Chicago, IL 60616 320 W 35th St, Chicago, IL 60616 at U.S. Cellular Field, Chicago, IL 60616",W 35TH ST,320
+773,Caffe Umbria,,+1 800-963-2135,https://www.getreef.com/?utm_source=ExtendedNetwork&utm_medium=local-listing&y_source=1_MjQzMTk4OTEtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"331 W Oak St, Chicago, IL 60610",W OAK ST,331
+774,"Kanela Breakfast Club,",2,+1 312-212-1102,,"333 S State St, Chicago, IL 60604-3900",S STATE ST,333
+775,Baskin-Robbins,,+1 312-341-1020,,"335 S Franklin St # A, Chicago, IL 60606-7108",S FRANKLIN ST,335
+776,The Snail Thai Cuisine,2,+1 773-928-3027,http://www.wendys.com,"344 E 95th St, Chicago, IL 60619-7354",E 95TH ST,344
+777,Barcocina,2,+1 312-822-0191,http://www.kinziechophouse.com,"400 N Wells St, Chicago, IL 60654-2760",N WELLS ST,400
+778,Veggie Grill,2,+1 312-312-5100,http://thesmithrestaurant.com/,"400 N Clark St, Chicago, IL 60654-4502",N CLARK ST,400
+779,Pueblo,2,+1 312-566-0406,,"408 S Clark St, Chicago, IL 60605-1022",S CLARK ST,408
+780,Golden Nugget Pancake House,1,+1 708-496-5603,http://www.manta.com/c/mtbw63j/j-c-s-bbq-llc,"410 W 71st St, Chicago, IL 60621-3034",W 71ST ST,410
+781,Haire's Gulf Shrimp,2,+1 312-939-4423,,"411 S Wells St, Chicago, IL 60607-3927",S WELLS ST,411
+782,Third Star,2,+1 773-651-4108,,"432 E 87th St, Chicago, IL 60619-6004",E 87TH ST,432
+783,Sabrina Sub,,+1 312-380-0071,http://kanelabreakfastclub.com,"502 E Illinois St, Chicago, IL 60611-3581",E ILLINOIS ST,502
+784,Thai Aroma,2,+1 312-432-0663,http://iguanacafe.com/,"517 N Halsted St, Chicago, IL 60642-5909",N HALSTED ST,517
+785,Sunny Day Tap,,+1 773-994-3123,,"522 E 79th St, Chicago, IL 60619-3054",E 79TH ST,522
+786,1959 Kitchen & Bar,2,,,"534 N Clark St, Chicago, IL 60654-7116",N CLARK ST,534
+787,Dunkin',,+1 773-723-7522,,"537 E 79th St, Chicago, IL 60619-3035",E 79TH ST,537
+788,Native Foods,2,,,"548 E 67th St, Chicago, IL 60637-4002",E 67TH ST,548
+789,Edgewater Restaurant,,+1 312-382-1300,http://www.halstedstreetdeli.com,"555 W Monroe St, Chicago, IL 60661-3605",W MONROE ST,555
+790,Inspiration Kitchen - Garfield Park,2,+1 312-939-1179,http://www.amaritthai.com/?utm_source=TripAdvisor&utm_medium=TripAdvWebsite&utm_campaign=TA&utm_term=TA,"600 S Dearborn St At W Harrison St., Chicago, IL 60605-1821",S DEARBORN ST,600
+791,Chipotle Mexican Grill,,+1 773-675-5553,http://www.soluribrothers.com/,"601 W 43rd St, Chicago, IL 60609",W 43RD ST,601
+792,Subway,,+1 312-643-0449,http://blinddragon.com/chicago/,"613 N Wells St, Chicago, IL 60654-3714",N WELLS ST,613
+793,Aroma Desi Grill Restaurant Downtown Chicago,2,+1 312-491-9690,http://www.citypoolhallchicago.com/,"640 W Hubbard St, Chicago, IL 60654-5509",W HUBBARD ST,640
+794,7-Eleven,,+1 312-846-6670,http://dollopcoffee.com,"643 N Wells St, Chicago, IL 60654-3792",N WELLS ST,643
+795,Le Macaron French Pastries,2,,http://www.saintlouschicago.com/,"664 W Lake St, Chicago, IL 60661-1011",W LAKE ST,664
+796,Rebel Wings,,+1 312-624-9523,http://limitlesscoffee.com,"675 N Wells St, Chicago, IL 60654-3616",N WELLS ST,675
+797,Peeples Taco Place,,+1 312-440-8600,http://burgerjointchicago.com/,"675 N Franklin St, Chicago, IL 60654-3926",N FRANKLIN ST,675
+798,Domino's Pizza,,+1 312-624-9523,http://www.ediescafebar.com/,"675 N Wells St, Chicago, IL 60654-3616",N WELLS ST,675
+799,Greek Corner Restaurant Cafe,1,+1 847-971-3661,,"678 N Orleans St, Chicago, IL 60654-3916",N ORLEANS ST,678
+800,Convenient Food Mart,,+1 312-600-6305,http://www.gtprimerestaurant.com,"707 N Wells St, Chicago, IL 60654-3567",N WELLS ST,707
+801,The Hat,,+1 312-944-7100,http://www.silverspoonchicago.com/,"710 N Rush St, Chicago, IL 60611-2504",N RUSH ST,710
+802,Elephant & Castle (US),2,+1 312-756-8977,http://www.thegrailcafe.com,"715 S Dearborn St, Chicago, IL 60605-1837",S DEARBORN ST,715
+803,Eclipse Restaurant & Lounge,,+1 773-723-2268,,"720 E 75th St, Chicago, IL 60619-1908",E 75TH ST,720
+804,Leona's Pizzeria,2,,,"720 N State St, Chicago, IL 60654-3820",N STATE ST,720
+805,The Rambler Kitchen   Tap,,+1 312-583-1860,https://www.facebook.com/urbanpantrychicago/,"730 S Clark St, Chicago, IL 60605-1743",S CLARK ST,730
+806,Mccb,2,+1 872-777-4585,https://locations.bk.com/il/chicago/733-e-47th-st.html,"733 E 47th St, Chicago, IL 60653",E 47TH ST,733
+807,Wingstop,,+1 312-267-2323,https://www.roohchicago.com/,"736 W Randolph St, Chicago, IL 60661",W RANDOLPH ST,736
+808,Windy City Hot Dogs Incorporated,1,+1 773-873-7428,,"742 E 79th St, Chicago, IL 60619-3118",E 79TH ST,742
+809,Brickhouse Tavern,2,+1 312-643-1219,http://www.friendssushionstate.com,"804 N State St, Chicago, IL 60610-3319",N STATE ST,804
+810,Canton Regio,2,+1 312-944-5106,https://restaurants.subway.com/united-states/il/chicago/816-n-state-st?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=24379&utm_campaign=evergreen-2020&y_source=1_MTQ5MTA3NjMtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"816 N State St, Chicago, IL 60610",N STATE ST,816
+811,Alonti Market Cafe,,+1 312-526-3116,http://blvdchicago.com,"817 W Lake St, Chicago, IL 60607-1703",W LAKE ST,817
+812,Soul Food to Go,,,,"820 N Orleans St Ste 235, Chicago, IL 60610-3170",N ORLEANS ST,820
+813,Dragon King,,+1 312-455-8238,http://sushidokku.com/,"823 W Randolph St, Chicago, IL 60607-2310",W RANDOLPH ST,823
+814,La Vaca Margarita Bar,2,+1 312-583-0806,http://www.tacomaya.com,"823 S State St, Chicago, IL 60605-2225",S STATE ST,823
+815,Taste of Havana,,,,"825 N Sedgwick St, Chicago, IL 60610-3065",N SEDGWICK ST,825
+816,Zip'z Express Fast Food,,+1 312-585-8498,http://www.greenleafchopshop.com/locations/chicago-river-north,"831 N Sedgwick St, Chicago, IL 60610-3065",N SEDGWICK ST,831
+817,Brisku's Bistro,2,+1 312-761-2538,http://hawaiianbros.com/,"831 N Sedgwick St Inside Kitchen United Mix, Chicago, IL 60610-3065",N SEDGWICK ST,831
+818,Subway,,+1 312-455-1400,,"832 W Randolph St, Chicago, IL 60607-2309",W RANDOLPH ST,832
+819,Danny's,,,,"850 W 63rd St, Chicago, IL 60621-1902",W 63RD ST,850
+820,Demitasse Cafe,,+1 312-877-5441,https://www.facebook.com/texicanchicago/,"869 N Larrabee St, Chicago, IL 60610-2425",N LARRABEE ST,869
+821,Las Brazas,1,+1 773-783-2971,,"907 W 87th St, Chicago, IL 60620-3230",W 87TH ST,907
+822,Puffs of Doom,,+1 773-224-4621,http://haroldswestloop.com/,"917 W 87th St, Chicago, IL 60620-3230",W 87TH ST,917
+823,Ani Restaurant,,+1 312-850-6200,,"923 S Loomis St, Chicago, IL 60607-4011",S LOOMIS ST,923
+824,Williams Inn Pizzeria,,+1 312-273-5118,http://www.joesbar.com/,"940 W Weed St, Chicago, IL 60642-2539",W WEED ST,940
+825,NiX Restaurant,2,+1 312-274-3399,,"944 N Orleans St Ste 1, Chicago, IL 60610-3054",N ORLEANS ST,944
+826,Prairie Tap,1,+1 773-726-7254,https://locations.dunkindonuts.com/en/il/chicago/947-w-addison-st/352290?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=352290,"947 W Addison St, Chicago, IL 60613",W ADDISON ST,947
+827,South Sub,,+1 312-640-1299,https://pizzarenos.com/,"953 W Willow St, Chicago, IL 60614-7357",W WILLOW ST,953
+828,Danzon Restaurante,,,,"1002 W Lake St, Chicago, IL 60607-1746",W LAKE ST,1002
+829,Andiamo,2,+1 773-989-0322,,"1005 W Argyle St, Chicago, IL 60640-3716",W ARGYLE ST,1005
+830,De Pasada,,+1 312-566-4121,http://www.eatatmadison.com/,"1027 W Madison St, Chicago, IL 60607",W MADISON ST,1027
+831,Hong Huah,1,+1 312-944-5392,http://www.7-eleven.com/?yext=33882,"1036 N Dearborn St, Chicago, IL 60610-3127",N DEARBORN ST,1036
+832,Serena Restaurant,2,+1 708-369-8807,,"1041 W Taylor St, Chicago, IL 60607-4224",W TAYLOR ST,1041
+833,City Pool Hall & Sports Bar,,+1 312-829-5888,http://www.littlejoes.net,"1041 W Taylor St, Chicago, IL 60607-4224",W TAYLOR ST,1041
+834,The Picky Vegan,,+1 312-988-7676,http://www.rosebudrestaurants.com/#!restaurants/carmines,"1043 N Rush St, Chicago, IL 60611-1227",N RUSH ST,1043
+835,Perez Restaurant,,+1 312-226-7666,http://www.facebook.com/Demitasse-Coffee-196263207076662,"1066 W Taylor St, Chicago, IL 60607-4355",W TAYLOR ST,1066
+836,The Woodlawn,,+1 312-431-8850,http://www.jimmyjohns.com,"1101 S Canal St Ste 104, Chicago, IL 60607-4901",S CANAL ST,1101
+837,Munchies,,+1 312-255-7004,http://www.westloopsalumi.com,"1111 W Randolph St, Chicago, IL 60607-1607",W RANDOLPH ST,1111
+838,Harold Chicken Restaurant,,,,"1113 W Randolph St, Chicago, IL 60607-1607",W RANDOLPH ST,1113
+839,Dunkin',,+1 312-829-4757,http://www.facebook.com/Don-Pedro-Carnitas-68701175934,"1113 W 18th St, Chicago, IL 60608-2324",W 18TH ST,1113
+840,Mitchell's Tap,,+1 312-243-1113,http://www.thecrossroadschicago.com/,"1120 W Madison St, Chicago, IL 60607-2012",W MADISON ST,1120
+841,Jamba Juice,,+1 773-855-8120,http://www.facebook.com/goreecuisine/,"1126 E 47th St, Chicago, IL 60653-4455",E 47TH ST,1126
+842,Just Salad,,+1 773-453-3021,https://locations.chipotle.com/il/chicago/1132-s-clinton-st?utm_source=extendednetwork&utm_medium=yext&utm_campaign=yext_listings,"1132 S Clinton St Clinton & Grenshaw, Chicago, IL 60607",S CLINTON ST,1132
+843,Fumare Meats,2,+1 312-666-3666,http://www.jimmyjohns.com,"1133 W Taylor St Ste 1, Chicago, IL 60607-4377",W TAYLOR ST,1133
+844,Subway,,+1 773-672-8955,http://gioiachicago.com,"1133 W Randolph St, Chicago, IL 60607-1620",W RANDOLPH ST,1133
+845,Marko's Tacos,,+1 773-471-3000,,"1137 W 63rd St, Chicago, IL 60621-1345",W 63RD ST,1137
+846,Baskin-Robbins,,+1 312-939-2855,http://mannysdeli.com/,"1141 S Jefferson St, Chicago, IL 60607-4425",S JEFFERSON ST,1141
+847,Harry Caray's Tavern on Navy Pier,2,+1 312-915-5950,http://lastoriachicago.com,"1154 N Dearborn St, Chicago, IL 60610-6733",N DEARBORN ST,1154
+848,Jimmi John's,,+1 773-927-3647,,"1159 W 47th St, Chicago, IL 60609-3326",W 47TH ST,1159
+849,Jackson Tavern,2,+1 312-932-0639,http://www.tgtea.com,"1160 N State St Il, Chicago, IL 60610-2721",N STATE ST,1160
+850,Old Chicago,,+1 312-829-1147,https://www.facebook.com/La-Vaca-Margarita-BAR-187412394769133/,"1160 W 18th St, Chicago, IL 60608-2325",W 18TH ST,1160
+851,Sophie's,2,+1 312-421-3631,,"1163 W 18th St, Chicago, IL 60608-2355",W 18TH ST,1163
+852,Tj Gyro's,,+1 312-733-9463,http://www.citywinery.com/chicago/,"1200 W Randolph St, Chicago, IL 60607-1604",W RANDOLPH ST,1200
+853,Suga Mama's Fine Southern Cuisine,,+1 708-986-3008,https://www.thewoodlawn1200.com/,"1200 E 79th St, Chicago, IL 60619-3308",E 79TH ST,1200
+854,Habanero Baja Grill,,+1 312-226-7427,http://honkytonkbbqchicago.com/,"1213 W 18th St, Chicago, IL 60608-3202",W 18TH ST,1213
+855,Clarke's Pancake House,2,+1 773-933-4714,,"1225 E 87th St, Chicago, IL 60619-7013",E 87TH ST,1225
+856,Qdoba Mexican Grill,,,,"1229 N Branch St Ste 104, Chicago, IL 60642",N BRANCH ST,1229
+857,Joe's Pizza,,+1 312-877-5821,http://orderkaybeesindianflavor.com,"1234 N Halsted St, Chicago, IL 60642-8711",N HALSTED ST,1234
+858,Hanami Sushi,,,http://www.prontoza.com/,"1234 N Halsted St, Chicago, IL 60642-8711",N HALSTED ST,1234
+859,El Asadero Colombiano,,+1 312-491-8318,,"1238 S Canal St, Chicago, IL 60607-5213",S CANAL ST,1238
+860,Au Bon Pain,,+1 312-666-9555,http://www.alhambrapalacerestaurant.com/,"1240 W Randolph St, Chicago, IL 60607-1604",W RANDOLPH ST,1240
+861,Florian Opera Bistro,2,+1 773-779-9728,,"1316 W 111th St, Chicago, IL 60643-3618",W 111TH ST,1316
+862,China Town Buffet Inc,,+1 773-667-7394,http://www.medici57.com,"1327 E 57th St, Chicago, IL 60637-1724",E 57TH ST,1327
+863,Gioia Ristorante & Pastificio,,+1 312-243-8908,http://www.sweetmaplecafe.com/,"1339 W Taylor St, Chicago, IL 60607-4706",W TAYLOR ST,1339
+864,Pisolino,,,,"1343 W 18th St, Chicago, IL 60608-3101",W 18TH ST,1343
+865,Do Eat,,+1 312-624-8648,,"1352 W Taylor St, Chicago, IL 60607-4754",W TAYLOR ST,1352
+866,Tesfa Ethiopian Cuisine,2,+1 312-374-3487,http://IrishNobleman.com,"1367 W Erie St, Chicago, IL 60642-5726",W ERIE ST,1367
+867,Paseo Boricua,,+1 773-891-2554,https://www.facebook.com/ETOO-Modern-Asian-Cuisine-185774115322826/,"1373 E 53rd St, Chicago, IL 60615-4001",E 53RD ST,1373
+868,County BBQ,,+1 312-666-6775,http://www.bottomlounge.com/,"1375 W Lake St, Chicago, IL 60607-1501",W LAKE ST,1375
+869,Domino's Pastries,,+1 312-666-2372,http://thebreakfastclubchicago.com,"1381 W Hubbard St, Chicago, IL 60642-6475",W HUBBARD ST,1381
+870,Cabos Baja Cafe & Mexican Grill,,,,"1400 E 47th St, Chicago, IL 60653-4520",E 47TH ST,1400
+871,Best Sub,,+1 312-633-0003,http://www.yummythaichicago.com/,"1418 W Taylor St, Chicago, IL 60607-4624",W TAYLOR ST,1418
+872,Bangkok Wok,,+1 312-787-3710,http://www.mamamilano.com,"1421 N Wells St, Chicago, IL 60610-2053",N WELLS ST,1421
+873,The Madison Bar & Kitchen,2,+1 312-243-9388,http://www.ichibansushicafe.com/,"1422 W Taylor St, Chicago, IL 60607-4734",W TAYLOR ST,1422
+874,Tavern on North,,+1 312-265-0958,http://www.loursbakerycafe.com,"1424 W Taylor St, Chicago, IL 60607-4688",W TAYLOR ST,1424
+875,Teriyaki To Go,,+1 800-806-1532,https://www.getreef.com/?utm_source=ExtendedNetwork&utm_medium=local-listing&y_source=1_MjQzMTk3MjEtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"1434 W. Fillmore St, Chicago, IL 60607",W. FILLMORE ST,1434
+876,Corner Bakery Cafe,1,,,"1438 W Cortland St, Chicago, IL 60642-1212",W CORTLAND ST,1438
+877,Quality Crab & Oyster Bah,2,,,"1441 W Willow St, Chicago, IL 60642-1525",W WILLOW ST,1441
+878,Harold's Chicken Shacks,,+1 312-664-5264,http://fireplaceinn.com/,"1448 N Wells St, Chicago, IL 60610-1306",N WELLS ST,1448
+879,New Punjab Sweets,,+1 312-243-8550,http://coyotesmexicanrestaurant.com,"1451 W 18th St, Chicago, IL 60608-5076",W 18TH ST,1451
+880,The Smith,2,,,"1454 W 95th St, Chicago, IL 60643-1362",W 95TH ST,1454
+881,Alhambra Palace Restaurant,2,+1 312-226-3951,http://www.hawkeyesbar.com/,"1458 W Taylor St, Chicago, IL 60607-4626",W TAYLOR ST,1458
+882,Usmania Fine Dining,2,+1 312-733-3045,http://www.facebook.com/Canton-Regio-116434758384486,"1510 W 18th St, Chicago, IL 60608-2824",W 18TH ST,1510
+883,Steak Out Grill,,+1 773-768-8282,,"1511 E 87th St, Chicago, IL 60619-6524",E 87TH ST,1511
+884,Wingstop,,+1 312-624-9770,https://www.chefluckey.com/,"1512 W Taylor St, Chicago, IL 60607-4016",W TAYLOR ST,1512
+885,Lifea__S Sweet Inc,,+1 312-266-9355,http://www.topogigiochicago.com/,"1516 N Wells St, Chicago, IL 60610-1308",N WELLS ST,1516
+886,Tom Tom Tamale & Bakery Co,,+1 773-667-0647,http://www.valoisrestaurant.com/,"1518 E 53rd St, Chicago, IL 60615-4503",E 53RD ST,1518
+887,Little Lamb,2,+1 312-766-7474,http://Www.sirichicago.com,"1520 W Taylor St, Chicago, IL 60607-4016",W TAYLOR ST,1520
+888,New Tea Garden Chop Suey,,+1 773-530-7710,,"1521 E 87th St, Chicago, IL 60619-6524",E 87TH ST,1521
+889,Steve's Lounge,1,+1 312-888-9368,http://lgsbar.com/restaurant/lgs,"1525 N Wells St, Chicago, IL 60610-1307",N WELLS ST,1525
+890,Lincoln Park Pizza,,+1 312-631-3737,http://doghousegrillchicago.com/,"1534 N Wells St, Chicago, IL 60610-1394",N WELLS ST,1534
+891,Chicago Pizza & Oven Grinder,2,+1 312-643-0093,http://www.facebook.com/woodieschicago/,"1535 N Wells St, Chicago, IL 60610-1307",N WELLS ST,1535
+892,Hellas Gyros,1,+1 773-768-2453,http://www.whitecastle.com,"1550 E 79th St, Chicago, IL 60619-4608",E 79TH ST,1550
+893,Subway,,+1 312-210-7788,http://www.rootspizza.com/locations/second-city/,"1610 N Wells St, Chicago, IL 60610",N WELLS ST,1610
+894,The End Zone,,+1 312-944-5800,http://www.dawalikitchen.com,"1625 N Halsted St, Chicago, IL 60614-9056",N HALSTED ST,1625
+895,Chay Fratello's Italian Restaurant And BBQ,,+1 773-465-8868,,"1635 W Howard St, Chicago, IL 60626-1630",W HOWARD ST,1635
+896,Dunkin',,+1 312-850-3301,,"1640 W Lake St, Chicago, IL 60612-2500",W LAKE ST,1640
+897,Chuck E. Cheese,2,+1 773-252-3500,http://pizzahousechicago.com,"1647 W Cortland St, Chicago, IL 60622-1117",W CORTLAND ST,1647
+898,Deuce's & The Diamonds Club,2,+1 773-667-5423,http://www.snailthai.com,"1649 E 55th St, Chicago, IL 60615-5838",E 55TH ST,1649
+899,Taco Bell,,+1 773-821-4055,https://restaurants.subway.com/united-states/il/chicago/1656-w-119th-st?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=46054&utm_campaign=evergreen-2020&y_source=1_MTQ5MTQ2OTctNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"1656 W 119th St, Chicago, IL 60643",W 119TH ST,1656
+900,The Lunchroom,2,,http://www.ginoseast.com/locations/pilsen#home,"1659 W 21st St, Chicago, IL 60608-3176",W 21ST ST,1659
+901,Artango Bar & Steakhouse,2,+1 312-753-3108,,"1710 W 87th St, Chicago, IL 60620-4807",W 87TH ST,1710
+902,Triple Crown Express,,,,"1712 W 119th St, Chicago, IL 60643-4900",W 119TH ST,1712
+903,El Ancla,,+1 312-280-5700,https://www.facebook.com/pizzacaprilp/,"1733 N Halsted St, Chicago, IL 60614-5501",N HALSTED ST,1733
+904,Qwest Chicago Cyber Center,,,,"1734 E 71st St, Chicago, IL 60649-1913",E 71ST ST,1734
+905,Halal Fried Chicken and Seafood,,+1 312-366-2294,http://www.edeninchicago.com,"1748 W Lake St, Chicago, IL 60612-2516",W LAKE ST,1748
+906,Calabria Imports,,+1 312-285-2710,https://5rabanitosdotcom.wordpress.com/,"1758 W 18th St, Chicago, IL 60608-1914",W 18TH ST,1758
+907,El Chivo Feliz,,+1 773-254-7040,,"1758 W 47th St, Chicago, IL 60609-3824",W 47TH ST,1758
+908,Jimmy John's,,,,"1800 W 103rd St, Chicago, IL 60643-2817",W 103RD ST,1800
+909,Shore's Xpress,,+1 312-982-2151,http://www.willowroomchicago.com,"1800 N Halsted St Willow & Wisconsin, Chicago, IL 60614-5058",N HALSTED ST,1800
+910,Magos Tamales Y Taqueria,,+1 312-243-8550,,"1801 S Laflin St, Chicago, IL 60608-3001",S LAFLIN ST,1801
+911,The Shack Shrimp & Chicken,,+1 773-779-3979,http://www.orientalchopsueyil.com,"1820 W 95th St, Chicago, IL 60643-1104",W 95TH ST,1820
+912,Argo Tea Cafe,,+1 773-238-1993,https://www.facebook.com/Reeses-lounge-115716941793919/,"1827 W 87th St, Chicago, IL 60620-4719",W 87TH ST,1827
+913,Water Hole Lounge,,,,"1828 W 79th St, Chicago, IL 60620-5240",W 79TH ST,1828
+914,Fat Albert's,,+1 773-445-9820,,"1903 W 87th St, Chicago, IL 60620-6051",W 87TH ST,1903
+915,Gyro & Beef,,+1 773-396-5800,https://www.calabria-imports.com/,"1905 W 103rd St, Chicago, IL 60643-2624",W 103RD ST,1905
+916,Raised An Urban Rooftop Bar,2,+1 773-235-9795,http://innertownpub.com,"1935 W Thomas St, Chicago, IL 60622-3732",W THOMAS ST,1935
+917,LP Sub,,+1 773-770-3616,http://www.basantchicago.com,"1939 W Byron St, Chicago, IL 60613-2739",W BYRON ST,1939
+918,Burger King,,+1 773-359-4290,,"1948 E 79th St, Chicago, IL 60649-4631",E 79TH ST,1948
+919,Lucky Grill,2,+1 773-248-1749,,"1962 N Halsted St, Chicago, IL 60614-5009",N HALSTED ST,1962
+920,Congas Restaurant & Lounge,2,+1 773-248-3000,http://oysterbah.com/,"1962 N Halsted St, Chicago, IL 60614-5009",N HALSTED ST,1962
+921,Whales Fish & Chicken,,+1 773-248-1400,http://pastapalazzo.com,"1966 N Halsted St Ste 1, Chicago, IL 60614-8649",N HALSTED ST,1966
+922,Dark Horse Tap & Grille,2,+1 312-255-7364,http://www.dnuez.com,"2000 W 18th St, Chicago, IL 60608-1816",W 18TH ST,2000
+923,McDonald's,,+1 773-248-7372,http://www.kitschn.com,"2005 W Roscoe St, Chicago, IL 60618-6201",W ROSCOE ST,2005
+924,Mexwall Street LLC,,+1 312-600-9865,http://www.alulubrew.com/,"2011 S Laflin St, Chicago, IL 60608-3007",S LAFLIN ST,2011
+925,Mr Submarine,,+1 872-802-0992,http://pitacafe.net/,"2014 W Division St, Chicago, IL 60622-3154",W DIVISION ST,2014
+926,Namo Thai Cuisine,,+1 773-288-4931,http://www.apdeli.com/ourlocations.asp,"2025 E 75th St, Chicago, IL 60649-3623",E 75TH ST,2025
+927,DMK Burger Bar,2,+1 312-988-0920,http://www.hellojasmine.com/,"2026 S Clark St Unit C, Chicago, IL 60616-1508",S CLARK ST,2026
+928,BLVD Steakhouse,4,+1 312-374-3005,http://www.meetfresh.us,"2026 S Clark St Unit A & B, Chicago, IL 60616",S CLARK ST,2026
+929,Gyros On The Spit,2,+1 312-866-6608,,"2026 S Clark St Unit D-e, Chicago, IL 60616-1508",S CLARK ST,2026
+930,Heartland Food Corp,,+1 773-293-6913,http://www.badousenegalesecuisine.com/,"2055 W Howard St, Chicago, IL 60645-2113",W HOWARD ST,2055
+931,Las Palmas of Wicker Park,2,+1 773-292-1600,http://folklorechicago.com/,"2100 W Division St, Chicago, IL 60622-3035",W DIVISION ST,2100
+932,Stock and Ledger,2,+1 312-949-0120,http://www.reggieslive.com,"2105 S State St, Chicago, IL 60616-1507",S STATE ST,2105
+933,Big Tony's Pizza,,+1 312-883-6536,http://state.asiancajunorder.com/,"2115 S State St Unit A, Chicago, IL 60616-1507",S STATE ST,2115
+934,The Breakfast Club And Grill,2,+1 773-445-7218,https://www.facebook.com/topnotchbeverly/,"2116 W 95th St, Chicago, IL 60643-1118",W 95TH ST,2116
+935,TeaPotBrew Bakery,1,+1 773-248-2570,http://www.chicagopizzaandovengrinder.com/,"2121 N Clark St, Chicago, IL 60614-4613",N CLARK ST,2121
+936,Vista Hermosa,,+1 773-472-2674,http://www.getcosi.com,"2200 N Clark St, Chicago, IL 60614-3855",N CLARK ST,2200
+937,Rewired Cafe,1,+1 708-868-9120,,"2218 S State St, Chicago, IL 60616-2008",S STATE ST,2218
+938,La Storia,2,+1 708-483-8748,https://www.facebook.com/Surfsupchicago/,"2236 E 71st St, Chicago, IL 60649-2522",E 71ST ST,2236
+939,Subway,,+1 312-243-4920,,"2253 W Taylor St, Chicago, IL 60612-4233",W TAYLOR ST,2253
+940,Guerrero's Pizza,,+1 773-880-9820,http://www.deliboutiquewineandspirits.com/,"2318 N Clark St, Chicago, IL 60614-3423",N CLARK ST,2318
+941,The Waterfront Cafe,2,+1 312-829-3001,,"2322 W Taylor St, Chicago, IL 60612-4236",W TAYLOR ST,2322
+942,Rizza's Pizza & Grill,,+1 312-243-3439,http://babapita.com/,"2343 W Taylor St, Chicago, IL 60612-4244",W TAYLOR ST,2343
+943,Swift & Sons,4,+1 773-296-6545,https://locations.popeyes.com/il/chicago/2355-w-addison-st,"2355 W Addison St, Chicago, IL 60618",W ADDISON ST,2355
+944,La Cabana De Don Luis,,+1 773-465-6058,http://www.starbucks.com,"2357 W Howard St, Chicago, IL 60645-1513",W HOWARD ST,2357
+945,El Carrito,1,+1 773-445-9215,http://www.7-eleven.com/?yext=33758,"2421 W 103rd St, Chicago, IL 60655-1001",W 103RD ST,2421
+946,El Pollo Cris Cris,,+1 312-888-2170,,"2428 S Wallace St, Chicago, IL 60616-2049",S WALLACE ST,2428
+947,Lincolnwood Restaurant,,+1 773-696-2777,http://www.facebook.com/guapotacolatino/,"2430 W 47th St, Chicago, IL 60632-1336",W 47TH ST,2430
+948,Cellar Door Provisions,2,+1 773-929-7759,http://gaslightbar.com,"2450 N Clark St, Chicago, IL 60614-2718",N CLARK ST,2450
+949,BJs Market & Bakery,,+1 773-975-6177,http://www.noodlesinthepot.com/,"2453 N Halsted St, Chicago, IL 60614-9008",N HALSTED ST,2453
+950,Village Cafe,,+1 312-877-5031,https://www.facebook.com/bigbosschicken/,"2520 S Halsted St, Chicago, IL 60608-5931",S HALSTED ST,2520
+951,Venchi,4,+1 773-768-2600,,"2608 E 79th St, Chicago, IL 60649-5210",E 79TH ST,2608
+952,MrBeast Burger,,+1 773-697-4648,https://www.facebook.com/jibaritoslincolnpark/,"2616 N Clark St, Chicago, IL 60614-2290",N CLARK ST,2616
+953,7-Eleven,,,,"2627 W Division St, Chicago, IL 60622-2851",W DIVISION ST,2627
+954,Badou Sengalese Cuisine,2,+1 773-434-0313,http://www.waldocooneyspizza.com,"2640 W 51st St, Chicago, IL 60632-1560",W 51ST ST,2640
+955,7-Eleven,,,,"2706 W Division St, Chicago, IL 60622-2853",W DIVISION ST,2706
+956,George Michalios,,+1 773-486-2444,https://www.facebook.com/Best-Sub-2-619273891454420/,"2729 W Division St, Chicago, IL 60622-7494",W DIVISION ST,2729
+957,Arby's,,,https://www.facebook.com/WellsStreetPopcorn/,"2804 N Clark St, Chicago, IL 60657-5208",N CLARK ST,2804
+958,Cafe michelle,2,+1 773-262-8570,,"2827 W Howard St, Chicago, IL 60645-1228",W HOWARD ST,2827
+959,Ohel Avrahams Pizza,,+1 773-880-0063,http://Perachicago.com,"2833 N Broadway St, Chicago, IL 60657-6016",N BROADWAY ST,2833
+960,Domino's Pizza,,+1 773-755-4011,,"2835 N Broadway St, Chicago, IL 60657-6016",N BROADWAY ST,2835
+961,El Monarca Restaurants,,+1 773-528-9050,http://www.lacreperiechicago.com,"2845 N Clark St, Chicago, IL 60657-5207",N CLARK ST,2845
+962,Subway,1,+1 773-388-1818,http://www.yukihanachicago.com,"2920 N Clark St, Chicago, IL 60657-5210",N CLARK ST,2920
+963,Sushi Sai,2,+1 773-863-6565,,"2921 W 63rd St, Chicago, IL 60629-2729",W 63RD ST,2921
+964,Mississippi Soul Food,,+1 773-477-8510,,"2936 N Broadway St, Chicago, IL 60657-5302",N BROADWAY ST,2936
+965,Sorrento Pizza,,+1 773-952-0547,,"2942 W 63rd St, Chicago, IL 60629-2773",W 63RD ST,2942
+966,Taqueria Poncitlan,,+1 773-935-9800,,"2943 N Broadway St, Chicago, IL 60657-5301",N BROADWAY ST,2943
+967,Bina__ Cafe,,+1 773-267-1839,http://www.pandaexpress.com/userlocation,"2949 W Addison St Addison Mall, Chicago, IL 60618-4635",W ADDISON ST,2949
+968,Goree Cuisine,2,+1 312-842-2146,https://www.facebook.com/pages/category/Bakery/Impallaria-Bakery-1448499595381934/,"2952 S Wallace St, Chicago, IL 60616-3035",S WALLACE ST,2952
+969,Rocky's Tacos,,+1 773-734-0512,,"3003 E 92nd St, Chicago, IL 60617-4502",E 92ND ST,3003
+970,Centennial Crafted Beer & Eatery,2,+1 773-897-5327,https://restaurants.subway.com/united-states/il/chicago/3021-n-clark-st?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=21671&utm_campaign=evergreen-2020&y_source=1_MTQ5MDM4MjgtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"3021 N Clark St Space 3, Chicago, IL 60657",N CLARK ST,3021
+971,Level Two Restaurant,2,+1 773-296-6901,http://www.chilambalamchicago.com,"3023 N Broadway St, Chicago, IL 60657-5315",N BROADWAY ST,3023
+972,Lucky Dorr,2,+1 773-233-3287,http://www.fattommyschicago.com,"3031 W 111th St, Chicago, IL 60655-2236",W 111TH ST,3031
+973,Chicago Halal,,+1 312-567-0088,,"3034 S Halsted St, Chicago, IL 60608-5805",S HALSTED ST,3034
+974,Chipotle Mexican Grill,,+1 773-281-6690,http://WWW.CLARKSTDOG.COM,"3040 N Clark St, Chicago, IL 60657-5206",N CLARK ST,3040
+975,Wendy's,,+1 773-847-9407,http://www.el-milagro.com/main.html,"3050 W 26th St, Chicago, IL 60623-4130",W 26TH ST,3050
+976,The Crab Pad,2,+1 773-776-3260,,"3109 W 59th St, Chicago, IL 60629-2503",W 59TH ST,3109
+977,Chicago Kitchen,1,,,"3109 N Broadway St, Chicago, IL 60657-4522",N BROADWAY ST,3109
+978,Ethiopian Diamond - Clark,2,+1 773-661-6226,,"3113 N Halsted St, Chicago, IL 60657-4436",N HALSTED ST,3113
+979,Firehouse Bakery and Grill,,+1 773-778-1753,,"3118 W 59th St, Chicago, IL 60629-2504",W 59TH ST,3118
+980,San Soo Korean BBQ,2,,,"3136 N Broadway St, Chicago, IL 60657-4980",N BROADWAY ST,3136
+981,Obbie's Pizza,,,http://www.doeatchicago.com/,"3141 S Halsted St, Chicago, IL 60608-6601",S HALSTED ST,3141
+982,Burger King,,+1 773-925-5000,,"3141 W 63rd St, Chicago, IL 60629-2749",W 63RD ST,3141
+983,Subway,,+1 773-254-7441,http://www.bridgeportpasty.com,"3142 S Morgan St, Chicago, IL 60608-6856",S MORGAN ST,3142
+984,Not Just Cookies Bakery,,+1 773-776-2263,,"3210 W. 87th St, Chicago, IL 60652",W. 87TH ST,3210
+985,City Rock,2,+1 773-778-3270,,"3304 W 55th St, Chicago, IL 60632-3209",W 55TH ST,3304
+986,Hiro's Cafe,,+1 773-281-7575,http://www.pingpongrestaurant.com,"3322 N Broadway St, Chicago, IL 60657-3517",N BROADWAY ST,3322
+987,Thai Spoon And Sushi,2,+1 773-472-4405,http://www.townhallpub.com,"3340 N Halsted St, Chicago, IL 60657-2425",N HALSTED ST,3340
+988,La Cebollita,1,+1 773-728-2500,http://mstssouthernfriedchicken.com/,"3343 N Broadway St, Chicago, IL 60657-3516",N BROADWAY ST,3343
+989,Grubb's Grill,,+1 773-697-9127,http://www.dstequila.com/,"3352 N Halsted St, Chicago, IL 60657-6518",N HALSTED ST,3352
+990,Brandy's,,+1 773-927-6073,http://www.mitchellstap.net/,"3356 S Halsted St, Chicago, IL 60608-6742",S HALSTED ST,3356
+991,Sabroso! Mexican Grill,2,+1 773-770-4618,http://fajitame.com/,"3445 N Halsted St, Chicago, IL 60657-2414",N HALSTED ST,3445
+992,Dunkin',,+1 773-525-4580,http://www.dimospizza.com,"3463 N Clark St, Chicago, IL 60657-1609",N CLARK ST,3463
+993,Chicago Raw,2,+1 773-244-8000,http://www.barcelonachicago.com,"3474 N Clark St, Chicago, IL 60657-1610",N CLARK ST,3474
+994,Woodie's Flat,2,+1 773-687-8972,,"3475 N Clark St, Chicago, IL 60657-1609",N CLARK ST,3475
+995,Jam and Honey,2,,,"3477 N Broadway St, Chicago, IL 60657-2519",N BROADWAY ST,3477
+996,Bar Louie,2,+1 773-868-4053,,"3500 N Broadway St, Chicago, IL 60657-1826",N BROADWAY ST,3500
+997,Mr Pollo,,,,"3500 N Broadway St, Chicago, IL 60657-1826",N BROADWAY ST,3500
+998,Whole Foods Market,2,+1 773-801-1110,http://www.inspirationkitchens.org/locations_hours/,"3504 W Lake St, Chicago, IL 60624-1906",W LAKE ST,3504
+999,Willow Room,2,,http://www.deucesandthediamondclub.com,"3505 N Clark St, Chicago, IL 60657-1611",N CLARK ST,3505
+1000,Best Steak House,,+1 773-929-4040,,"3507 N Halsted St, Chicago, IL 60657-1832",N HALSTED ST,3507
+1001,Snax,,+1 773-687-9719,https://www.facebook.com/rewiredcafes/,"3508 N Broadway St, Chicago, IL 60657-1826",N BROADWAY ST,3508
+1002,Ichiban Sushi,,+1 773-549-6000,http://www.johnbarleycorn.com,"3524 N Clark St, Chicago, IL 60657-1612",N CLARK ST,3524
+1003,Caminos de Michoacan #2,2,+1 773-325-2319,http://www.mullensbarandgrill.com/,"3527 N Clark St, Chicago, IL 60657-1611",N CLARK ST,3527
+1004,Rally's Hamburgers,,+1 773-734-9591,,"3532 E 95th St, Chicago, IL 60617-5164",E 95TH ST,3532
+1005,Quesadilla La Reina Del Sur,1,+1 773-248-0055,http://www.sluggersbar.com,"3540 N Clark St, Chicago, IL 60657-1615",N CLARK ST,3540
+1006,Mariposa,2,+1 773-525-0500,,"3613 N Broadway St, Chicago, IL 60613-4417",N BROADWAY ST,3613
+1007,Panera Bread,,+1 773-292-9668,,"3624 W Palmer St, Chicago, IL 60647-2315",W PALMER ST,3624
+1008,Taqueria,,+1 773-269-5310,https://www.mordecaichicago.com/,"3632 N Clark St, Chicago, IL 60613",N CLARK ST,3632
+1009,Flamingo Bar & Grill,1,+1 773-227-2583,http://www.thesmokedaddy.com,"3636 N Clark St, Chicago, IL 60613-3828",N CLARK ST,3636
+1010,Kopi A Traveler's Cafe,2,,http://www.bigstarchicago.com,"3640 N Clark St, Chicago, IL 60613-3828",N CLARK ST,3640
+1011,Due Lire Vino & Cucina,2,+1 773-374-5640,,"3643 E 106th St, Chicago, IL 60617-6638",E 106TH ST,3643
+1012,Brothers and Sisters,,+1 773-377-4770,http://brickhousetavernchi.com,"3647 N Clark St, Chicago, IL 60613-3807",N CLARK ST,3647
+1013,Amzi Mediterranean Grill,,+1 773-929-3680,http://www.uncommonground.com/,"3800 N Clark St, Chicago, IL 60613-2812",N CLARK ST,3800
+1014,Au Bon Pain,,+1 773-779-1118,,"3822 W 111th St, Chicago, IL 60655-4010",W 111TH ST,3822
+1015,Dear Margaret,4,+1 773-549-2932,http://www.elmariachitequilabar.com,"3906 N Broadway St, Chicago, IL 60613-3274",N BROADWAY ST,3906
+1016,El Taconazo,,,,"3931 S Leavitt St, Chicago, IL 60609-2203",S LEAVITT ST,3931
+1017,Arby's,,+1 773-523-5247,,"3945 W 31st St, Chicago, IL 60623-4936",W 31ST ST,3945
+1018,Turkey Chop,2,+1 773-902-7127,https://restaurants.subway.com/united-states/il/chicago/4025-e-106th-street?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=50799&utm_campaign=evergreen-2020&y_source=1_MTQ5MDgxNzYtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"4025 E 106th St, Chicago, IL 60617-6340",E 106TH ST,4025
+1019,Noodles In The Pot,2,+1 773-929-4149,https://www.michaelspizzachicago.com/,"4091 N Broadway St, Chicago, IL 60613-2117",N BROADWAY ST,4091
+1020,Restaurant Business,,+1 773-762-1505,https://www.lalos.com/,"4126 W 26th St, Chicago, IL 60623-4312",W 26TH ST,4126
+1021,The Village Tavern,,+1 773-533-0311,,"4142 W Madison St, Chicago, IL 60624-2303",W MADISON ST,4142
+1022,Wok N' Bao,,+1 773-404-7777,http://aromachicago.com/,"4144 N Broadway St, Chicago, IL 60613-2121",N BROADWAY ST,4144
+1023,Ceviche Restaurant,2,+1 773-270-4179,https://www.northbuenadeliandwine.com/,"4200 N Broadway St, Chicago, IL 60613-1610",N BROADWAY ST,4200
+1024,Subway,1,+1 773-581-0332,https://www.facebook.com/Windy-City-Hot-Dogs-132283676798856/,"4205 W 63rd St, Chicago, IL 60629-5009",W 63RD ST,4205
+1025,Gorditas Santiago,,+1 773-762-7452,,"4211 W 26th St, Chicago, IL 60623-4317",W 26TH ST,4211
+1026,Goose Island Brewhouse,2,,,"4222 W 63rd St, Chicago, IL 60629-5010",W 63RD ST,4222
+1027,Froyo Chicago,1,+1 773-247-9696,https://www.homeruninnpizza.com/location/chicago-31st-street/,"4254 W 31st St, Chicago, IL 60623",W 31ST ST,4254
+1028,Mi Lady's Restaurant,,+1 773-284-7745,http://www.positanospizza.com,"4312 W 55th St, Chicago, IL 60632-4628",W 55TH ST,4312
+1029,Blu 57 Seafood & Small Plates,2,+1 773-887-3323,,"4335 W Madison St, Chicago, IL 60624-2224",W MADISON ST,4335
+1030,7-Eleven,,+1 773-247-0910,https://www.facebook.com/pages/La-Cebollita/115561791800095,"4343 W 47th St, Chicago, IL 60632-4440",W 47TH ST,4343
+1031,Fresh Attractions,,+1 773-596-2376,http://locations.pizzahut.com/il/chicago/4466-n-broadway-street,"4466 N Broadway St, Chicago, IL 60640-5660",N BROADWAY ST,4466
+1032,The Slab,,+1 773-728-2137,,"4570 N Broadway St, Chicago, IL 60640-5602",N BROADWAY ST,4570
+1033,Blackwood BBQ,1,+1 773-728-5288,,"4620 N Broadway St, Chicago, IL 60640-5012",N BROADWAY ST,4620
+1034,Pollo Campero,1,+1 773-654-3828,http://bellambrianachicago.com/,"4656 N Clark St, Chicago, IL 60640-4620",N CLARK ST,4656
+1035,Okocim Bar and Grill,,+1 773-581-1770,https://www.facebook.com/TopViewChicago/,"4715 W 63rd St, Chicago, IL 60629-5506",W 63RD ST,4715
+1036,HotHouse,,+1 773-334-0406,https://www.facebook.com/Golden-House-Restaurant-121459495170/,"4744 N Broadway St, Chicago, IL 60640-4909",N BROADWAY ST,4744
+1037,DE Mar's Grill,1,+1 773-654-1341,http://www.theredlionlincolnsquare.com,"4749 N Rockwell St, Chicago, IL 60625-2934",N ROCKWELL ST,4749
+1038,The Crossroads Bar and Grill,2,+1 773-271-6022,http://www.caravanrestaurantchicago.com,"4810 N Broadway St, Chicago, IL 60640-3604",N BROADWAY ST,4810
+1039,Don Pedro Carnitas,1,+1 773-769-1284,https://www.pho-viet.com/,"4941 N Broadway St, Chicago, IL 60640-3001",N BROADWAY ST,4941
+1040,Jesse's Mexican Grill,1,+1 773-769-1254,http://sunwahbbq.com,"5039 N Broadway St, Chicago, IL 60640-3005",N BROADWAY ST,5039
+1041,Zoup!,1,,,"5053 W Division St, Chicago, IL 60651-3034",W DIVISION ST,5053
+1042,Estrada Restaurant & Lounge,,+1 773-506-2978,https://www.facebook.com/OraSushi/timeline,"5143 N Clark St, Chicago, IL 60640-3282",N CLARK ST,5143
+1043,Panera Bread,1,+1 773-878-1132,https://locations.chipotle.com/il/chicago/5224-n-broadway-st?utm_source=extendednetwork&utm_medium=yext&utm_campaign=yext_listings,"5224 N Broadway St Ste 102, Chicago, IL 60640",N BROADWAY ST,5224
+1044,Jimmy John's,,+1 773-287-7298,http://seethrukitchen.com,"5249 W Madison St, Chicago, IL 60644-4142",W MADISON ST,5249
+1045,Barwaqo Kabob Restaurant,,+1 773-355-5310,https://www.potbelly.com/locations/illinois/andersonville,"5304 N Clark St Fl East, Chicago, IL 60640",N CLARK ST,5304
+1046,Waldo Cooney's Pizza,1,+1 773-989-5674,http://www.facebook.com/kopicafechicago,"5317 N Clark St, Chicago, IL 60640-2113",N CLARK ST,5317
+1047,Uncommon Ground,2,+1 773-654-1369,http://www.replayandersonville.com/,"5358 N Clark St, Chicago, IL 60640-2120",N CLARK ST,5358
+1048,Impallaria Bakery and Deli,1,+1 773-558-6695,https://locations.dunkindonuts.com/en/il/chicago/5454-s-state-st/351700?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=351700,"5454 S State St, Chicago, IL 60609",S STATE ST,5454
+1049,Babas Famous Philly Steak & Lemonade,,+1 773-681-0555,http://www.jinthaicuisine.com,"5458 N Broadway St, Chicago, IL 60640-1704",N BROADWAY ST,5458
+1050,Freshii,,+1 773-268-9057,,"5460 S Halsted St, Chicago, IL 60609-6170",S HALSTED ST,5460
+1051,Takito Street Lincoln Park,,+1 773-728-0600,,"5501 N Clark St, Chicago, IL 60640-1213",N CLARK ST,5501
+1052,Kitsch'n On Roscoe,2,+1 773-287-2900,,"5601 W Division St, Chicago, IL 60651-1140",W DIVISION ST,5601
+1053,C Chicago,4,+1 773-878-8930,https://www.odachicago.com/,"5657 N Clark St, Chicago, IL 60660-4111",N CLARK ST,5657
+1054,Panaderia Ayutla,,+1 773-944-5555,http://www.mangopicklechicago.com,"5842 N Broadway St, Chicago, IL 60660-3518",N BROADWAY ST,5842
+1055,JJ Fish and chicken,,+1 773-767-8400,,"5851 W 63rd St, Chicago, IL 60638-5407",W 63RD ST,5851
+1056,The Clark Street Dog,1,+1 773-769-3030,https://www.dominos.com/en/?redirect=homepage&utm_source=locallistings&utm_medium=loclist&utm_campaign=localmaps,"5912 N Clark St, Chicago, IL 60660-3208",N CLARK ST,5912
+1057,Oriental Chop Suey,,+1 773-261-5500,http://ordertjtastygyros.com/,"5945 W Division St, Chicago, IL 60651-1034",W DIVISION ST,5945
+1058,Lakeside Market,,+1 773-763-9796,,"6124 W Gunnison St, Chicago, IL 60630-2934",W GUNNISON ST,6124
+1059,Chief's Dinners & Deli,,+1 773-764-8888,http://www.jimmyjohns.com,"6153 N Broadway St, Chicago, IL 60660-2501",N BROADWAY ST,6153
+1060,Billy Sunday,2,+1 773-586-5611,https://www.facebook.com/Parisis-Drive-In-151151214997899/,"6216 W 63rd St, Chicago, IL 60638-5010",W 63RD ST,6216
+1061,Blue Fin,2,,,"6621 N Clark St, Chicago, IL 60626-5972",N CLARK ST,6621
+1062,O'Rourke's Office,,+1 773-381-2842,,"6649 N Clark St, Chicago, IL 60626-4016",N CLARK ST,6649
+1063,Bootleggers,,+1 773-743-7056,,"6661 N Clark St, Chicago, IL 60626-4016",N CLARK ST,6661
+1064,Tanoor Mediterranean and Mexican Grill,,+1 773-381-1638,http://www.elpueblitomexican.com/,"6712 N Clark St, Chicago, IL 60626-3211",N CLARK ST,6712
+1065,Perejil,,+1 773-282-8669,,"6801 W Addison St, Chicago, IL 60634-3702",W ADDISON ST,6801
+1066,Au Bon Pain,,+1 773-681-0220,http://www.facebook.com/El-Pecado-175320916738869/?ref=py_c,"6922 N Clark St, Chicago, IL 60626-3209",N CLARK ST,6922
+1067,Ghin Khao Eat Rice,,+1 773-764-9077,,"6963 N Clark St Ste 1, Chicago, IL 60626-3265",N CLARK ST,6963
+1068,"B-Smooth, Smoothies & Salads",,+1 773-274-1519,https://www.facebook.com/pages/Taqueria-Hernandez/116178398405792,"6983 N Clark St, Chicago, IL 60626-3222",N CLARK ST,6983
+1069,Subway,,+1 773-465-8590,,"7030 N Clark St, Chicago, IL 60626-2406",N CLARK ST,7030
+1070,Tuzco,2,+1 773-274-4555,http://www.rockystacosclarkst.com/,"7043 N Clark St, Chicago, IL 60626-2426",N CLARK ST,7043
+1071,Subway,,+1 773-465-0377,http://www.elfamousburrito.com/,"7047 N Clark St, Chicago, IL 60626-2426",N CLARK ST,7047
+1072,Hawaiian Bros.,2,+1 773-777-1000,http://www.handson.us,"7117 W Addison St, Chicago, IL 60634-3623",W ADDISON ST,7117
+1073,Pita Grill,,+1 773-761-8378,,"7124 N Clark St, Chicago, IL 60626-2408",N CLARK ST,7124
+1074,Pizza House No. 1647,,+1 773-973-0570,http://capnemos.com,"7367 N Clark St, Chicago, IL 60626-1603",N CLARK ST,7367
+1075,Atwood,2,+1 773-764-2200,http://ethiopiandiamondcuisine.com/,"7537 N Clark St, Chicago, IL 60626-1621",N CLARK ST,7537
+1076,Biagio,2,+1 773-568-5982,,"12253 S Halsted St, Chicago, IL 60628-6427",S HALSTED ST,12253
+1077,Best Sub #2,,+1 312-877-5705,https://www.subway.com/en-US?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=22195&utm_campaign=evergreen-2020&y_source=1_MTQ5MDk2OTYtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"180 N. Jefferson St., Chicago, IL 60661",N. JEFFERSON ST,180
+1078,Burger Mania,,+1 312-285-2964,http://azul18chicago.com,"1236 W 18th St., Chicago, IL 60608",W 18TH ST,1236
+1079,Great Taste House,,+1 312-204-6981,https://www.truefoodkitchen.com/chicago,"1 West Erie Street, Chicago, IL 60654",WEST ERIE ST,1
+1080,La Pizza & La Pasta,2,+1 312-917-3404,https://www.lockwoodrestaurant.com/?y_source=1_MTU0MDU0MTItNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"17 East Monroe Street, Chicago, IL 60603",EAST MONROE ST,17
+1081,The Green Olive,,+1 773-783-8709,https://restaurants.subway.com/united-states/il/chicago/53-w-79th-street?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=46584&utm_campaign=evergreen-2020&y_source=1_MTQ4OTQ5NzMtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"53 W. 79th Street, Chicago, IL 60620",W. 79TH ST,53
+1082,Yellowtail Sushi & Asian Kitchen,,+1 312-344-3670,https://www.motichicago.com/,"70 West Huron Street, Chicago, IL 60654",WEST HURON ST,70
+1083,Amore Pizza,,+1 312-236-6656,https://www.elephantcastle.com,"111 West Adams Street, Chicago, IL 60603",WEST ADAMS ST,111
+1084,Subway,,+1 312-902-1544,https://www.facebook.com/vinnyspizzabar/,"130 N Canal Street, Chicago, IL 60661",N CANAL ST,130
+1085,Casa Yari,2,+1 773-821-0875,https://locations.churchs.com/il/chicago/200-east-103rd-street,"200 East 103rd Street, Chicago, IL 60628",EAST 103RD ST,200
+1086,Roseland Food Plus,,+1 312-787-6100,https://www.hilton.com/en/hotels/chimmdt-doubletree-chicago-magnificent-mile/dining/?y_source=1_MTU0MDU0MTUtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"300 E. Ohio Street DoubleTree by Hilton Hotel Chicago - Magnificent Mile, Chicago, IL 60611",E. OHIO ST,300
+1087,Yummy Thai,2,+1 312-337-2304,https://locations.panerabread.com/il/chicago/400-west-division-street.html?utm_medium=yext&utm_source=local&utm_campaign=yext&utm_content=local-search,"400 West Division Street, Chicago, IL 60610",WEST DIVISION ST,400
+1088,The Capital Grille,4,+1 312-787-5464,,"436 N. New Street, Chicago, IL",N. NEW ST,436
+1089,Jibaritos Lincoln Park,,+1 773-341-9342,https://www.veggiegrill.com/,"629 North Wells Street, Chicago, IL 60654",NORTH WELLS ST,629
+1090,Maderos Latin Grill & Bar,,+1 773-561-4077,https://www.haiyenrestaurantchicago.com,"1055 West Argyle Street, Chicago, IL 60640",WEST ARGYLE ST,1055
+1091,Bingleys Restaurant,,+1 312-733-1411,https://www.barlouie.com/locations/us/il/chicago/university-village,"1325 South Halsted Street University Village, Chicago, IL 60607",SOUTH HALSTED ST,1325
+1092,7-Eleven,,+1 312-226-0811,https://restaurants.subway.com/united-states/il/chicago/1611-w-harrison-street?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=50044&utm_campaign=evergreen-2020&y_source=1_MTQ5MDcxOTctNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"1611 W. Harrison Street Retail #1/Suite 102, Chicago, IL 60612",W. HARRISON ST,1611
+1093,Sunrise Breakfast & Lunch Restaurant,2,+1 312-280-8990,http://kingcrabchicago.com/,"1816 North Halsted Street, Chicago, IL 60614",NORTH HALSTED ST,1816
+1094,Domino's Pizza,,+1 773-904-8897,,"1951 West Division Street, Chicago, IL 60622",WEST DIVISION ST,1951
+1095,George's Carryout,,+1 773-734-4658,https://restaurants.subway.com/united-states/il/chicago/2401-e-79th-street?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=46729&utm_campaign=evergreen-2020&y_source=1_MTQ4OTYzNTMtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"2401 E. 79th Street, Chicago, IL 60649",E. 79TH ST,2401
+1096,Church's Chicken,,+1 773-326-8536,https://locations.dunkindonuts.com/en/il/chicago/2801-w-division-street/346044?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=346044,"2801 W Division Street, Chicago, IL 60622",W DIVISION ST,2801
+1097,Taqueria Los Gallos,,+1 773-279-8800,https://restaurants.subway.com/united-states/il/chicago/3235-west-addison-street?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=39680&utm_campaign=evergreen-2020&y_source=1_MTQ4OTYyNDgtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"3235 West Addison Street Unit A, Chicago, IL 60618",WEST ADDISON ST,3235
+1098,Ruyi Sushi,2,+1 773-941-5625,https://mountgreenwood.firewatersaloonchicago.com,"3908 West 111th Street, Chicago, IL 60655",WEST 111TH ST,3908
+1099,Beef & Burger,,+1 773-522-5422,https://restaurants.subway.com/united-states/il/chicago/4032-w-26th-street?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=31388&utm_campaign=evergreen-2020&y_source=1_MTQ5MTMzMzEtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"4032 W 26th Street, Chicago, IL 60623",W 26TH ST,4032
+1100,Hong Kong Delight,,+1 773-944-0575,http://www.blufiftyseven.com,"5701 North Clark Street, Chicago, IL 60660",NORTH CLARK ST,5701
+1101,Ora Sushi,2,,,"6360 West Division Street, Chicago, IL 60651",WEST DIVISION ST,6360
+1102,Mariscos,,+1 312-795-3444,https://www.raisedbarchicago.com/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe&y_source=1_OTU4MDY2NS03NjktbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,"1 West Upper Wacker Drive In Renaissance Hotel on 3rd Floor, Chicago, IL 60601",WEST UPPER WACKER DR,1
+1103,Lil Parachute,,+1 773-784-7827,https://restaurants.subway.com/united-states/il/chicago/5324-n-broadway?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=2248&utm_campaign=evergreen-2020&y_source=1_MTQ5MTQzOTEtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D,"5324 N Broadway, Chicago, IL 60640",N BROAD WAY,5324
+1104,BopNgrill,1,,https://www.facebook.com/Whadda-Jerk-225975508145056/,"Chicago, IL",NAN NAN NAN,
+1105,La Pasadita,2,+1 312-335-3663,http://foodlifechicago.com,"Water Tower Place, Chicago, IL",NAN NAN NAN,
+1106,C & G Restaurant,1,,https://www.asweetsgirl.com/,"Chicago Downtown Michigan & Monroe, Chicago, IL 60616",NAN NAN NAN,
+1107,Pueblito Viejo,2,+1 773-686-8000,https://www3.hilton.com/en/hotels/illinois/hilton-chicago-ohare-airport-CHIOHHH/dining/index.html,"Hilton Chicago o'Hare Air Prt O' Hare International Airport, Chicago, IL 60666",NAN NAN NAN,
+1108,Pasta Palazzo,2,+1 773-974-2020,https://burgerking.com/store-locator/store/restaurant_88787,"O'hare Ave Departures - Terminal 5 M18, Chicago, IL 60666",NAN NAN NAN,
+1109,Little Caesars,,+1 773-686-6180,http://www.facebook.com/pages/Prairie%20Tap/100597083351309/,"O'Hare International Airport Terminal 3, Concourse K, Gate K-4, Chicago, IL 60666",NAN NAN NAN,
+1110,Cafe Ballou,1,+1 773-383-5443,http://www.puffsofdoom.squarespace.com,"The Streets of Chicago, Chicago, IL 60608",NAN NAN NAN,
