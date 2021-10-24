@@ -1,4 +1,4 @@
-DDL:
+DDL commands:
 ===============
 
 CREATE TABLE Restaurant(
@@ -48,9 +48,9 @@ ADDR_HIGH INT,
 add_name VARCHAR(256));
 
 
-two queries:
+Two Advanced Queries:
 =============
-question:"Write a sql query to find out the id of the user that the password starts with "a" and who made a comment in 2004"
+question1:"Write a sql query to find out the id of the user that the password starts with "a" and who made a comment in 2004"
 
 (SELECT 
     user_id
@@ -65,3 +65,12 @@ FROM
     review re ON us.User_id = re.User_id
 WHERE
     re.date LIKE '2004%')
+    
+    
+question2:
+
+select restaurant_id, name, count(restaurant_id)
+from Restaurant1 natural join class
+group by restaurant_id
+having count(restaurant_id) >=2
+order by count(restaurant_id) desc
