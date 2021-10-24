@@ -1,6 +1,6 @@
 Data tables:
 ============
-[park]https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/park.csv
+[park](https://github.com/uiuc-fa21-cs411/404-not-found/blob/main/park.csv)
 ![image](https://user-images.githubusercontent.com/32198970/138581294-3205a8f3-5679-4e70-a08b-4266e5b46e6a.png)
 
 
