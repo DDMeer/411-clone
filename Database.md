@@ -68,12 +68,7 @@ question1:select restuarant that the address of the restuarant has a park (same 
     
     
 question2:
-
-select restaurant_id, name, count(restaurant_id)
-from Restaurant1 natural join class
-group by restaurant_id
-having count(restaurant_id) >=2
-order by count(restaurant_id) desc
+Find restaurants with two or more categories
 ![image](https://user-images.githubusercontent.com/32198970/138580991-2368b4db-5646-4e28-b605-4a6cf3a76f9d.png)
 
 Indexing:
