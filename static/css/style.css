@@ -6,21 +6,21 @@ body{ margin:0 auto; padding:0; background:#fff;  color:#333; line-height:30px}
 .clearfix:after{ clear:both; content:''; display:block;}
 .main{ width:1100px; margin:0 auto}
 header b{ float:left}
-.logo{ margin-top:10px}
+.logo{ margin-top:11px}
 header{ background:#b7845a;  }
 .head span{ margin-top:15px}
 .head p{width:100%; margin:0;}
 header a{ font-weight:bold; color:#fff}
 h1,h2,h3{ margin:0; padding:0}
-header a{ font-size:18px; margin:17px 20px; display:inline-block}
+header a{ font-size:18px; margin:18px 21px; display:inline-block}
 .fl{ float:left}.fr{ float:right}
 .bg000{ background:rgba(255,255,255,.4); overflow:hidden;}
 .bar{ background:#cba48c; color:#fff ; padding:15px; font-size:18px; text-align:center}
 .imgtextlist  li{ margin:0; padding:20px 0; border:#eee solid 1px; list-style:none; float:left; text-align:center; width:181px;  margin-bottom:0}
 .imgtextlist img{  height:150px; max-width:100%}
 .div2 .fr div{ margin:5px 5px; font-size:14px;}
-.div2{ float:left;margin-top:20px; font-size:14px; width:280px;}
-.div4{ float:right;margin-top:20px; width:700px}.div7{ margin-top:20px; width:100%}
+.div2{ float:left;margin-top:21px; font-size:15px; width:280px;}
+.div4{ float:right;margin-top:21px; width:700px}.div7{ margin-top:21px; width:100%}
 footer{ text-align:center;  margin-top:20px; padding:10px 0; background:#b7845a; color:#fff}
 
 .imgtextlist li p{ font-size:16px; margin:0}
@@ -36,20 +36,20 @@ footer{ text-align:center;  margin-top:20px; padding:10px 0; background:#b7845a;
 .gou{  background:#CC9933; color:#fff; padding:10px 45px; font-size:18px;}
 .g1{ float:left; width:50%}
 .g2{ float:left; width:40%; margin-left:5%}
-.js div img{ float:left; margin-right:20px} 
+.js div img{ float:left; margin-right:22px} 
 .imgs li{ position:relative; list-style:none}
 .imgs li{ width:49%; float:left; height:170px; border:#ddd solid 1px;}
 .imgs li img{ float:left; margin:20px}
 .imgs li p{ font-size:18px; margin-top:40px}
-.bar2{ padding-bottom:20px}
-.bar2 h3{ border-left:#996633 solid 5px; padding-left:20px;}
+.bar2{ padding-bottom:19px}
+.bar2 h3{ border-left:#996633 solid 5px; padding-left:22px;}
 .lists li{ text-align:center; border-bottom:#ccc solid 1px;}
 
 .login{width: 1060px; height: auto; margin: 42px auto;}
 .login-left{ float:left; width:650px}
-.login .logoin-right{width: 360px; float:right; height: 510px; margin-bottom:50px; padding:27px; box-sizing: border-box; border: 1px solid #ddd; box-shadow: 0 0 15px #ccc;}
+.login .logoin-right{width: 360px; float:right; height: 511px; margin-bottom:50px; padding:26px; box-sizing: border-box; border: 1px solid #ddd; box-shadow: 0 0 15px #ccc;}
 .login .logoin-right p{ display: flex; justify-content: space-between; }
-.login .logoin-right p span{ color: #ff9348;}
+.login .logoin-right p span{ color: #ff1493;}
 .login .logoin-right dl dt{ padding: 15px 0 8px; }
 .login .logoin-right dl dd{ position: relative; margin:0 }
 .login .logoin-right dl dd input{width: 100%; height:35px; border: 1px solid #d8d8d8; text-indent: 10px; }
