@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% block head %}
+<meta charset="UTF-8">
+<title>Eat what</title>
+<link href="../static/css/style.css" type="text/css" rel="stylesheet" media="all">
+  <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+  <script src="../static/js/web.js"></script>
+    {% endblock %}
+</head>
+
+<body>
+<section class="main clearfix"><br>
+  <div class="bar2">
+    <h3>Restaurant Search</h3>
+  </div>
+    <form method="post" action="{{ url_for('searchR') }}">
+          <div class="login">
+            <div class="logoin-right">
+              <p><span>welcome to our website </span><a href="/">Log in</a><a href="create">join us!</a></p>
+              <dl>
+                <dt>name</dt>
+                <dd>
+                  <input type="text" name = "resName" id="resName" required>
+                </dd>
+                <dt>Number of Category</dt>
+                <dd>
+                  <input type="text" name = "catNum" id="catNum" value= 0 required>
+                </dd>
+                  <button type="submit" name="submit" id ='search'>Search</button>
+            </div>
+          </div>
+    </form>
+</section>
+{% block content %}
+{% endblock %}
+<footer> eat what</footer>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{% extends 'search.html' %}
+{% block content %}
+<div class="">
+      {% for r in restaurants %}
+      <p>{{ r.restaurant_id }}    {{ r.name }}</p>
+      <h4>{{ r.address }}</h4>
+    </li></a>
+      {% endfor %}
+</div>
+{% endblock %}
