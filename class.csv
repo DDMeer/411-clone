@@ -16,7 +16,6 @@ restaurant_id,class
 7,Mediterranean
 7,Greek
 7,Middle Eastern
-7,Greek
 8,Italian
 8,Pizza
 8,Vegetarian Friendly
@@ -43,7 +42,6 @@ restaurant_id,class
 17,American
 17,Bar
 17,Pub
-17,American
 18,Japanese
 18,Sushi
 18,Asian
@@ -354,7 +352,6 @@ restaurant_id,class
 136,Quick Bites
 136,American
 136,Bar
-137,American
 137,Contemporary
 137,Wine Bar
 137,American
@@ -517,7 +514,6 @@ restaurant_id,class
 199,American
 199,Bar
 199,Pub
-199,American
 200,Gastropub
 200,Gluten Free Options
 201,Chinese
@@ -545,7 +541,6 @@ restaurant_id,class
 210,Asian
 210,Szechuan
 211,Chinese
-211,American
 211,American
 212,American
 213,Italian
@@ -627,7 +622,6 @@ restaurant_id,class
 243,Halal
 244,American
 245,Italian
-246,American
 246,Diner
 246,American
 247,Mexican
