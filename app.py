@@ -1,8 +1,10 @@
 import math
 import sqlite3
+
 import mysql.connector
 import pandas as pd
-from flask import Flask, render_template, make_response
+import datetime
+from flask import Flask, session, render_template, make_response, flash
 from flask import redirect, request, jsonify, url_for
 from flask import stream_with_context, Response
 
@@ -10,13 +12,14 @@ row_limit = 1000
 app = Flask(__name__)
 
 mydb = mysql.connector.connect(
-        host="localhost",
-        user='tengjun2',
-        database = 'tengjun2_database',
-        password='Teng0707.'
-    )
-mycursor = mydb.cursor()
+    host="localhost",
+    user='ddmer',
+    database='ddmer_database',
+    password='%dbZvhSJa26%)'
 
+)
+mycursor = mydb.cursor()
+app.config["SECRET_KEY"] = "dfasdfasdge"
 
 @app.route('/', methods=['GET'])
 def index():
@@ -83,9 +86,62 @@ def searchR():
     for item in result:
         d =dict()
         d['name'] = item[1]
+        d['res_id'] = item[0]
         res.append(d)
     print(res)
     return render_template('searchR.html', restaurants=res)
+
+@app.route('/permission/<data1>')
+def permission(data1):
+    session["data1"] = data1
+    return render_template('search.html')
+
+
+@app.route('/user/<Account>')
+def user(Account):
+    sql = """select * from User where Account = """ + str(Account)
+    mycursor.execute(sql)
+    result = mycursor.fetchall()
+    user = []
+    for item in result:
+        d = dict()
+        d['Account'] = item[0]
+        d['name'] = item[1]
+        d['gender'] = item[2]
+        d['class'] = item[3]
+        user.append(d)
+    if user == []:
+        return False
+
+    sql2 = """select * from Review where Account = """ + str(Account)
+    mycursor.execute(sql2)
+    result = mycursor.fetchall()
+    review = []
+    for item in result:
+        d = dict()
+        d['review_id'] = item[0]
+        d['Account'] = item[1]
+        d['res_id'] = item[2]
+        d['date'] = item[3]
+        d['Text'] = item[4]
+        d['Rating'] = item[5]
+        review.append(d)
+    return render_template('user_extend.html', user = user, reviews = review)
+
+@app.route('/restaurant/add_comment/<data>', methods=['GET', 'POST'])
+def add_comment(data):
+    if request.method == 'POST':
+        if session.get("data1") is None:
+            return "<script>alert('Not logged in, you can comment after logging in！');window.location.href='/'</script>"
+        text = request.form.get('text')
+        rating = request.form.get('rating')
+        date = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        sql = """INSERT INTO Review(Account,business_id,date,Text,Rating) VALUES(%s,%s,%s,%s,%s)"""
+        record = [(session.get("data1"), data, date, text, rating)]
+        mycursor.executemany(sql, record)
+        mydb.commit()
+        print(1)
+        return "<script>alert('successfully revised！');window.location.href='/restaurant/"+data+"'</script>"
 
 @app.route('/query', methods=['POST'])
 def search_query():
@@ -104,7 +160,6 @@ def search_query():
         [make_valid(value) for value in df[col]]
         for col in df.columns
     ]
-
     response = {
         "query_string": sql,
         "data": {
@@ -122,7 +177,6 @@ def search_query():
 def insert_query():
     account = request.form['account']
     pwd = request.form['pwd']
-    delete_query = 'DELETE FROM User WHERE User_id = 12345'
     sql = """SELECT count(*) from User"""
     mycursor.execute(sql)
     result = mycursor.fetchall()
@@ -131,8 +185,8 @@ def insert_query():
             "values": result
         }
     }
-    sql = """INSERT INTO User(User_id, User_Name, Gender, Favoriate_food, Account, Password) VALUES(%s,%s,%s,%s,%s,%s)"""
-    record = [(result[0][0], 'unknown', 'unknown', 'unknown', account, pwd)]
+    sql = """INSERT INTO User(Account, User_Name, Gender, Favoriate_class, Password) VALUES(%s,%s,%s,%s,%s)"""
+    record = [(account, 'unknown', 'unknown', 'unknown', pwd)]
     mycursor.executemany(sql, record)
     mydb.commit()
     return response
@@ -204,4 +258,5 @@ def park_query():
     print(response)
     return response
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=10055, use_debugger=True, use_reloader=True)
+    app.run(host='0.0.0.0', port=10051, use_debugger=True, use_reloader=True)
+
