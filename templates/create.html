@@ -3,9 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <title>eat what</title>
-    <link href="../css/style.css" type="text/css" rel="stylesheet" media="all">
+<link href="../css/style.css" type="text/css" rel="stylesheet" media="all">
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="../static/js/web.js"></script>
+
+
+</style>
+
 </head>
 <body>
 
@@ -20,12 +24,102 @@
         <dd>
           <input type="text" name="Account" id = "createAccount" required>
         </dd>
+
+        <dt>User name</dt>
+        <dd>
+          <input type="text" name="User_Name" id = "User_Name" required>
+        </dd>
+
+        <dt>Gender</dt>
+        <select name="Gender" id = "Gender">
+          <option value="male" selected>male</option>
+          <option value="female">female</option>
+          <option value="brand">brand</option>
+          <option value="unknown">unknown</option>
+        </select>
+
+        <dt>Favoriate class</dt>
+          <select name="Favoriate_class" id = "Favoriate_class">
+          <option value="American" selected>American</option>
+          <option value="Arabic">Arabic</option>
+          <option value="Argentinean">Argentinean</option>
+          <option value="Asian">Asian</option>
+          <option value="Bar">Bar</option>
+          <option value="Barbecue">Barbecue</option>
+          <option value="Brew Pub">Brew Pub</option>
+          <option value="Cafe">Cafe</option>
+          <option value="Cajun_Creole">Cajun_Creole</option>
+          <option value="Caribbean">Caribbean</option>
+          <option value="Chinese">Chinese</option>
+          <option value="Contemporary">Contemporary</option>
+          <option value="Cuban">Cuban</option>
+          <option value="Deli">Deli</option>
+          <option value="Dinner">Dinner</option>
+          <option value="Eastern European">Eastern European</option>
+          <option value="European">European</option>
+          <option value="Fast food">Fast food</option>
+          <option value="Filipino">Filipino</option>
+          <option value="French">French</option>
+          <option value="Fusion">Fusion</option>
+          <option value="Gastropub">Gastropub</option>
+          <option value="Georgian">Georgian</option>
+          <option value="Gluten Free Options">Gluten Free Options</option>
+          <option value="Greek">Greek</option>
+          <option value="Grill">Grill</option>
+         <option value="Halal">Halal</option>
+            <option value="Hawaiian">Hawaiian</option>
+            <option value="Healthy">Healthy</option>
+            <option value="Hong kong">Hong kong</option>
+            <option value="Indian">Indian</option>
+            <option value="Indonesia">Indonesia</option>
+            <option value="International">International</option>
+            <option value="Irish">Irish</option>
+            <option value="Israeli">Israeli</option>
+            <option value="Italian">Italiann</option>
+            <option value="Jamaican">Jamaican</option>
+            <option value="Japanese">Japanese</option>
+            <option value="Korean">Korean</option>
+            <option value="Italian">Italian</option>
+            <option value="Latin">Latin</option>
+            <option value="Lebanese">Lebanese</option>
+            <option value="Mediterranean">Mediterranean</option>
+            <option value="Mexican">Mexican</option>
+            <option value="Middle Eastern">Middle Eastern</option>
+            <option value="Moroccan">Moroccan</option>
+            <option value="Pakistani">Pakistani</option>
+            <option value="Peruvian">Peruvian</option>
+            <option value="Pizza">Pizza</option>
+            <option value="Polish">Polish</option>
+            <option value="Pub">Pub</option>
+            <option value="Puerto Rican">Puerto Rican</option>
+            <option value="Quick Bites">Quick Bites</option>
+            <option value="Seafood">Seafood</option>
+            <option value="Soups">Soups</option>
+            <option value="South American">South American</option>
+            <option value="Southwestern">Southwestern</option>
+            <option value="Spanish">Spanish</option>
+            <option value="Steakhouse">Steakhouse</option>
+            <option value="Street Food">Street Food</option>
+            <option value="Sushi">Sushi</option>
+            <option value="Szechuan">Szechuan</option>
+            <option value="Taiwanese">Taiwanese</option>
+            <option value="Thai">Thai</option>
+            <option value="Turkish">Turkish</option>
+            <option value="Vegan Options">Vegan Options</option>
+            <option value="Vegetarian Friendly">Vegetarian Friendly</option>
+            <option value="Vietnamese">Vietnamese</option>
+            <option value="Wine Bar">Wine Bar</option>
+
+
+     </select>
+
+
         <dt>password</dt>
         <dd>
           <input type="password" id="createPassword" name="password" required>
           </dd>
 
-		  <dt>confirm password</dt>
+    <dt>confirm password</dt>
         <dd>
           <input type="password" id="confirmPassword" name="confirmpwd" required>
         </dd>
