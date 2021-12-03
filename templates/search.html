@@ -15,18 +15,16 @@
   <div class="bar2">
     <h3>Restaurant Search</h3>
   </div>
+    Current login account：{{ session['data1'] }}
+  <div><a href="http://20.88.14.242:10051/user/{{ session['data1'] }}">My Homepage</a></div>
     <form method="post" action="{{ url_for('searchR') }}">
           <div class="login">
             <div class="logoin-right">
-              <p><span>welcome to our website </span><a href="/">Log in</a><a href="create">join us!</a></p>
+              <p><span>welcome to our website </span></p>
               <dl>
                 <dt>name</dt>
                 <dd>
                   <input type="text" name = "resName" id="resName" required>
-                </dd>
-                <dt>Number of Category</dt>
-                <dd>
-                  <input type="text" name = "catNum" id="catNum" value= 0 required>
                 </dd>
                   <button type="submit" name="submit" id ='search'>Search</button>
             </div>
