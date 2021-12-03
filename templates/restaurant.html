@@ -44,23 +44,29 @@
 </head>
 
 <body>
+<div><a href="http://20.88.14.242:10051/search">Return to Search</a></div>
 <div class="">
       {% for r in restaurants %}
     <div align="center" style="font-size: 30px">{{ r.name }}</div>
         <div>Price: {{r.price}}</div><br/>
         <div>Phone: {{r.phoneNumber}}</div><br/>
-         <div>Website: {{r.website}}</div><br/>
-          <div>Address: {{ r.address }}</div>
+        <div>Website: <a href="{{r.website}}">{{r.website}}</a>></div><br/>
+        <div>Address: {{ r.address }}</div>
         <button onclick="parkFunction('{{r.res_id}}')">Check Park</button>
+            <form method="post" action="add_comment/{{r.res_id}}">
+          Add comments：<textarea rows="3" cols="80" name="text"></textarea>
+                star：<input type="number" name="rating" required>
+              <button type="submit" name="submit">submit</button>
+            </form>
       {% endfor %}
 </div><br/><br/>
 
 <div align="center" style="font-size: 22px"> Review </div><br/><br/>
 <div class="">
       {% for r in reviews %}
-    <div>User_id: {{ r.User_id }}    Time: {{r.date}}      Rating: {{r.Rating}}</div><br/>
+    <div>User_Name: {{ r.User_name }}    Time: {{r.date}}      Rating: {{r.Rating}}</div><br/>
          <div>Text: {{r.Text}}</div><br/>
-        <button onclick="myFunction('{{r.review_id}}')">Delete</button>
+<!--        <button onclick="myFunction('{{r.review_id}}')">Delete</button>-->
       {% endfor %}
 </div>
 
