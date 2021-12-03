@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% block head %}
+<meta charset="UTF-8">
+<title>Eat what</title>
+
+<link href="../static/css/style.css" type="text/css" rel="stylesheet" media="all">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.4.2.min.js"></script>
+  <script src="../static/js/web.js"></script>
+    <script>
+    function myFunction(id) {
+        $.post("/delete", {id: id},
+            function (data, status) {
+                location.reload();
+            }, 'json')
+    }
+
+    function callFunction(id) {
+        result_table = document.getElementById('result-tab')
+        $.post("/call", {id: id},
+            function (data, status) {
+            result_data = data['data']
+            var res = [{
+                type: 'table',
+                header: {
+                  values: result_data['labels'],
+                  line: {width: 1, color: 'black'},
+                  fill: {color: "grey"},
+                  font: {family: "Arial", size: 12, color: "white"}
+                },
+                cells: {
+                  values: result_data['values'],
+                  line: {color: "black", width: 1},
+                }
+            }];
+            Plotly.newPlot(result_table, res);
+            }, 'json')
+    }
+
+    </script>
+    {% endblock %}
+</head>
+
+<body>
+<div class="">
+      {% for r in user %}
+    <div align="center" style="font-size: 30px">{{ r.name }}'s Homepage</div>
+    <div ><a href="http://20.88.14.242:10051/search">Search</a></div>
+        <div>Gender: {{r.gender}}</div><br/>
+        <div>Favorite_class: {{r.class}}</div><br/>
+    <button onclick="callFunction('{{r.Account}}')">Search Friend</button>
+      {% endfor %}
+</div><br/><br/>
+
+<div align="center" style="font-size: 22px"> Review </div><br/><br/>
+<div class="">
+      {% for r in reviews %}
+    <div>Restaurant: {{ r.name }}  Time: {{r.date}}      Rating: {{r.Rating}}</div><br/>
+         <div>Text: {{r.Text}}</div><br/>
+        <button onclick="myFunction('{{r.review_id}}')">Delete</button>
+      {% endfor %}
+</div>
+
+{% block content %}
+{% endblock %}
+
+<footer> eat what</footer>
+</body>
+</html>
