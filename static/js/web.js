@@ -6,9 +6,11 @@ $( document ).ready(function() {
         query_string = 'select Password from User where Account = '+ "'"+ account+"'"
         $.post("/query",{query_string: query_string},
             function(data, status){
-            returnPwd = data['data']['values']
+            returnPwd = data['data']['values'][0]
+            // returnUser_id = data['data']['values'][1]
             if(returnPwd == pwd){
                 alert('Login Successfully')
+                 window.location.href="/permission/"+account ///+"/"+returnUser_id
             }else {
                 alert('Incorrect Account or Passsword')
             }
@@ -22,12 +24,12 @@ $( document ).ready(function() {
     })
 
 
-    create =function (account, pwd, conPwd){
+    create =function (account,fav_class,gender,name, pwd, conPwd){
         if (pwd != conPwd){
             alert("Input different password")
             return False
         }
-        $.post("/insert",{account: account, pwd:pwd},
+        $.post("/insert",{account: account, pwd:pwd, fav_class:fav_class, gender:gender,name:name},
             function(data, status){
                 alert('Success')
         }, 'json')
@@ -35,9 +37,12 @@ $( document ).ready(function() {
 
     $("#create").click(function () {
         var account = $("#createAccount").val();
+        var fav_class = $("#Favoriate_class").val();
+        var gender = $("#Gender").val();
+        var name = $("#User_Name").val();
         var pwd = $("#createPassword").val();
         var conPwd = $('#confirmPassword').val();
-        create(account, pwd, conPwd);
+        create(account,fav_class,gender,name, pwd, conPwd);
 
     })
 
@@ -73,10 +78,16 @@ $( document ).ready(function() {
         change(account, pwd, newPwd, cnewPwd)
     })
     
-    //
-    // $("#search").click(function () {
-    //     var resName = $("#resName").val();
-    //     $.post("/searchR",{name: resName},
+
+    $("#twosearch").click(function () {
+        var resName = $("#resName").val();
+        $.post("/two",{name: resName},
+            function(data, status){
+        },'json')
+    })
+
+    // $("#call").click(function () {
+    //     $.post("/call",{id:112233},
     //         function(data, status){
     //     },'json')
     // })
