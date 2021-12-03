@@ -1,9 +1,13 @@
 {% extends 'search.html' %}
 {% block content %}
+
+<iframe width="415" scrolling="no" height="50" frameborder="0" allowtransparency="true" src="https://i.tianqi.com?c=code&id=12&icon=1&num=3&site=12"></iframe>
+
 <div class="">
       {% for r in restaurants %}
-      <p>{{ r.restaurant_id }}    {{ r.name }}</p>
-      <h4>{{ r.address }}</h4>
+    <a href="restaurant/{{ r.res_id }}"><li>
+      <p> {{ r.name }}</p>
+      <h4 style="border:orange; border-width:2px; border-style:solid;" >{{ r.address }}</h4>
     </li></a>
       {% endfor %}
 </div>
